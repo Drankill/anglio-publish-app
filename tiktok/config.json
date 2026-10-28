@@ -1,0 +1,37 @@
+{
+  "compte_tiktok": "",
+  "_compte_tiktok": "identifiant du canal TikTok dans Buffer (python machine/publier.py --lister-canaux). Vide = le seul canal TikTok connecté ; s'il y en a plusieurs, la publication s'arrête et demande de choisir.",
+  "publication": "auto",
+  "_publication": "auto = Buffer publie seul, comme DeckFinance (choix de Duarte du 2026-10-28, après l'échec du mode brouillon) ; brouillon = notification Buffer, exige l'appli Buffer sur le téléphone ; api = brouillon dans l'inbox TikTok (tiktok_api.py, bloqué : app TikTok en sandbox, @yohan.anglio pas target user, préfixe d'URL à vérifier).",
+  "nuage": true,
+  "_nuage": "true = la file Buffer est tenue depuis GitHub Actions (dépôt relais Drankill/anglio-publish-app, tiktok/), PC éteint ou non ; le PC ne fait qu'y envoyer le stock (nuage.py). Décision de Duarte du 2026-10-28. false = l'ancien fonctionnement (le PC programme lui-même).",
+  "heures_paris": [
+    "09:00",
+    "12:00",
+    "15:00",
+    "18:00",
+    "21:00"
+  ],
+  "_heures": "5 posts par jour, demande de Duarte du 2026-10-28 au soir (3 avant). DeckFinance avait vu 3/jour faire baisser chaque post : à surveiller dans ANALYSE.md.",
+  "file": 10,
+  "_file": "posts gardés en attente dans Buffer (10 = plafond du plan gratuit par canal, soit 2 jours à 5/jour) ; la file est recomplétée toutes les 3 h par GitHub Actions (nuage)",
+  "posts_par_cycle": 35,
+  "part_eprouves": 0.6,
+  "_part_eprouves": "60 % de formats qui ont fait leurs preuves (chez nous, sinon chez les autres d'après la veille), 40 % de nouveautés. Décision de Duarte du 2026-10-28.",
+  "styles": {
+    "985": "DA des carrousels « 985 » du 27 oct. (gen.py) : la seule"
+  },
+  "_styles": "une seule DA, imposée par Duarte le 2026-10-28 ; les variations portent sur l'accroche et le format, jamais sur le visuel",
+  "stock_min_jours": 7,
+  "_stock_min_jours": "un cycle de production se lance quand la réserve (file Buffer + stock) passe sous ce nombre de jours ; un cycle en ajoute 7 (35 posts) : on garde entre 1 et 2 semaines d'avance, donc 1 à 2 semaines PC éteint sans trou",
+  "analyse": {
+    "age_min_heures": 72,
+    "n_min_decision": 4,
+    "n_max_test": 8,
+    "seuil_gagnant": 0.15,
+    "seuil_abandon": -0.3,
+    "n_min_compte": 10
+  },
+  "_analyse": "un post n'est jugé qu'à 72 h. Un format en test est tranché à 4 posts s'il est net, sinon à 8 : au-dessus de 0 il gagne, en dessous il sort. Score = moyenne de log(vues / médiane du compte) et log(taux d'engagement / médiane du compte) ; 0 = le compte moyen, +0,15 = environ 16 % mieux.",
+  "claude": "%USERPROFILE%\\.local\\bin\\claude.exe"
+}

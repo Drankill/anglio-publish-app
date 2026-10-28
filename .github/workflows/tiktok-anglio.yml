@@ -1,0 +1,66 @@
+# File Buffer de la machine TikTok ANGLIO, tenue sans le PC de Duarte.
+# Toutes les 3 h (et à chaque envoi de stock depuis le PC), complète la file
+# Buffer jusqu'à 10 posts avec le stock de tiktok/sorties/, relance les posts
+# refusés, retire les images des posts partis, enregistre tiktok/PUBLIES.json.
+#
+# Source : anglio/marketing/tiktok/machine/github/tiktok-anglio.yml, recopié
+# ici par nuage.py avec le code de tiktok/. Ne rien modifier dans ce dépôt :
+# le prochain envoi depuis le PC l'écraserait.
+name: TikTok ANGLIO - file Buffer
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  push:
+    branches: [master]
+    paths: ["tiktok/**"]
+  workflow_dispatch:
+
+concurrency:
+  group: tiktok-anglio
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  file:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: Europe/Paris
+      MACHINE_NUAGE: "1"
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet requests
+
+      - name: Posts refusés par Buffer remis en stock
+        run: python tiktok/publier.py --relancer-erreurs
+        continue-on-error: true
+
+      - name: File Buffer complétée
+        run: python tiktok/publier.py
+
+      - name: Images des posts partis retirées
+        if: always()
+        run: python tiktok/publier.py --nettoyer
+        continue-on-error: true
+
+      - name: Registre enregistré
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add -A tiktok relay
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "tiktok : file Buffer et registre (GitHub Actions)"
+          for i in 1 2 3; do
+            git pull --rebase origin master && git push origin HEAD:master && exit 0
+            sleep 10
+          done
+          exit 1

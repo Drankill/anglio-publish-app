@@ -1,0 +1,151 @@
+[
+  {
+    "slug": "2026-10-28-01-liste50-recrutement",
+    "post_id": "6ae21b58f835de4f325690e1",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-28 16:57",
+    "due_at": "2026-10-28T15:57:22.000Z",
+    "mode": "auto",
+    "format": "liste-50-mots",
+    "style": "985",
+    "seau": "eprouve",
+    "relais": [
+      "tk-ff3cd1a29f62470396b89f9e5c3757a0.png",
+      "tk-a0955d26a3eb48b2b55c0bca6a1e53ea.png",
+      "tk-9afa3c1652914224ba12a5455db8a161.png",
+      "tk-aa3393470c6945eca4b2150c5ea63660.png",
+      "tk-16f53b133e7044b6b0bf53a54a4b3ce4.png",
+      "tk-b3e30e2c2dff4caba18976dc6440837f.png",
+      "tk-24fbde6a6358459194a721d5d85fcf98.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-02-phrases-erreurs-francais",
+    "post_id": "6ae21b674785904534fba982",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-28 19:00",
+    "due_at": "2026-10-28T18:00:00.000Z",
+    "mode": "auto",
+    "format": "phrase-fausse-phrase-juste",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tk-d3da68acae91409699ca83b6824d3bb2.png",
+      "tk-af5df01ee33943e2a1720a1206cc4e32.png",
+      "tk-92a635e22c8a47fa83eb45f6707d8800.png",
+      "tk-decf1658cdc44d328de181d4e4c1b70a.png",
+      "tk-26d2915ac5c149e5b6928805156ee98c.png",
+      "tk-eca6dd04a6f84a4c9eaef9d7c12d4fdc.png",
+      "tk-4e28d7d73cbd44c2858e1bb67db91964.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-03-liste50-voyage-affaires",
+    "post_id": "6ae21b6bad320a6d07f38938",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-29 12:00",
+    "due_at": "2026-10-29T11:00:00.000Z",
+    "mode": "auto",
+    "format": "liste-50-mots",
+    "style": "985",
+    "seau": "eprouve",
+    "relais": [
+      "tk-2fc333083c48465996e92aff1dd4b9b6.png",
+      "tk-3fa2d39c6fab425a9db7837ddab5e590.png",
+      "tk-7949eba7a255427b8e4f7fc9a9e8093b.png",
+      "tk-cf08a794e47e488c85d5e6c5c8d3285f.png",
+      "tk-57e2e6e8a3f0450983bf0ef1b05b2357.png",
+      "tk-d9ae6266a84b4002af9b7a2c9d89c5ec.png",
+      "tk-e92a4738dced439a8dc11f6f83190f2f.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-04-prononciation-mots-pro",
+    "post_id": "6ae21b701d398031838dc1f5",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-29 15:00",
+    "due_at": "2026-10-29T14:00:00.000Z",
+    "mode": "auto",
+    "format": "mots-mal-prononces",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tk-2aea875539654f6ca67ac16f79025ff0.png",
+      "tk-4c25d35ce4974666b50f63dae46ef561.png",
+      "tk-cbbf6483fc174cfc9065fe2a21bafd29.png",
+      "tk-5e6abcc8d6c3424b92bfb839ae257179.png",
+      "tk-085e97b7f40441d788db97a0b58ff816.png",
+      "tk-9a9f681871f54f34b58260490082f540.png",
+      "tk-0e45a9ea632f4b92be7d739975a51cc9.png",
+      "tk-69bee2bb712a42b0abbe918b4fe876c2.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-05-liste50-logistique",
+    "post_id": "6ae21b74e490badbade729da",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-29 19:00",
+    "due_at": "2026-10-29T18:00:00.000Z",
+    "mode": "auto",
+    "format": "liste-50-mots",
+    "style": "985",
+    "seau": "eprouve",
+    "relais": [
+      "tk-156c0965b91642dfbdac3196b1a566cf.png",
+      "tk-81124986ce5f456481a064ebb0e5ac2f.png",
+      "tk-bb5060994715465dbcc1babc60cb7e5a.png",
+      "tk-d97c66c8a30f499b844efc600a507cc4.png",
+      "tk-be6d0ffbfa3843ada4b6387ecb145906.png",
+      "tk-b3d8d85310944843bc3a9ba66c84dbb6.png",
+      "tk-00dabfafd9c44e0ea9999cb261350658.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-06-conseils-score-niveau",
+    "post_id": "6ae21b78ad320a6d07f38c9c",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-30 12:00",
+    "due_at": "2026-10-30T11:00:00.000Z",
+    "mode": "auto",
+    "format": "conseils-jour-j",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tk-b2d444b210cb46da8f15fa979e6a980d.png",
+      "tk-bbc0baa2296f44e5ae14f4595dacce37.png",
+      "tk-520bedbd040841c68e7a7101ffb271d5.png",
+      "tk-e94fbabfdd214f00bdd75de7cc075bef.png",
+      "tk-a33e5f3bf6ca4461833f85136cc229f4.png",
+      "tk-890f28ca249c4a5e9b5b8f214030b0a7.png",
+      "tk-0ae6c3b5ad6d432c9f5f9ffd5596389b.png",
+      "tk-3e73f38bf1da479d8c9bbf125da165eb.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-07-liste50-informatique",
+    "post_id": "6ae21b7ce490badbade72ad9",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-30 15:00",
+    "due_at": "2026-10-30T14:00:00.000Z",
+    "mode": "auto",
+    "format": "liste-50-mots",
+    "style": "985",
+    "seau": "eprouve",
+    "relais": [
+      "tk-4d6fdf39ffb54d568ec8105027e06847.png",
+      "tk-7922b235d71e4ed6900f1638336dc2ba.png",
+      "tk-0b2ad573fa6340fca043a677bfbb2e2b.png",
+      "tk-6986a1c8bcb547978b30edf141192408.png",
+      "tk-d25886b4ce9f4c2ead5bd7ff06d3a047.png",
+      "tk-76fc3f00691d4f50b92b8006057a0139.png",
+      "tk-04bd771aae0e452ea69eb21351d10393.png"
+    ],
+    "nettoye": false
+  }
+]
