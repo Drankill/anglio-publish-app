@@ -32,12 +32,20 @@ jobs:
       MACHINE_NUAGE: "1"
       BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
       PYTHONIOENCODING: utf-8
+      PYTHONDONTWRITEBYTECODE: "1"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install --quiet requests
+
+      - name: Clé Buffer présente
+        run: |
+          if [ -z "$BUFFER_API_KEY" ]; then
+            echo "::error::Secret BUFFER_API_KEY absent : Settings > Secrets and variables > Actions (clé API Buffer du compte angliofr@gmail.com)."
+            exit 1
+          fi
 
       - name: Posts refusés par Buffer remis en stock
         run: python tiktok/publier.py --relancer-erreurs
