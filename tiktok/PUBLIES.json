@@ -18,7 +18,7 @@
       "tk-b3e30e2c2dff4caba18976dc6440837f.png",
       "tk-24fbde6a6358459194a721d5d85fcf98.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-02-phrases-erreurs-francais",
@@ -39,7 +39,7 @@
       "tk-eca6dd04a6f84a4c9eaef9d7c12d4fdc.png",
       "tk-4e28d7d73cbd44c2858e1bb67db91964.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-08-quiz-conditionnel-every-past-perfect",
@@ -293,6 +293,88 @@
       "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/05.png",
       "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/06.png",
       "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/07.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-15-prononciation-lettres-muettes",
+    "post_id": "6ae3aab6594ba0e4c8936a05",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-31 12:00",
+    "due_at": "2026-10-31T11:00:00.000Z",
+    "mode": "auto",
+    "format": "mots-mal-prononces",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-15-prononciation-lettres-muettes/png/01.png",
+      "tiktok/sorties/2026-10-28-15-prononciation-lettres-muettes/png/02.png",
+      "tiktok/sorties/2026-10-28-15-prononciation-lettres-muettes/png/03.png",
+      "tiktok/sorties/2026-10-28-15-prononciation-lettres-muettes/png/04.png",
+      "tiktok/sorties/2026-10-28-15-prononciation-lettres-muettes/png/05.png",
+      "tiktok/sorties/2026-10-28-15-prononciation-lettres-muettes/png/06.png",
+      "tiktok/sorties/2026-10-28-15-prononciation-lettres-muettes/png/07.png",
+      "tiktok/sorties/2026-10-28-15-prononciation-lettres-muettes/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-16-quiz-already-modal-neither",
+    "post_id": "6ae3aab7f473cae772d96829",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-31 15:00",
+    "due_at": "2026-10-31T14:00:00.000Z",
+    "mode": "auto",
+    "format": "quiz-3-questions",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/01.png",
+      "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/02.png",
+      "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/03.png",
+      "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/04.png",
+      "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/05.png",
+      "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/06.png",
+      "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/07.png",
+      "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-17-pieges-quantites",
+    "post_id": "6ae3aab7f473cae772d968a6",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-31 18:00",
+    "due_at": "2026-10-31T17:00:00.000Z",
+    "mode": "auto",
+    "format": "pieges-grammaire",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/01.png",
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/02.png",
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/03.png",
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/04.png",
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/05.png",
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/06.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-18-liste20-expressions-bureau",
+    "post_id": "6ae3aab83e03e4917a7bd527",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-31 21:00",
+    "due_at": "2026-10-31T20:00:00.000Z",
+    "mode": "auto",
+    "format": "collocations-20",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-18-liste20-expressions-bureau/png/01.png",
+      "tiktok/sorties/2026-10-28-18-liste20-expressions-bureau/png/02.png",
+      "tiktok/sorties/2026-10-28-18-liste20-expressions-bureau/png/03.png",
+      "tiktok/sorties/2026-10-28-18-liste20-expressions-bureau/png/04.png"
     ],
     "nettoye": false
   }
