@@ -252,5 +252,48 @@
       "tiktok/sorties/2026-10-28-12-quiz-such-any-told/png/08.png"
     ],
     "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-13-conseils-inscription",
+    "post_id": "6ae345f45360c23809813816",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-30 21:00",
+    "due_at": "2026-10-30T20:00:00.000Z",
+    "mode": "auto",
+    "format": "conseils-jour-j",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-13-conseils-inscription/png/01.png",
+      "tiktok/sorties/2026-10-28-13-conseils-inscription/png/02.png",
+      "tiktok/sorties/2026-10-28-13-conseils-inscription/png/03.png",
+      "tiktok/sorties/2026-10-28-13-conseils-inscription/png/04.png",
+      "tiktok/sorties/2026-10-28-13-conseils-inscription/png/05.png",
+      "tiktok/sorties/2026-10-28-13-conseils-inscription/png/06.png",
+      "tiktok/sorties/2026-10-28-13-conseils-inscription/png/07.png",
+      "tiktok/sorties/2026-10-28-13-conseils-inscription/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-14-faux-amis-bureau",
+    "post_id": "6ae345f5c5b02777fe9785d4",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-10-31 09:00",
+    "due_at": "2026-10-31T08:00:00.000Z",
+    "mode": "auto",
+    "format": "faux-amis-5",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/01.png",
+      "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/02.png",
+      "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/03.png",
+      "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/04.png",
+      "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/05.png",
+      "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/06.png",
+      "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/07.png"
+    ],
+    "nettoye": false
   }
 ]
