@@ -1,0 +1,20 @@
+{
+  "format": "faux-amis-5",
+  "theme": "faux amis du bureau",
+  "seau": "nouveau",
+  "hypothese": "Le carrousel faux amis, validé le 27 oct., tient-il avec 5 nouveaux mots du bureau ?",
+  "titre_tiktok": "5 faux amis du TOEIC au bureau : issue, figure, support…",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-29T00:01",
+  "diapos": 7,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:46",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

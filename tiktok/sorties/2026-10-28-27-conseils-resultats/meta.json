@@ -1,0 +1,20 @@
+{
+  "format": "conseils-jour-j",
+  "theme": "les résultats du TOEIC (délai, compte, validité, attestation)",
+  "seau": "nouveau",
+  "hypothese": "Les résultats (délai, validité) intéressent-ils aussi ceux qui ont déjà passé le test ?",
+  "titre_tiktok": "Résultat du TOEIC : délai, où le trouver, validité 2 ans (mes 6 repères)",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-28T23:58",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:46",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

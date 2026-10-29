@@ -1,0 +1,20 @@
+{
+  "format": "quiz-3-questions",
+  "theme": "quiz Part 5 : as soon as, superlatif, prétérit",
+  "seau": "nouveau",
+  "hypothese": "Le quiz qui demande un score en commentaire fait-il plus de commentaires que nos listes ?",
+  "titre_tiktok": "Part 5 du TOEIC : 3 questions, tu as les 3 ? (as soon as, superlatif, prétérit)",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-28T23:58",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:46",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

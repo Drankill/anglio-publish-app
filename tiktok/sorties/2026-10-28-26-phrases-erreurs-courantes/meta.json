@@ -1,0 +1,20 @@
+{
+  "format": "phrase-fausse-phrase-juste",
+  "theme": "erreurs courantes des francophones (hard, did, thank you for, married to, tags)",
+  "seau": "nouveau",
+  "hypothese": "Troisième post du format : la reconnaissance (« c'est moi ») tient-elle sur des erreurs du quotidien ?",
+  "titre_tiktok": "5 phrases d'anglais que les Français disent mal au quotidien (TOEIC)",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-29T07:48",
+  "diapos": 7,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:51",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

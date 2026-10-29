@@ -1,0 +1,20 @@
+{
+  "format": "conseils-jour-j",
+  "theme": "le déroulé du TOEIC (parties, durée, questions)",
+  "seau": "nouveau",
+  "hypothese": "« Comment ça se passe ? » (requête à 5 000/mois côté SEO) fait-il des vues sur TikTok ?",
+  "titre_tiktok": "Comment se passe le TOEIC ? 200 questions, 7 parties, 2 heures",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-28T23:58",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:46",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

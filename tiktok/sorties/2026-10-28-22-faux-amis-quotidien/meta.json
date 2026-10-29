@@ -1,0 +1,20 @@
+{
+  "format": "faux-amis-5",
+  "theme": "faux amis du quotidien",
+  "seau": "nouveau",
+  "hypothese": "Des faux amis du quotidien (pas seulement du bureau) élargissent-ils la portée du format ?",
+  "titre_tiktok": "5 faux amis anglais qu'on croit connaître : location, library…",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-28T23:58",
+  "diapos": 7,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:46",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

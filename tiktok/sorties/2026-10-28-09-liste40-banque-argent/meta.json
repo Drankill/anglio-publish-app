@@ -1,0 +1,20 @@
+{
+  "format": "liste-50-mots",
+  "theme": "banque, compta et assurance",
+  "seau": "eprouve",
+  "hypothese": "Une liste de 40 (réserve trop courte pour 50) sur l'argent tient-elle aussi bien que les listes de 50 ?",
+  "titre_tiktok": "40 mots du TOEIC : la banque, la compta et l'assurance",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-29T00:00",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:46",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

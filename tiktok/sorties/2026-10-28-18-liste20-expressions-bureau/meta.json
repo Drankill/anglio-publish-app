@@ -1,0 +1,20 @@
+{
+  "format": "collocations-20",
+  "theme": "collocations du travail",
+  "seau": "nouveau",
+  "hypothese": "Une liste courte (20, 2 diapos) d'expressions toutes faites s'enregistre-t-elle autant qu'une liste longue de mots ?",
+  "titre_tiktok": "20 expressions toutes faites du TOEIC (au bureau)",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-29T07:48",
+  "diapos": 4,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:51",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

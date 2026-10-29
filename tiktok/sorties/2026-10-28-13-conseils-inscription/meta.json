@@ -1,0 +1,20 @@
+{
+  "format": "conseils-jour-j",
+  "theme": "s'inscrire au TOEIC (prix, réduction, annulation)",
+  "seau": "nouveau",
+  "hypothese": "L'inscription, question pratique de qui n'a pas encore de date, élargit-elle la portée comme le score par niveau ?",
+  "titre_tiktok": "S'inscrire au TOEIC : prix, réduction étudiant, annulation (mes 6 règles)",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-29T00:01",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:46",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

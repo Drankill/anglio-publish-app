@@ -1,0 +1,20 @@
+{
+  "format": "mots-mal-prononces",
+  "theme": "prononciation : lettres muettes (Listening)",
+  "seau": "nouveau",
+  "hypothese": "Les lettres muettes, visibles à l'écrit, font-elles mieux marcher la prononciation sans son que l'accent ?",
+  "titre_tiktok": "6 mots anglais aux lettres muettes que les Français prononcent (TOEIC)",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-29T07:48",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:51",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

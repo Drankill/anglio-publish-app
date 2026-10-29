@@ -1,0 +1,20 @@
+{
+  "format": "pieges-grammaire",
+  "theme": "quantités (much/many, a few/few, fewer/less, amount/number)",
+  "seau": "nouveau",
+  "hypothese": "Un piège de grammaire sur un seul thème (les quantités) accroche-t-il mieux qu'un mélange ?",
+  "titre_tiktok": "TOEIC Part 5 : much ou many, fewer ou less ? Mes 4 pièges",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-28T23:57",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:46",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

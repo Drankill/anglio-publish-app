@@ -1,0 +1,20 @@
+{
+  "format": "phrase-fausse-phrase-juste",
+  "theme": "erreurs des francophones au bureau",
+  "seau": "nouveau",
+  "hypothese": "Des phrases du bureau que le lecteur dit lui-même font-elles plus de partages que nos listes ?",
+  "titre_tiktok": "5 phrases d'anglais que les Français disent mal au bureau (TOEIC)",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-29T00:01",
+  "diapos": 7,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:46",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

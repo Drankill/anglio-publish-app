@@ -1,0 +1,20 @@
+{
+  "format": "mots-mal-prononces",
+  "theme": "prononciation : l'accent tonique (Listening)",
+  "seau": "nouveau",
+  "hypothese": "L'accent tonique, erreur qu'on ne voit pas, accroche-t-il autant que les lettres muettes ?",
+  "titre_tiktok": "6 mots anglais où les Français mettent l'accent au mauvais endroit",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-28T23:58",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:46",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}

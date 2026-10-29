@@ -1,0 +1,20 @@
+{
+  "format": "pieges-grammaire",
+  "theme": "mots de liaison (because of, unless, however, whereas/while)",
+  "seau": "nouveau",
+  "hypothese": "Le format pièges tient-il sur les mots de liaison, que la Part 6 teste aussi ?",
+  "titre_tiktok": "TOEIC Part 5 : because ou because of, unless ou if ? Mes 4 pièges",
+  "style": "985",
+  "lot": "2026-10-28-b",
+  "rendu_le": "2026-10-29T07:48",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-29T07:51",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ]
+}
