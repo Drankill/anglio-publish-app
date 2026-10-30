@@ -82,7 +82,7 @@
       "tk-d9ae6266a84b4002af9b7a2c9d89c5ec.png",
       "tk-e92a4738dced439a8dc11f6f83190f2f.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-04-prononciation-mots-pro",
@@ -104,7 +104,7 @@
       "tk-0e45a9ea632f4b92be7d739975a51cc9.png",
       "tk-69bee2bb712a42b0abbe918b4fe876c2.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-09-liste40-banque-argent",
@@ -124,7 +124,7 @@
       "tiktok/sorties/2026-10-28-09-liste40-banque-argent/png/05.png",
       "tiktok/sorties/2026-10-28-09-liste40-banque-argent/png/06.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-05-liste50-logistique",
@@ -145,7 +145,7 @@
       "tk-b3d8d85310944843bc3a9ba66c84dbb6.png",
       "tk-00dabfafd9c44e0ea9999cb261350658.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-10-pieges-mots-confondus",
@@ -375,6 +375,71 @@
       "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/05.png",
       "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/06.png",
       "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/07.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-19-phrases-se-presenter",
+    "post_id": "6ae4dc07260ad0ee5bc01e14",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-01 12:00",
+    "due_at": "2026-11-01T11:00:00.000Z",
+    "mode": "auto",
+    "format": "phrase-fausse-phrase-juste",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-19-phrases-se-presenter/png/01.png",
+      "tiktok/sorties/2026-10-28-19-phrases-se-presenter/png/02.png",
+      "tiktok/sorties/2026-10-28-19-phrases-se-presenter/png/03.png",
+      "tiktok/sorties/2026-10-28-19-phrases-se-presenter/png/04.png",
+      "tiktok/sorties/2026-10-28-19-phrases-se-presenter/png/05.png",
+      "tiktok/sorties/2026-10-28-19-phrases-se-presenter/png/06.png",
+      "tiktok/sorties/2026-10-28-19-phrases-se-presenter/png/07.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-20-conseils-deroule",
+    "post_id": "6ae4dc09a351214acfa00b26",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-01 15:00",
+    "due_at": "2026-11-01T14:00:00.000Z",
+    "mode": "auto",
+    "format": "conseils-jour-j",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-20-conseils-deroule/png/01.png",
+      "tiktok/sorties/2026-10-28-20-conseils-deroule/png/02.png",
+      "tiktok/sorties/2026-10-28-20-conseils-deroule/png/03.png",
+      "tiktok/sorties/2026-10-28-20-conseils-deroule/png/04.png",
+      "tiktok/sorties/2026-10-28-20-conseils-deroule/png/05.png",
+      "tiktok/sorties/2026-10-28-20-conseils-deroule/png/06.png",
+      "tiktok/sorties/2026-10-28-20-conseils-deroule/png/07.png",
+      "tiktok/sorties/2026-10-28-20-conseils-deroule/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-21-quiz-as-soon-as-superlatif-preterit",
+    "post_id": "6ae4dc09a351214acfa00b93",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-01 18:00",
+    "due_at": "2026-11-01T17:00:00.000Z",
+    "mode": "auto",
+    "format": "quiz-3-questions",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/01.png",
+      "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/02.png",
+      "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/03.png",
+      "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/04.png",
+      "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/05.png",
+      "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/06.png",
+      "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/07.png",
+      "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/08.png"
     ],
     "nettoye": false
   }
