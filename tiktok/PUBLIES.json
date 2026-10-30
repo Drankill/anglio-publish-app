@@ -61,7 +61,7 @@
       "tiktok/sorties/2026-10-28-08-quiz-conditionnel-every-past-perfect/png/07.png",
       "tiktok/sorties/2026-10-28-08-quiz-conditionnel-every-past-perfect/png/08.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-03-liste50-voyage-affaires",
@@ -164,27 +164,6 @@
       "tiktok/sorties/2026-10-28-10-pieges-mots-confondus/png/04.png",
       "tiktok/sorties/2026-10-28-10-pieges-mots-confondus/png/05.png",
       "tiktok/sorties/2026-10-28-10-pieges-mots-confondus/png/06.png"
-    ],
-    "nettoye": false
-  },
-  {
-    "slug": "2026-10-28-11-phrases-erreurs-bureau",
-    "post_id": "6ae2ed319c83386213517272",
-    "canal": "yohan.anglio",
-    "date_paris": "2026-10-30 09:00",
-    "due_at": "2026-10-30T08:00:00.000Z",
-    "mode": "auto",
-    "format": "phrase-fausse-phrase-juste",
-    "style": "985",
-    "seau": "nouveau",
-    "relais": [
-      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/01.png",
-      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/02.png",
-      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/03.png",
-      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/04.png",
-      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/05.png",
-      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/06.png",
-      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/07.png"
     ],
     "nettoye": false
   },
@@ -375,6 +354,27 @@
       "tiktok/sorties/2026-10-28-18-liste20-expressions-bureau/png/02.png",
       "tiktok/sorties/2026-10-28-18-liste20-expressions-bureau/png/03.png",
       "tiktok/sorties/2026-10-28-18-liste20-expressions-bureau/png/04.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-11-phrases-erreurs-bureau",
+    "post_id": "6ae46caac2427e8527cc27db",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-01 09:00",
+    "due_at": "2026-11-01T08:00:00.000Z",
+    "mode": "auto",
+    "format": "phrase-fausse-phrase-juste",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/01.png",
+      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/02.png",
+      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/03.png",
+      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/04.png",
+      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/05.png",
+      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/06.png",
+      "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/07.png"
     ],
     "nettoye": false
   }
