@@ -165,7 +165,7 @@
       "tiktok/sorties/2026-10-28-10-pieges-mots-confondus/png/05.png",
       "tiktok/sorties/2026-10-28-10-pieges-mots-confondus/png/06.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-06-conseils-score-niveau",
@@ -440,6 +440,27 @@
       "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/06.png",
       "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/07.png",
       "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-22-faux-amis-quotidien",
+    "post_id": "6ae51981ceb491e585c40fd8",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-01 21:00",
+    "due_at": "2026-11-01T20:00:00.000Z",
+    "mode": "auto",
+    "format": "faux-amis-5",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/01.png",
+      "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/02.png",
+      "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/03.png",
+      "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/04.png",
+      "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/05.png",
+      "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/06.png",
+      "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/07.png"
     ],
     "nettoye": false
   }
