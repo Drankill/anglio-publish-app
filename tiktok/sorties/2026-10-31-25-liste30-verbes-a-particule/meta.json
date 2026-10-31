@@ -1,0 +1,25 @@
+{
+  "format": "liste-50-mots",
+  "theme": "les 30 verbes à particule du travail",
+  "seau": "eprouve",
+  "hypothese": "Seconde liste de vocabulaire du lot, sur le thème que la niche traite le plus après les mots d'affaires. ⚠️ Plafond de matière : il ne reste que 12 verbes à particule libres dans vocabulaire.json, donc les 18 autres sont attestés un par un sur Cambridge, avec leur sens d'anglais des affaires quand il existe. `opt for` et `touch base` ont été ÉCARTÉS : Cambridge les range en « collocation » et en « idiom », pas en verbe à particule, et le post s'appelle « verbes à particule ».",
+  "titre_tiktok": "30 verbes à particule du travail en anglais (TOEIC Part 5 et Part 7)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:08",
+  "diapos": 5,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:32",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "a588bfd25f8aa370",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

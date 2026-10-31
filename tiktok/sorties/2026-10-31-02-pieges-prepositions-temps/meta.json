@@ -1,0 +1,25 @@
+{
+  "format": "pieges-grammaire",
+  "theme": "les prépositions de temps (in ou on, at ou in, for ou during, by ou within)",
+  "seau": "nouveau",
+  "hypothese": "Second piège du lot, sur les prépositions de temps. Le point in/on/at est déjà sorti en QUESTION le 27 oct. ; ici il est posé en RÈGLE à deux colonnes, et le post ajoute for/during et by/within, qui ne sont jamais sortis.",
+  "titre_tiktok": "TOEIC Part 5 : in ou on, for ou during ? Mes 4 pièges de prépositions",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:04",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "c7aaa470cf94132c",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

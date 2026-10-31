@@ -1,0 +1,25 @@
+{
+  "format": "liste-verbes-irreguliers",
+  "theme": "verbes irréguliers à deux formes (prétérit = participe passé), en version « tu en connais combien ? »",
+  "seau": "eprouve",
+  "hypothese": "Liste ORDINAIRE habillée : la couverture pose le compte, une diapo d'échelle de lecture se glisse avant l'offre, la légende demande le nombre en commentaire. 0 commentaire sur les 10 posts relevés le 2026-10-31, quiz compris : on pose donc la demande de commentaire sur le format qui marche (14,8 à 20,1 enregistrements pour 1 000 vues) au lieu de la poser sur un quiz qui n'en a jamais obtenu un seul. Le chiffre à juger est le nombre de commentaires, pas les vues.",
+  "titre_tiktok": "50 verbes irréguliers anglais à deux formes : tu en connais combien ?",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:05",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "faf72d795237a949",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format": "pieges-grammaire",
+  "theme": "les noms indénombrables (information, advice, equipment, luggage)",
+  "seau": "nouveau",
+  "hypothese": "Troisième piège du lot. Les indénombrables sont l'erreur de francophone la plus visible à l'écrit (« informations ») et ils tombent en Part 5 : l'écart « je l'écris faux depuis des années » est ce qui fait enregistrer une règle.",
+  "titre_tiktok": "TOEIC : pourquoi « informations » n'existe pas en anglais (4 pièges)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:14",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "141caa431c3f09b1",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

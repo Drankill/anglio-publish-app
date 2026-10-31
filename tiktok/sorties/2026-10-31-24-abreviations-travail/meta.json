@@ -1,0 +1,26 @@
+{
+  "format": "liste-abreviations-pro",
+  "theme": "les 28 abréviations du monde du travail (postes, entreprise, contrats)",
+  "seau": "eprouve",
+  "hypothese": "Second post du format, sans habillage : il sert de TÉMOIN au post 08, qui porte la même structure plus la demande de commentaire. Même DA, même type de liste, même jour : la seule variable est l'habillage. ⚠️ 28 et non 30 : `mgr.` et `PTO` ont été écartées (Cambridge ne connaît PTO que comme « please turn over », et n'a aucune entrée pour mgr.), et je ne comble pas avec une abréviation que je n'ai pas vérifiée. ⚠️ VAT a été retiré le 2026-10-31 (déjà sorti dans le lot du 28 oct.) et remplacé par SME, relevé sur Cambridge le même jour (BUSINESS specialized, « small or medium-sized enterprise »).",
+  "titre_tiktok": "28 abréviations du travail en anglais : CEO, HR, KPI, NDA, YTD…",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:41",
+  "diapos": 5,
+  "empreinte": "45aba1784e135d26",
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:32",
+      "verdict": "ok",
+      "motif": "critique OK"
+    },
+    {
+      "le": "2026-10-31T16:47",
+      "verdict": "ok",
+      "motif": "critique OK (2e tour) : 28 abreviations recomptees (10+10+8), VAT retire, SME releve sur Cambridge (forme complete mot pour mot)"
+    }
+  ]
+}

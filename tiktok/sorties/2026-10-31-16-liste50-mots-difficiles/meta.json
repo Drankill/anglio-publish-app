@@ -1,0 +1,21 @@
+{
+  "format": "liste-dense-20-par-diapo",
+  "theme": "les 50 mots d'anglais des affaires les plus durs (contrats, comptes, direction, négociation, marchés)",
+  "seau": "nouveau",
+  "hypothese": "Le test qui compte le plus du catalogue : le post le plus vu de la niche est une liste DENSE. La veille du 2026-10-31 a levé une inconnue et rétréci l'écart : le post de référence de @study_your_toeic_with_me porte 6 diapositives EN TOUT pour 50 items, là où notre liste-50-mots en met 5 rien que pour les mots. Le post ci-présent en porte 5 : couverture, 20 + 20 + 10 items, offre. La variable testée est donc le couple (densité, nombre de diapositives), pas la densité seule. ⚠️ Le post ne dit PLUS que ces mots sont du TOEIC : ils sont du registre des affaires, du droit et de la comptabilité, et rien ne source leur présence à l'examen (renvoi de la critique du 31 oct.). severability et sole-source, absents de Cambridge, sont remplacés par escrow et stalemate, relevés sur Cambridge le même jour. Les 20 items par diapositive sont conservés : c'est la seule raison d'être du post.",
+  "titre_tiktok": "Mes 50 mots d'anglais des affaires les plus durs (contrats, comptes)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:41",
+  "diapos": 5,
+  "empreinte": "2bf14641a6f09e02",
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:47",
+      "verdict": "ok",
+      "motif": "critique OK (2e tour) : 50 mots recomptes en 20/20/10, densite preservee ; escrow et stalemate releves sur Cambridge ; plus aucune affirmation que ces mots sont du TOEIC"
+    }
+  ]
+}

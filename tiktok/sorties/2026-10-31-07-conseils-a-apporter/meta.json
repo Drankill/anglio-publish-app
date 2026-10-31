@@ -1,0 +1,25 @@
+{
+  "format": "conseils-jour-j",
+  "theme": "ce qu'on apporte le jour du TOEIC (pièce d'identité, formulaire, crayons) et ce qui reste dehors",
+  "seau": "nouveau",
+  "hypothese": "Format à CONTRE-PREUVE mesurée (veille du 28 oct. : 352, 733, 25 et 19 likes de grille pour le conseil, contre 18 500 pour les listes dans la même grille) et engagement le plus faible du compte (0,3 à 0,4 % de likes), temps de lecture le plus court (3,49 s). 2 posts ce lot, soit 4 au total : le plafond de test est atteint et le format devient jugeable. Celui-ci est le sujet le plus concret du guide : ce qu'on met dans son sac.",
+  "titre_tiktok": "TOEIC : ce qu'il faut apporter le jour J (et ce qui est interdit)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:05",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "724199089e4dc76e",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

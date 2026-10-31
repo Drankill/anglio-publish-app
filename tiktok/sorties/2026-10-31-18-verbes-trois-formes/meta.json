@@ -1,0 +1,25 @@
+{
+  "format": "liste-verbes-irreguliers",
+  "theme": "verbes irréguliers à trois formes différentes",
+  "seau": "eprouve",
+  "hypothese": "Format passé en eprouve_ailleurs par la veille du 2026-10-31 : dix comptes distincts publient ce carrousel, six au-dessus de 900 likes de grille. ⚠️ La grille est dominée par des comptes SCOLAIRES (bac, lycée) : notre angle TOEIC est notre pari, donc les exemples et la légende restent du TOEIC et de l'anglais de travail, jamais du bac. Troisième post de verbes, sur le schéma le plus dur.",
+  "titre_tiktok": "40 verbes irréguliers anglais à trois formes (break, know, begin…)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:07",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "f47dbc6805ea8c24",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

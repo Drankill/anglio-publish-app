@@ -1,0 +1,25 @@
+{
+  "format": "phrase-fausse-phrase-juste",
+  "theme": "erreurs des francophones dans un e-mail professionnel",
+  "seau": "nouveau",
+  "hypothese": "Deuxième post du format dans ce lot. Le premier point à nous (3,8 enregistrements pour 1 000 vues contre 14,8 pour la liste publiée deux heures plus tôt) va dans le sens de la contre-preuve. Ici, la situation que le lecteur vit en stage et qui est le document le plus fréquent de la Part 7 : l'e-mail.",
+  "titre_tiktok": "5 phrases que les Français écrivent mal dans un e-mail en anglais",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:07",
+  "diapos": 7,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "6c6507ea31f559d9",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

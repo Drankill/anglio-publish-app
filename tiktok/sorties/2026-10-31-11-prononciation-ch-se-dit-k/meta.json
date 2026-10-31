@@ -1,0 +1,25 @@
+{
+  "format": "mots-mal-prononces",
+  "theme": "prononciation : les mots où CH se dit K (Listening)",
+  "seau": "nouveau",
+  "hypothese": "Deuxième post de prononciation du lot, sur une règle et non sur une liste de cas : quand le CH anglais vient du grec, il se dit « k ». Une règle unique qui couvre six mots s'enregistre-t-elle mieux que six cas sans rapport ?",
+  "titre_tiktok": "6 mots anglais où « ch » se dit K (architect, scheme, chemical…)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:06",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "fc2e300242f5ed20",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

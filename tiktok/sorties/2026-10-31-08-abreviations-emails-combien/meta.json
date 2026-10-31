@@ -1,0 +1,25 @@
+{
+  "format": "liste-abreviations-pro",
+  "theme": "les 30 abréviations des e-mails en anglais, en version « tu en connais combien ? »",
+  "seau": "eprouve",
+  "hypothese": "Format passé en eprouve_ailleurs par la veille du 2026-10-31 (8 comptes distincts, 7 posts au-dessus de 1 000 likes de grille), HABILLÉ en liste qui se compte pour aller chercher le commentaire que nos 10 posts relevés n'ont jamais obtenu (zéro, quiz compris). ⚠️ La réserve de la veille porte sur l'ANGLE : les posts à quatre chiffres portent des abréviations d'internet (OMG, BTW, IDK), les deux seuls à angle professionnel strict sont les plus bas de la grille. L'angle e-mail de bureau est donc notre pari, et c'est ce qui nous distingue des huit comptes. Les 30 abréviations sont attestées une par une dans le Cambridge Business English Dictionary ; `qty` et `inv.` ont été ÉCARTÉES faute d'entrée (ni Cambridge, ni Oxford).",
+  "titre_tiktok": "30 abréviations des e-mails en anglais : tu en connais combien ?",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:05",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "bb37c46fa42fb093",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

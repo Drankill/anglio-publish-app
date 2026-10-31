@@ -1,0 +1,25 @@
+{
+  "format": "pieges-grammaire",
+  "theme": "les pronoms (me ou myself, my ou mine, its ou their, each other)",
+  "seau": "nouveau",
+  "hypothese": "Sixième piège du lot. Les pronoms sont une case de Part 5 où les 4 choix sortent du même pronom : le format deux colonnes rend-il la différence visible d'un coup d'œil ?",
+  "titre_tiktok": "TOEIC Part 5 : me ou myself, my ou mine ? Mes 4 pièges de pronoms",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:09",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:32",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "7c8c843d0dbc24c2",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

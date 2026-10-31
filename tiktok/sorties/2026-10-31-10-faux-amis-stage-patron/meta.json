@@ -1,0 +1,25 @@
+{
+  "format": "faux-amis-5",
+  "theme": "faux amis du travail (notice, stage, patron, actual)",
+  "seau": "nouveau",
+  "hypothese": "Deuxième temps de lecture le plus long du compte (10,99 s), et un format que la niche traite en vidéo et presque pas en carrousel. ⚠️ 4 et non 5, et c'est un plafond de matière : il ne reste que 3 faux amis libres dans vocabulaire.json, et sur les sept candidats vérifiés sur Cambridge ce jour, trois ont été ÉCARTÉS parce que le dictionnaire donne AUSSI le sens français (control, resume, delay au sens figé) ou que le faux sens se fissure (engaged). Mieux vaut quatre cartes sûres que cinq dont une est fausse.",
+  "titre_tiktok": "4 faux amis anglais du travail : stage, patron, actual, notice",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:05",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "317a9ac1d9254a42",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

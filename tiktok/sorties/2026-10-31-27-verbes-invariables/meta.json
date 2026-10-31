@@ -1,0 +1,25 @@
+{
+  "format": "liste-verbes-irreguliers",
+  "theme": "verbes irréguliers dont les trois formes sont identiques",
+  "seau": "eprouve",
+  "hypothese": "Troisième et dernier post de verbes du lot. 20 verbes et non 50 : les verbes à trois formes identiques ne sont qu'une vingtaine en anglais courant, et allonger la liste obligerait à mélanger les schémas, ce qui est tout l'intérêt du post.",
+  "titre_tiktok": "20 verbes irréguliers anglais qui ne changent jamais (cut, put, set…)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:09",
+  "diapos": 4,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:32",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "9c577fdfac8fa6ba",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

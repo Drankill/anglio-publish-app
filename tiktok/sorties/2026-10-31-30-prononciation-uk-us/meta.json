@@ -1,0 +1,25 @@
+{
+  "format": "mots-mal-prononces",
+  "theme": "prononciation : les mots qui ne se disent pas pareil en anglais britannique et américain (Listening)",
+  "seau": "nouveau",
+  "hypothese": "Sixième et dernier post de prononciation du lot. Le TOEIC fait entendre quatre accents, dont l'américain et le britannique : six mots où les deux versions ne se ressemblent pas. ⚠️ Cinq candidats ont été ÉCARTÉS après vérification : either, detail, route et research parce que les deux prononciations existent des DEUX côtés (l'écart n'est qu'un ordre de citation, donc il serait inventé), schedule, advertisement et data parce qu'ils sont déjà sortis dans les listes des 28 et 29 oct.",
+  "titre_tiktok": "6 mots anglais qui ne se disent pas pareil en UK et en US (TOEIC)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:09",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:32",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "7cbc0265000729cf",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

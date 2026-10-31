@@ -1,0 +1,25 @@
+{
+  "format": "pieges-grammaire",
+  "theme": "les articles (a ou an, a ou the, the ou rien, a ou one)",
+  "seau": "nouveau",
+  "hypothese": "Quatrième piège du lot. Les articles sont le point que les francophones ratent le plus souvent sans le remarquer, et « an hour » contre « a university » se retient en une image : c'est le SON qui décide, pas la lettre.",
+  "titre_tiktok": "TOEIC Part 5 : « an hour » mais « a university » ? Mes 4 pièges",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:06",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "618ad8e5f5cbe4c5",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

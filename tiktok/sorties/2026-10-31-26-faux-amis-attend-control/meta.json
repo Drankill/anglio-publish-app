@@ -1,0 +1,25 @@
+{
+  "format": "faux-amis-5",
+  "theme": "faux amis qu'on croit maîtriser (attend, demand, argument, control, comprehensive)",
+  "seau": "nouveau",
+  "hypothese": "Second post du format, et dernier que la matière permet : les 3 derniers faux amis libres de vocabulaire.json, plus 2 vérifiés sur Cambridge. Celui-ci prend les mots que le lecteur emploie DÉJÀ, et à côté : « attend » est le plus coûteux de tous, parce qu'il change le sens d'une consigne de Part 4.",
+  "titre_tiktok": "5 faux amis anglais qu'on croit maîtriser : attend, demand, control",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:08",
+  "diapos": 7,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:32",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "738e268a82666244",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

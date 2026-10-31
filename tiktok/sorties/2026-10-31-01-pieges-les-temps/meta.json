@@ -1,0 +1,25 @@
+{
+  "format": "pieges-grammaire",
+  "theme": "les temps (présent simple ou -ing, present perfect ou prétérit, past perfect, ago ou before)",
+  "seau": "nouveau",
+  "hypothese": "pieges-grammaire est le format qui retient le plus longtemps du compte (17,62 s de temps de lecture le 2026-10-31, contre 3,49 à 6,68 s partout ailleurs) et il n'a pas de plafond de matière : 7 posts ce lot, chacun sur un point de langue différent et adossé à un guide du site. Celui-ci teste les temps, le point de Part 5 où un francophone traduit mot à mot.",
+  "titre_tiktok": "TOEIC Part 5 : present perfect ou prétérit ? Mes 4 pièges de temps",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:04",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "2e38c5556bc6cfa7",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

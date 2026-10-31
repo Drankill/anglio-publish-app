@@ -1,0 +1,25 @@
+{
+  "format": "quiz-3-questions",
+  "theme": "quiz Part 5 : le passif (présent passif, have something done, to be + participe)",
+  "seau": "nouveau",
+  "hypothese": "Deuxième quiz du lot, sur un point que les francophones ratent sans le voir : le passif. Trois constructions différentes, une seule bonne réponse par question. Le chiffre à surveiller à 72 h est le nombre de commentaires, avant les vues.",
+  "titre_tiktok": "TOEIC Part 5 : 3 questions sur le passif, tu as les 3 ?",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:06",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "8cbd1f1568ee327a",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

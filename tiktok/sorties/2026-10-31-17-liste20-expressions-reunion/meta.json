@@ -1,0 +1,25 @@
+{
+  "format": "collocations-20",
+  "theme": "les 20 expressions toutes faites de la réunion et du projet",
+  "seau": "nouveau",
+  "hypothese": "Second post du format, et plafond de matière : il ne reste qu'UNE collocation libre dans vocabulaire.json, donc les 19 autres sont attestées une par une sur Cambridge (entrée propre, exemple, ou encadré COLLOCATIONS). `set a budget` et `issue a refund` ont été ÉCARTÉES faute d'attestation chez Cambridge comme chez Oxford, et remplacées par `draw up a budget` et `offer a refund`, qui le sont. En Part 5, c'est souvent le verbe de la collocation qui est demandé : l'utilité est immédiate.",
+  "titre_tiktok": "20 expressions toutes faites du travail en anglais (TOEIC Part 5)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:07",
+  "diapos": 4,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "e09d7845fffcb333",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

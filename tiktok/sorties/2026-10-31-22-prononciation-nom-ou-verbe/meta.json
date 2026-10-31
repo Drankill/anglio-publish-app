@@ -1,0 +1,25 @@
+{
+  "format": "mots-mal-prononces",
+  "theme": "prononciation : les mots dont l'accent change selon qu'ils sont nom ou verbe (Listening)",
+  "seau": "nouveau",
+  "hypothese": "Cinquième post de prononciation du lot, et le mécanisme le plus rentable : six mots qui s'écrivent pareil et dont l'ACCENT dit s'il s'agit du nom ou du verbe. Ça sert en Listening (reconnaître le mot) et en Part 5 (reconnaître sa nature). Distinct du post du 28 oct. sur l'accent tonique, qui portait sur des mots à accent fixe.",
+  "titre_tiktok": "6 mots anglais où l'accent dit si c'est un nom ou un verbe (TOEIC)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:15",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:32",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "f2cff76e41449701",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

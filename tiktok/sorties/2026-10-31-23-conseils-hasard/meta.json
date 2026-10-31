@@ -1,0 +1,25 @@
+{
+  "format": "conseils-jour-j",
+  "theme": "faut-il répondre au hasard au TOEIC ?",
+  "seau": "nouveau",
+  "hypothese": "Second conseil du lot, qui porte le format à 4 posts publiés et le rend jugeable. Une question que tout candidat se pose (« est-ce que je perds des points si je me trompe ? ») a-t-elle plus de portée que les conseils d'organisation, que la veille du 28 oct. trouve très faibles dans cette niche ?",
+  "titre_tiktok": "Faut-il répondre au hasard au TOEIC ? Mes 6 règles (sources ETS)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:08",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:32",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "8fab6d970afcbfd7",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

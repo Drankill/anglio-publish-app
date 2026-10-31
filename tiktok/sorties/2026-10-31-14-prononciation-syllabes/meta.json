@@ -1,0 +1,25 @@
+{
+  "format": "mots-mal-prononces",
+  "theme": "prononciation : les mots qui ont moins de syllabes qu'on croit (Listening)",
+  "seau": "nouveau",
+  "hypothese": "Troisième post de prononciation du lot. Un francophone prononce toutes les syllabes qu'il voit écrites : l'anglais en avale. C'est exactement ce qui fait rater un mot pourtant connu en Part 3. ⚠️ Les comptes de syllabes sont ceux de l'entrée Cambridge, et quand le dictionnaire américain donne une variante plus courte, la diapositive le dit au lieu de choisir.",
+  "titre_tiktok": "6 mots anglais qui ont moins de syllabes qu'on croit (TOEIC Listening)",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:14",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:31",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "4e246333543f6254",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

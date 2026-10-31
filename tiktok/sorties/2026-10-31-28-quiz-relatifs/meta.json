@@ -1,0 +1,25 @@
+{
+  "format": "quiz-3-questions",
+  "theme": "quiz Part 5 : les relatifs (whose, whom après préposition, where)",
+  "seau": "nouveau",
+  "hypothese": "Troisième et dernier quiz du lot : il porte le format à 6 posts publiés, de quoi le trancher sur son seul objet, le commentaire. Les relatifs sont le point de Part 5 où le francophone traduit « dont » mot à mot.",
+  "titre_tiktok": "TOEIC Part 5 : whose, whom ou where ? 3 questions, tu as les 3 ?",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:09",
+  "diapos": 8,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:32",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "da8173ae960de92b",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}

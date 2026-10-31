@@ -1,0 +1,25 @@
+{
+  "format": "pieges-grammaire",
+  "theme": "l'accord du verbe (sujet éloigné, there is ou there are, a number of, le -s trompeur)",
+  "seau": "nouveau",
+  "hypothese": "Septième et dernier piège du lot, sur le point de Part 5 qui se joue à un seul -s : le verbe suit le vrai sujet, pas le nom le plus proche. Jamais sorti, et c'est la règle qui fait rater une question qu'on croit avoir comprise.",
+  "titre_tiktok": "TOEIC Part 5 : « the cost of the chairs WAS ». Mes 4 pièges d'accord",
+  "style": "985",
+  "lot": "2026-10-31",
+  "rendu_le": "2026-10-31T16:10",
+  "diapos": 6,
+  "avertissements": [],
+  "valide": true,
+  "critiques": [
+    {
+      "le": "2026-10-31T16:32",
+      "verdict": "ok",
+      "motif": "critique OK"
+    }
+  ],
+  "empreinte": "b066481eafdd72c5",
+  "empreinte_a_la_main": {
+    "le": "2026-10-31T16:41",
+    "motif": "Critique du 2026-10-31 : les 32 posts comparés diapo par diapo au JSON à la main, avant que la garde n'existe (aucune image périmée trouvée). Les 4 posts corrigés ensuite ont été re-rendus APRÈS la garde et portent une empreinte écrite par la machine."
+  }
+}
