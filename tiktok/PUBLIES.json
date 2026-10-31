@@ -208,7 +208,7 @@
       "tk-76fc3f00691d4f50b92b8006057a0139.png",
       "tk-04bd771aae0e452ea69eb21351d10393.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-12-quiz-such-any-told",
@@ -503,6 +503,28 @@
       "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/06.png",
       "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/07.png",
       "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-25-quiz-decide-responsible-which",
+    "post_id": "6ae60dec21c807e9d570032c",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-02 15:00",
+    "due_at": "2026-11-02T14:00:00.000Z",
+    "mode": "auto",
+    "format": "quiz-3-questions",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/01.png",
+      "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/02.png",
+      "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/03.png",
+      "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/04.png",
+      "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/05.png",
+      "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/06.png",
+      "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/07.png",
+      "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/08.png"
     ],
     "nettoye": false
   }
