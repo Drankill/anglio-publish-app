@@ -187,7 +187,7 @@
       "tk-0ae6c3b5ad6d432c9f5f9ffd5596389b.png",
       "tk-3e73f38bf1da479d8c9bbf125da165eb.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-07-liste50-informatique",
@@ -461,6 +461,48 @@
       "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/05.png",
       "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/06.png",
       "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/07.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-23-pieges-mots-de-liaison",
+    "post_id": "6ae5e22beaa24d6f9a7543e0",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-02 09:00",
+    "due_at": "2026-11-02T08:00:00.000Z",
+    "mode": "auto",
+    "format": "pieges-grammaire",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-23-pieges-mots-de-liaison/png/01.png",
+      "tiktok/sorties/2026-10-28-23-pieges-mots-de-liaison/png/02.png",
+      "tiktok/sorties/2026-10-28-23-pieges-mots-de-liaison/png/03.png",
+      "tiktok/sorties/2026-10-28-23-pieges-mots-de-liaison/png/04.png",
+      "tiktok/sorties/2026-10-28-23-pieges-mots-de-liaison/png/05.png",
+      "tiktok/sorties/2026-10-28-23-pieges-mots-de-liaison/png/06.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-24-prononciation-accent-tonique",
+    "post_id": "6ae5e22ceaa24d6f9a75442f",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-02 12:00",
+    "due_at": "2026-11-02T11:00:00.000Z",
+    "mode": "auto",
+    "format": "mots-mal-prononces",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/01.png",
+      "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/02.png",
+      "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/03.png",
+      "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/04.png",
+      "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/05.png",
+      "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/06.png",
+      "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/07.png",
+      "tiktok/sorties/2026-10-28-24-prononciation-accent-tonique/png/08.png"
     ],
     "nettoye": false
   }
