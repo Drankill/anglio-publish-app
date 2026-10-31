@@ -230,7 +230,7 @@
       "tiktok/sorties/2026-10-28-12-quiz-such-any-told/png/07.png",
       "tiktok/sorties/2026-10-28-12-quiz-such-any-told/png/08.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-13-conseils-inscription",
@@ -316,26 +316,6 @@
       "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/06.png",
       "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/07.png",
       "tiktok/sorties/2026-10-28-16-quiz-already-modal-neither/png/08.png"
-    ],
-    "nettoye": false
-  },
-  {
-    "slug": "2026-10-28-17-pieges-quantites",
-    "post_id": "6ae3aab7f473cae772d968a6",
-    "canal": "yohan.anglio",
-    "date_paris": "2026-10-31 18:00",
-    "due_at": "2026-10-31T17:00:00.000Z",
-    "mode": "auto",
-    "format": "pieges-grammaire",
-    "style": "985",
-    "seau": "nouveau",
-    "relais": [
-      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/01.png",
-      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/02.png",
-      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/03.png",
-      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/04.png",
-      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/05.png",
-      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/06.png"
     ],
     "nettoye": false
   },
@@ -525,6 +505,26 @@
       "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/06.png",
       "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/07.png",
       "tiktok/sorties/2026-10-28-25-quiz-decide-responsible-which/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-17-pieges-quantites",
+    "post_id": "6ae63fa2ab019b90871e2a0f",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-02 18:00",
+    "due_at": "2026-11-02T17:00:00.000Z",
+    "mode": "auto",
+    "format": "pieges-grammaire",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/01.png",
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/02.png",
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/03.png",
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/04.png",
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/05.png",
+      "tiktok/sorties/2026-10-28-17-pieges-quantites/png/06.png"
     ],
     "nettoye": false
   }
