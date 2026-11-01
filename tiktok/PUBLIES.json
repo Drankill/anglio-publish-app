@@ -252,7 +252,7 @@
       "tiktok/sorties/2026-10-28-13-conseils-inscription/png/07.png",
       "tiktok/sorties/2026-10-28-13-conseils-inscription/png/08.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-14-faux-amis-bureau",
@@ -525,6 +525,27 @@
       "tiktok/sorties/2026-10-28-17-pieges-quantites/png/04.png",
       "tiktok/sorties/2026-10-28-17-pieges-quantites/png/05.png",
       "tiktok/sorties/2026-10-28-17-pieges-quantites/png/06.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-26-phrases-erreurs-courantes",
+    "post_id": "6ae6839e21c807e9d59204de",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-02 21:00",
+    "due_at": "2026-11-02T20:00:00.000Z",
+    "mode": "auto",
+    "format": "phrase-fausse-phrase-juste",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-26-phrases-erreurs-courantes/png/01.png",
+      "tiktok/sorties/2026-10-28-26-phrases-erreurs-courantes/png/02.png",
+      "tiktok/sorties/2026-10-28-26-phrases-erreurs-courantes/png/03.png",
+      "tiktok/sorties/2026-10-28-26-phrases-erreurs-courantes/png/04.png",
+      "tiktok/sorties/2026-10-28-26-phrases-erreurs-courantes/png/05.png",
+      "tiktok/sorties/2026-10-28-26-phrases-erreurs-courantes/png/06.png",
+      "tiktok/sorties/2026-10-28-26-phrases-erreurs-courantes/png/07.png"
     ],
     "nettoye": false
   }
