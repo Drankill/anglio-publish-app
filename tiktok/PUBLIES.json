@@ -273,7 +273,7 @@
       "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/06.png",
       "tiktok/sorties/2026-10-28-14-faux-amis-bureau/png/07.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-15-prononciation-lettres-muettes",
@@ -295,7 +295,7 @@
       "tiktok/sorties/2026-10-28-15-prononciation-lettres-muettes/png/07.png",
       "tiktok/sorties/2026-10-28-15-prononciation-lettres-muettes/png/08.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-16-quiz-already-modal-neither",
@@ -546,6 +546,48 @@
       "tiktok/sorties/2026-10-28-26-phrases-erreurs-courantes/png/05.png",
       "tiktok/sorties/2026-10-28-26-phrases-erreurs-courantes/png/06.png",
       "tiktok/sorties/2026-10-28-26-phrases-erreurs-courantes/png/07.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-28-27-conseils-resultats",
+    "post_id": "6ae740b1ab019b90875fa18c",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-03 09:00",
+    "due_at": "2026-11-03T08:00:00.000Z",
+    "mode": "auto",
+    "format": "conseils-jour-j",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-28-27-conseils-resultats/png/01.png",
+      "tiktok/sorties/2026-10-28-27-conseils-resultats/png/02.png",
+      "tiktok/sorties/2026-10-28-27-conseils-resultats/png/03.png",
+      "tiktok/sorties/2026-10-28-27-conseils-resultats/png/04.png",
+      "tiktok/sorties/2026-10-28-27-conseils-resultats/png/05.png",
+      "tiktok/sorties/2026-10-28-27-conseils-resultats/png/06.png",
+      "tiktok/sorties/2026-10-28-27-conseils-resultats/png/07.png",
+      "tiktok/sorties/2026-10-28-27-conseils-resultats/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-31-01-pieges-les-temps",
+    "post_id": "6ae740b2cf3a3112f3fcccdb",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-03 12:00",
+    "due_at": "2026-11-03T11:00:00.000Z",
+    "mode": "auto",
+    "format": "pieges-grammaire",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-31-01-pieges-les-temps/png/01.png",
+      "tiktok/sorties/2026-10-31-01-pieges-les-temps/png/02.png",
+      "tiktok/sorties/2026-10-31-01-pieges-les-temps/png/03.png",
+      "tiktok/sorties/2026-10-31-01-pieges-les-temps/png/04.png",
+      "tiktok/sorties/2026-10-31-01-pieges-les-temps/png/05.png",
+      "tiktok/sorties/2026-10-31-01-pieges-les-temps/png/06.png"
     ],
     "nettoye": false
   }
