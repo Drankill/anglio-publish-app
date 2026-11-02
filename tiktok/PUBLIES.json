@@ -356,7 +356,7 @@
       "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/06.png",
       "tiktok/sorties/2026-10-28-11-phrases-erreurs-bureau/png/07.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-19-phrases-se-presenter",
@@ -377,7 +377,7 @@
       "tiktok/sorties/2026-10-28-19-phrases-se-presenter/png/06.png",
       "tiktok/sorties/2026-10-28-19-phrases-se-presenter/png/07.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-20-conseils-deroule",
@@ -651,6 +651,50 @@
       "tiktok/sorties/2026-10-31-04-phrases-telephone/png/05.png",
       "tiktok/sorties/2026-10-31-04-phrases-telephone/png/06.png",
       "tiktok/sorties/2026-10-31-04-phrases-telephone/png/07.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-31-05-quiz-derivation",
+    "post_id": "6ae871cee364127fe0d71797",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-04 09:00",
+    "due_at": "2026-11-04T08:00:00.000Z",
+    "mode": "auto",
+    "format": "quiz-3-questions",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-31-05-quiz-derivation/png/01.png",
+      "tiktok/sorties/2026-10-31-05-quiz-derivation/png/02.png",
+      "tiktok/sorties/2026-10-31-05-quiz-derivation/png/03.png",
+      "tiktok/sorties/2026-10-31-05-quiz-derivation/png/04.png",
+      "tiktok/sorties/2026-10-31-05-quiz-derivation/png/05.png",
+      "tiktok/sorties/2026-10-31-05-quiz-derivation/png/06.png",
+      "tiktok/sorties/2026-10-31-05-quiz-derivation/png/07.png",
+      "tiktok/sorties/2026-10-31-05-quiz-derivation/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-31-06-verbes-doublets-combien",
+    "post_id": "6ae871cf5b555ff1cf01d8d3",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-04 12:00",
+    "due_at": "2026-11-04T11:00:00.000Z",
+    "mode": "auto",
+    "format": "liste-verbes-irreguliers",
+    "style": "985",
+    "seau": "eprouve",
+    "relais": [
+      "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/01.png",
+      "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/02.png",
+      "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/03.png",
+      "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/04.png",
+      "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/05.png",
+      "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/06.png",
+      "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/07.png",
+      "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/08.png"
     ],
     "nettoye": false
   }
