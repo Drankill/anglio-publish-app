@@ -335,7 +335,7 @@
       "tiktok/sorties/2026-10-28-18-liste20-expressions-bureau/png/03.png",
       "tiktok/sorties/2026-10-28-18-liste20-expressions-bureau/png/04.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-11-phrases-erreurs-bureau",
@@ -630,6 +630,27 @@
       "tiktok/sorties/2026-10-31-03-prononciation-orthographe/png/06.png",
       "tiktok/sorties/2026-10-31-03-prononciation-orthographe/png/07.png",
       "tiktok/sorties/2026-10-31-03-prononciation-orthographe/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-31-04-phrases-telephone",
+    "post_id": "6ae7dde6d016796999fd287d",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-03 21:00",
+    "due_at": "2026-11-03T20:00:00.000Z",
+    "mode": "auto",
+    "format": "phrase-fausse-phrase-juste",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-31-04-phrases-telephone/png/01.png",
+      "tiktok/sorties/2026-10-31-04-phrases-telephone/png/02.png",
+      "tiktok/sorties/2026-10-31-04-phrases-telephone/png/03.png",
+      "tiktok/sorties/2026-10-31-04-phrases-telephone/png/04.png",
+      "tiktok/sorties/2026-10-31-04-phrases-telephone/png/05.png",
+      "tiktok/sorties/2026-10-31-04-phrases-telephone/png/06.png",
+      "tiktok/sorties/2026-10-31-04-phrases-telephone/png/07.png"
     ],
     "nettoye": false
   }
