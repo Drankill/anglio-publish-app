@@ -399,7 +399,7 @@
       "tiktok/sorties/2026-10-28-20-conseils-deroule/png/07.png",
       "tiktok/sorties/2026-10-28-20-conseils-deroule/png/08.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-21-quiz-as-soon-as-superlatif-preterit",
@@ -421,7 +421,7 @@
       "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/07.png",
       "tiktok/sorties/2026-10-28-21-quiz-as-soon-as-superlatif-preterit/png/08.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-22-faux-amis-quotidien",
@@ -442,7 +442,7 @@
       "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/06.png",
       "tiktok/sorties/2026-10-28-22-faux-amis-quotidien/png/07.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "slug": "2026-10-28-23-pieges-mots-de-liaison",
@@ -695,6 +695,68 @@
       "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/06.png",
       "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/07.png",
       "tiktok/sorties/2026-10-31-06-verbes-doublets-combien/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-31-07-conseils-a-apporter",
+    "post_id": "6ae9045e48d61d07d55b6fba",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-04 15:00",
+    "due_at": "2026-11-04T14:00:00.000Z",
+    "mode": "auto",
+    "format": "conseils-jour-j",
+    "style": "985",
+    "seau": "nouveau",
+    "relais": [
+      "tiktok/sorties/2026-10-31-07-conseils-a-apporter/png/01.png",
+      "tiktok/sorties/2026-10-31-07-conseils-a-apporter/png/02.png",
+      "tiktok/sorties/2026-10-31-07-conseils-a-apporter/png/03.png",
+      "tiktok/sorties/2026-10-31-07-conseils-a-apporter/png/04.png",
+      "tiktok/sorties/2026-10-31-07-conseils-a-apporter/png/05.png",
+      "tiktok/sorties/2026-10-31-07-conseils-a-apporter/png/06.png",
+      "tiktok/sorties/2026-10-31-07-conseils-a-apporter/png/07.png",
+      "tiktok/sorties/2026-10-31-07-conseils-a-apporter/png/08.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-31-08-abreviations-emails-combien",
+    "post_id": "6ae9045fd0e732df448e8cea",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-04 18:00",
+    "due_at": "2026-11-04T17:00:00.000Z",
+    "mode": "auto",
+    "format": "liste-abreviations-pro",
+    "style": "985",
+    "seau": "eprouve",
+    "relais": [
+      "tiktok/sorties/2026-10-31-08-abreviations-emails-combien/png/01.png",
+      "tiktok/sorties/2026-10-31-08-abreviations-emails-combien/png/02.png",
+      "tiktok/sorties/2026-10-31-08-abreviations-emails-combien/png/03.png",
+      "tiktok/sorties/2026-10-31-08-abreviations-emails-combien/png/04.png",
+      "tiktok/sorties/2026-10-31-08-abreviations-emails-combien/png/05.png",
+      "tiktok/sorties/2026-10-31-08-abreviations-emails-combien/png/06.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "slug": "2026-10-31-09-liste34-bureau-restaurant-etudes",
+    "post_id": "6ae9046048d61d07d55b7081",
+    "canal": "yohan.anglio",
+    "date_paris": "2026-11-04 21:00",
+    "due_at": "2026-11-04T20:00:00.000Z",
+    "mode": "auto",
+    "format": "liste-50-mots",
+    "style": "985",
+    "seau": "eprouve",
+    "relais": [
+      "tiktok/sorties/2026-10-31-09-liste34-bureau-restaurant-etudes/png/01.png",
+      "tiktok/sorties/2026-10-31-09-liste34-bureau-restaurant-etudes/png/02.png",
+      "tiktok/sorties/2026-10-31-09-liste34-bureau-restaurant-etudes/png/03.png",
+      "tiktok/sorties/2026-10-31-09-liste34-bureau-restaurant-etudes/png/04.png",
+      "tiktok/sorties/2026-10-31-09-liste34-bureau-restaurant-etudes/png/05.png",
+      "tiktok/sorties/2026-10-31-09-liste34-bureau-restaurant-etudes/png/06.png"
     ],
     "nettoye": false
   }
