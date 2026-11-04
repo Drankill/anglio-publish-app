@@ -1,0 +1,69 @@
+# File Buffer DeckFinance, tenue sans le PC de Duarte.
+# Toutes les 3 h (et à chaque envoi de stock depuis le PC), complète la file
+# Buffer jusqu'à 10 posts avec le stock de deckfinance/sorties/, retire les
+# images des posts partis et enregistre deckfinance/PUBLIES.json.
+#
+# Source : DeckFinance - Vidéos/Publication/github/deckfinance-buffer.yml, recopié
+# ici par nuage.py. Ne rien modifier dans ce dépôt : le prochain envoi l'écraserait.
+name: DeckFinance - file Buffer
+
+on:
+  schedule:
+    - cron: "43 */3 * * *"
+  push:
+    branches: [master]
+    paths: ["deckfinance/**"]
+  workflow_dispatch:
+
+concurrency:
+  group: deckfinance-buffer
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  file:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: Europe/Paris
+      DF_NUAGE: "1"
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY_DECKFINANCE }}
+      PYTHONIOENCODING: utf-8
+      PYTHONDONTWRITEBYTECODE: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet requests
+
+      - name: Clé Buffer présente
+        run: |
+          if [ -z "$BUFFER_API_KEY" ]; then
+            echo "::error::Secret BUFFER_API_KEY_DECKFINANCE absent : Settings > Secrets and variables > Actions (clé API du compte Buffer DeckFinance)."
+            exit 1
+          fi
+
+      - name: File Buffer complétée
+        run: python deckfinance/publier.py
+
+      - name: Images des posts partis retirées
+        if: always()
+        run: python deckfinance/publier.py --nettoyer
+        continue-on-error: true
+
+      - name: Registre enregistré
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add -A deckfinance relay
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "deckfinance : file Buffer et registre (GitHub Actions)"
+          for i in 1 2 3; do
+            git pull --rebase origin master && git push origin HEAD:master && exit 0
+            sleep 10
+          done
+          exit 1

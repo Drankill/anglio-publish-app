@@ -1,0 +1,23 @@
+{
+  "dossier_sorties": "../Carrousels/sorties",
+  "canaux": [
+    "tiktok"
+  ],
+  "_canaux_note": "remettre \"instagram\" des que le canal est connecte dans Buffer",
+  "heures_paris": [
+    "09:00",
+    "13:00",
+    "18:00"
+  ],
+  "exclure": [
+    "2026-08-17-concept-delit-initie",
+    "2026-08-17-les-relations-avec-les-clients",
+    "2026-08-17-piege-237-le-cadre-institutionnel-et-reg",
+    "2026-08-17-piege-361-le-blanchiment-dargent",
+    "2026-08-21-relations-clients-recadre",
+    "2026-08-21-relations-clients-recadre-4-5"
+  ],
+  "_exclure_pourquoi": "rendus au format TikTok seulement (PNG a la racine, pas de png-insta/) ; a re-rendre en deux formats avant de les programmer",
+  "nuage": true,
+  "_nuage_note": "le PC envoie le stock sur GitHub, le workflow programme dans Buffer (voir nuage.py)"
+}

@@ -1,0 +1,2898 @@
+[
+  {
+    "dossier": "2026-08-17-questions-pieges",
+    "service": "tiktok",
+    "date_paris": "2026-08-17 00:00",
+    "due_at": "2026-08-17T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-17-concept-delit-initie",
+    "service": "tiktok",
+    "date_paris": "2026-08-18 00:00",
+    "due_at": "2026-08-18T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-17-crypto-actifs-examen-amf",
+    "service": "tiktok",
+    "date_paris": "2026-08-19 00:00",
+    "due_at": "2026-08-19T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-17-gestion-collective-opcvm-fia",
+    "service": "tiktok",
+    "date_paris": "2026-08-20 00:00",
+    "due_at": "2026-08-20T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-17-info-privilegiee-abus-de-marche",
+    "service": "tiktok",
+    "date_paris": "2026-08-20 00:00",
+    "due_at": "2026-08-20T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-17-les-relations-avec-les-clients",
+    "service": "tiktok",
+    "date_paris": "2026-08-21 00:00",
+    "due_at": "2026-08-21T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-17-marche-primaire-emissions",
+    "service": "tiktok",
+    "date_paris": "2026-08-22 00:00",
+    "due_at": "2026-08-22T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-17-piege-237-le-cadre-institutionnel-et-reg",
+    "service": "tiktok",
+    "date_paris": "2026-08-22 00:00",
+    "due_at": "2026-08-22T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-17-qui-decide-amf-acpr-bce",
+    "service": "tiktok",
+    "date_paris": "2026-08-23 00:00",
+    "due_at": "2026-08-23T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-20-bale-fonds-propres-solvabilite",
+    "service": "tiktok",
+    "date_paris": "2026-08-23 00:00",
+    "due_at": "2026-08-23T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-20-bases-comptables-bilan-resultat",
+    "service": "tiktok",
+    "date_paris": "2026-08-24 00:00",
+    "due_at": "2026-08-24T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-20-categorisation-clients-mif",
+    "service": "tiktok",
+    "date_paris": "2026-08-24 00:00",
+    "due_at": "2026-08-24T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-20-conflits-interets-deontologie",
+    "service": "tiktok",
+    "date_paris": "2026-08-25 00:00",
+    "due_at": "2026-08-25T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-20-demarchage-bancaire-financier",
+    "service": "tiktok",
+    "date_paris": "2026-08-27 00:00",
+    "due_at": "2026-08-27T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-31-isr-best-in-class-best-in-universe",
+    "service": "tiktok",
+    "date_paris": "2026-08-31 00:00",
+    "due_at": "2026-08-31T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-31-titres-hybrides-convertible-subordonne",
+    "service": "tiktok",
+    "date_paris": "2026-09-03 00:00",
+    "due_at": "2026-09-03T00:00:00.000Z",
+    "post_id": null,
+    "relais": [],
+    "nettoye": true,
+    "manuel": true
+  },
+  {
+    "dossier": "2026-08-20-obligations-risque-de-taux",
+    "service": "tiktok",
+    "date_paris": "2026-09-13 18:00",
+    "due_at": "2026-09-13T16:00:00.000Z",
+    "post_id": "6aa6783eef4d6e3778c804f0",
+    "relais": [
+      "df-5f180caf5ab843ff833ebedadaf67f09.png",
+      "df-3198416c40104516abcdeb35340a712c.png",
+      "df-45949173ae744d14826ca1031f040c13.png",
+      "df-20555cbb6ef14cb4b84fdfb250433f02.png",
+      "df-ebe08b6b09df4daea9ba513fb33c61cc.png",
+      "df-a5bca4931d7d4e3c8283609a5182f8d4.png",
+      "df-2910d3fa02a54b1193b43ebab9d1d06a.png",
+      "df-24c574b22e764e8bb8d03b68dbaedd57.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-20-options-effet-de-levier",
+    "service": "tiktok",
+    "date_paris": "2026-09-14 13:00",
+    "due_at": "2026-09-14T11:00:00.000Z",
+    "post_id": "6aa7aeca369387a9e2f9d836",
+    "relais": [
+      "df-3b2e53d8b764469fb1e86fd808d2e142.png",
+      "df-96153122292a4989b4b036976c878d1f.png",
+      "df-5012b20e6fde4fafa981e696f7d3d37f.png",
+      "df-99ea17ffd1e941af801ad6345a5cb6be.png",
+      "df-f7c6cd77d7ab45fb8809fe9f9c0833d4.png",
+      "df-b7514b935ba947b383cf8829737f22c2.png",
+      "df-8280181317c6460da8801d671119d3a7.png",
+      "df-5ff52086917e4888802055ecfb31c2f9.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-20-ordres-de-bourse",
+    "service": "tiktok",
+    "date_paris": "2026-09-14 18:00",
+    "due_at": "2026-09-14T16:00:00.000Z",
+    "post_id": "6aa7aed0369387a9e2f9d890",
+    "relais": [
+      "df-4ed9a928158b442dbb1fd7e91578ffce.png",
+      "df-995cfa95a0ce416b947dd87fa4695428.png",
+      "df-e26caf09e9cc4e5dacd19a9f4e9d0ee2.png",
+      "df-8dac31eee7604452a736d1fb330b8b91.png",
+      "df-9c42a5fefcde4fc7a82956d29efc978b.png",
+      "df-3aae53fa9d1a4f8880f2fc0c12d54efb.png",
+      "df-1935ae63dd444ca9893b297986098a27.png",
+      "df-25978fec200742e19ae3fd987f90b181.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-20-post-marche-reglement-livraison",
+    "service": "tiktok",
+    "date_paris": "2026-09-15 09:00",
+    "due_at": "2026-09-15T07:00:00.000Z",
+    "post_id": "6aa7aed4e4aa27d1cb0814d1",
+    "relais": [
+      "df-96fb1c7b21fd42fa8b77eab3ae9c131c.png",
+      "df-ac4ff1644baf42f2b1a74cac51380c1a.png",
+      "df-a5bc0befdca04cd3802eb443db1a64db.png",
+      "df-21a93719d56642cba58a9940c806e303.png",
+      "df-8dd9261f114949c0a35447d7fe89eedc.png",
+      "df-8e4f5c9d790a4168b854766bb1f45712.png",
+      "df-6c45d6c257df44f09574fcdb5f157f66.png",
+      "df-d95a0f27d7d04a59a92409952501e78d.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-20-test-adequation-mifid",
+    "service": "tiktok",
+    "date_paris": "2026-09-15 13:00",
+    "due_at": "2026-09-15T11:00:00.000Z",
+    "post_id": "6aa7aedbd36607a69221b3f8",
+    "relais": [
+      "df-3e3343de68d84903b381afc453f00d76.png",
+      "df-5258d526d22d4efda59e7cecfe7147ee.png",
+      "df-00317d40ffc7436eab0e5dcd122fdc6b.png",
+      "df-2d3e029f2aae4424b938db513c7379a3.png",
+      "df-2c8a780003324f7fbda12bc1735b1fa1.png",
+      "df-61d82d4ae5a0424186402dcc4c34da23.png",
+      "df-31fa34593cfa4541b5a772d3633271e4.png",
+      "df-0ebcb77c3495461db1d4ff3bfdeb9273.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-22-operations-sur-titres",
+    "service": "tiktok",
+    "date_paris": "2026-09-15 18:00",
+    "due_at": "2026-09-15T16:00:00.000Z",
+    "post_id": "6aa7aedfd36607a69221b48e",
+    "relais": [
+      "df-b713196c865246bfa44b997bf15e5048.png",
+      "df-ec89229f63b744b99678d0a7f310e8a3.png",
+      "df-427052752fbe4f66905baf944c0f9b5f.png",
+      "df-c357905139824b008f3beaab5e73e55f.png",
+      "df-24a2ac6de89c4ac5852fb674bd465798.png",
+      "df-3e1a67716c634383a71bf127a3293b26.png",
+      "df-68611c1210264d8db486cf010475989e.png",
+      "df-edbbef29ad274d41919e60a286eedb6d.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-22-ou-sechangent-les-titres",
+    "service": "tiktok",
+    "date_paris": "2026-09-16 09:00",
+    "due_at": "2026-09-16T07:00:00.000Z",
+    "post_id": "6aa7aee3d36607a69221b504",
+    "relais": [
+      "df-bd58473295bc43fe84fc57f38f2e0da8.png",
+      "df-61667b2d57d74d2298f41a819c56117e.png",
+      "df-5bd33ab04e714a36bf45ea0697c7d4ca.png",
+      "df-82b7d80fbe5d402eb5cc7436a2f3bb2a.png",
+      "df-29d41575ed1842a7bda5a0537d0d4883.png",
+      "df-cab28908394f4dc9bcec098726db5c5f.png",
+      "df-df9a5cc908964997bb6d85b44df44577.png",
+      "df-91ae8215232d4d7b8249ea2478a703df.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-22-pea-compte-titres-assurance-vie",
+    "service": "tiktok",
+    "date_paris": "2026-09-16 13:00",
+    "due_at": "2026-09-16T11:00:00.000Z",
+    "post_id": "6aa7aee728b4a9b83481a3d1",
+    "relais": [
+      "df-0907d5d99f6a45c49211cf5e1a1d1321.png",
+      "df-e07a51a5711f42ee9eb9074b2ca2fcbb.png",
+      "df-b6e6924f968b4e8c9e83769dd703519f.png",
+      "df-b809c27490b949df94f6f2afc716fb0b.png",
+      "df-1b971912531a4d93adb0265d1c716986.png",
+      "df-cb4c394b86704aa695ef8158e7be1e68.png",
+      "df-b4c371b80eb14af9acfcbc86bf03559a.png",
+      "df-42aaa395ad664abc9216fee0c6b49cb7.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-22-seuils-information-reglementee",
+    "service": "tiktok",
+    "date_paris": "2026-09-16 18:00",
+    "due_at": "2026-09-16T16:00:00.000Z",
+    "post_id": "6aa7aeebe4aa27d1cb081b3b",
+    "relais": [
+      "df-cfc4673397924c7ebf06bf1923167aed.png",
+      "df-95e20a65448d469da8289592e8d0826e.png",
+      "df-4424d761def84d22aeb9081043e8b7f7.png",
+      "df-ab1f1878cf91455ca7ac43b82e8a68ca.png",
+      "df-64ffa5b8006845cd99be83920c4f3a54.png",
+      "df-c3a8d2b457a04dec9caf39c35ab97133.png",
+      "df-8c99b13780eb4ef5a60ee8607d24ee08.png",
+      "df-ec1dfbaf98c042beb2b8c9b2ac9e9f38.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-22-tracfin-declaration-soupcon",
+    "service": "tiktok",
+    "date_paris": "2026-09-17 09:00",
+    "due_at": "2026-09-17T07:00:00.000Z",
+    "post_id": "6aa7aef05a4fa0b0669a831f",
+    "relais": [
+      "df-e56ce1df215a4f1da2ec41bdd6f48743.png",
+      "df-0e528060b88c46e6a95bff18bae4af5a.png",
+      "df-52cac005314846edb0ba8484f2a803f0.png",
+      "df-87d272c145004d66bc1d0fcaa0edcfa3.png",
+      "df-e297f240ba274dbaa06c0e3f5780c0fd.png",
+      "df-ac80615a03b8474180995276f117a668.png",
+      "df-d3b571f3dd5c4e1fa8263355e7ba111b.png",
+      "df-2b30beb849ab4f758048531c02d9b5ab.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-23-cif-sgp-services-investissement",
+    "service": "tiktok",
+    "date_paris": "2026-09-17 13:00",
+    "due_at": "2026-09-17T11:00:00.000Z",
+    "post_id": "6aa7aef45a4fa0b0669a8380",
+    "relais": [
+      "df-fc09eb650f674b359c287c7c6a9547e1.png",
+      "df-7bdf856f851749519be1e819961c31a2.png",
+      "df-87bbb66f5eba4c64b5e9bd1447494a64.png",
+      "df-f34cee0eddd24a47958731c30222b355.png",
+      "df-300cb9f8e77941fda78e8aa29c3e45e5.png",
+      "df-1fc096a6b67a4bd48030ddecfdee603b.png",
+      "df-6a2c36a16e624573a64c2325c2b15abb.png",
+      "df-636b099c292249f4ba8c56b2defd9d4e.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-23-dici-document-information-cle",
+    "service": "tiktok",
+    "date_paris": "2026-09-17 18:00",
+    "due_at": "2026-09-17T16:00:00.000Z",
+    "post_id": "6aa82bd7ea56418021881515",
+    "relais": [
+      "df-4fac34bde2364cc4aa44349768da20e4.png",
+      "df-58106c7b1b49465fb8537ec46f973dc2.png",
+      "df-01b15251bd87430e954fbaceaaffecaa.png",
+      "df-a485d4159ec5446fb7449bf156212322.png",
+      "df-3393af6ac53e4b4f925b822e5f98a630.png",
+      "df-cbd24f4d5b2d41919e376179576d1a73.png",
+      "df-45ead14cefb146b09a28db604bc2d6bd.png",
+      "df-082e5c300abb4bcc8302721ca09d8efc.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-23-garantie-des-depots-fgdr",
+    "service": "tiktok",
+    "date_paris": "2026-09-18 09:00",
+    "due_at": "2026-09-18T07:00:00.000Z",
+    "post_id": "6aa82bdcaa238b6cdfa69f1d",
+    "relais": [
+      "df-84df54a6224b46738597ec066f38e8f6.png",
+      "df-b615f09f25814091a945847368b6dc49.png",
+      "df-3fb1ac03e0644920b863e597c17687e1.png",
+      "df-73769c4c2aeb49a79cfadb866cb1fbc6.png",
+      "df-b0627367ef51468087d61adb1b874074.png",
+      "df-198625df6bee4200b4a0f14df84f2a53.png",
+      "df-dacb8b68870f488fa4750cfd3c110c07.png",
+      "df-94203a48be5941859ebd6770282aa43e.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-23-nominatif-pur-administre",
+    "service": "tiktok",
+    "date_paris": "2026-09-18 13:00",
+    "due_at": "2026-09-18T11:00:00.000Z",
+    "post_id": "6aaa384f0dcd4bed80db4508",
+    "relais": [
+      "df-21f34c3e45354a5cbb31e684e6ebf561.png",
+      "df-6d1fd6ed5b5043a9bb70fed40097c03f.png",
+      "df-d7819caf469e4425a8b08a6aff471c8a.png",
+      "df-d36731e2543e4a3eb07cf5d36685d196.png",
+      "df-8ba9e4ba51ba4e01b0ef1dcd35cb53d6.png",
+      "df-b3e862e86ba44293b5db70a09be128e8.png",
+      "df-654e7251c2f1431a94d46f960adf11c4.png",
+      "df-a60bec68c1e84236a64667dd07b13de0.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-23-rcci-rcsi-carte-professionnelle",
+    "service": "tiktok",
+    "date_paris": "2026-09-18 18:00",
+    "due_at": "2026-09-18T16:00:00.000Z",
+    "post_id": "6aaa3854177fdd43b375ad34",
+    "relais": [
+      "df-316cbb1cde4c4d6fb326dd06df941e25.png",
+      "df-3be20723a7d044449695f0b0f1186172.png",
+      "df-aba0879a6001436094cd604d1ca13b36.png",
+      "df-d643d8a91fbb4d1c83cb518eef7f5650.png",
+      "df-48831bc90f8d41e0b8d872a346eb115d.png",
+      "df-96a9c5e4a08142718b00fca75751150f.png",
+      "df-4fd89363118741ddab8db4f055f03991.png",
+      "df-8796e57e44994fcea5b383f0b450fc7f.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-24-best-execution-best-selection",
+    "service": "tiktok",
+    "date_paris": "2026-09-19 09:00",
+    "due_at": "2026-09-19T07:00:00.000Z",
+    "post_id": "6aaa3858177fdd43b375ad9d",
+    "relais": [
+      "df-a4278d5e831f4b8786aeb05c65ea1dbf.png",
+      "df-0b3aaf1443864e0fa83f82eea73d48fb.png",
+      "df-00b41d6d741f4e8da371f2e072034d72.png",
+      "df-377fda633d52419fbcb199fa3061700c.png",
+      "df-0a7de4bb55de4ef6b975c96590553273.png",
+      "df-8eb47d9d354345f18d3297eb69fd9648.png",
+      "df-c5978377df3e47569ddebecfe6b4fbae.png",
+      "df-de151ec0f8cf404d9d15222f7a384a3e.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-24-college-commission-des-sanctions",
+    "service": "tiktok",
+    "date_paris": "2026-09-19 13:00",
+    "due_at": "2026-09-19T11:00:00.000Z",
+    "post_id": "6aaaf30bc25469e84e441a54",
+    "relais": [
+      "df-f52f9fd9cfc24adebe1528d8bfdfaf0a.png",
+      "df-feda7545d18e4086a5cd406cf11f2671.png",
+      "df-762f581f82334085a38497c6b841d95c.png",
+      "df-6b2e697d156a48bfb21e92f5a7f0a5a9.png",
+      "df-abc896dad51a418e99c73651f82b7b0e.png",
+      "df-8d46d2675e0e44b497e0394ef51cd625.png",
+      "df-79166fb987924e3896befdddec9d2868.png",
+      "df-30a12e0b2e0e4b278610b57504d4c227.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-24-depositaire-societe-de-gestion",
+    "service": "tiktok",
+    "date_paris": "2026-09-19 18:00",
+    "due_at": "2026-09-19T16:00:00.000Z",
+    "post_id": "6aaaf30fb13f5ce194520e7c",
+    "relais": [
+      "df-0eb75fd0b798419d9da9b6fc3f13723f.png",
+      "df-7e20f82fcf1f4469aee104b2d8f71af8.png",
+      "df-c0c260cc24584ba78c75214c67d49259.png",
+      "df-36a19f74cf0d4c08a832324836be4ee6.png",
+      "df-8a4d95f0575b4f628274a497cf09c61b.png",
+      "df-5398323ef3bd49949df109c5f64c1804.png",
+      "df-a819b74ae9364139b4c7a92c95122910.png",
+      "df-e8d58325d4ca49f4adb498d334ab2e74.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-24-mediateur-amf-reclamation",
+    "service": "tiktok",
+    "date_paris": "2026-09-20 09:00",
+    "due_at": "2026-09-20T07:00:00.000Z",
+    "post_id": "6aaaf319b5f91c7f5ea38ea4",
+    "relais": [
+      "df-85156fcd67a147d4b4c841a050eed75f.png",
+      "df-6708d480ad604ce2b7be7b4710f862be.png",
+      "df-bceed60bef914b228858d9798028d321.png",
+      "df-53e3d486589d49b7a7f74f4389e4f1fc.png",
+      "df-c0b92749ac2c419ea6b1986d82e39c17.png",
+      "df-39946e6412c64ce58b988279f881b852.png",
+      "df-fc078db2ebeb49519f6dc55b1a1b6916.png",
+      "df-7fb7cec5cc164efab434f9544a36e9a7.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-24-usufruit-nue-propriete",
+    "service": "tiktok",
+    "date_paris": "2026-09-20 13:00",
+    "due_at": "2026-09-20T11:00:00.000Z",
+    "post_id": "6aab92f46b78718a3939f3b2",
+    "relais": [
+      "df-7e5c8e33744a4e08a866fa02f32aa9ec.png",
+      "df-bc4f0615cae44e1e91bc362c20474e2c.png",
+      "df-07090376616a4b3489f54183f35d34a2.png",
+      "df-e577d5a19d9a4e02998ef0f524107115.png",
+      "df-730000504fcd44baaa93ba34748e2af1.png",
+      "df-5a7fb374073d4b23ad2911d782aa1e22.png",
+      "df-408e8a213796475795cc85eaeeaf57ab.png",
+      "df-cb794f71e4a448cc9423e5662d797dec.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-08-31-volatilite-mesure-du-risque",
+    "service": "tiktok",
+    "date_paris": "2026-09-20 18:00",
+    "due_at": "2026-09-20T16:00:00.000Z",
+    "post_id": "6aad477dd7a2d94521ea051c",
+    "relais": [
+      "df-52c02f31782e4f50904e4bad1feae991.png",
+      "df-4e62608251274deea0bed3c54bf2baa2.png",
+      "df-4c6b005538fa41c2b716b054281826ac.png",
+      "df-bcea5e13802a43feab6c8dabdbdbf340.png",
+      "df-b4121a0375dd4a0e8d476c8b65c4e4a7.png",
+      "df-e483f6591dd74098a74eca7aa596239b.png",
+      "df-2d0bd61284af480c9b647401f24c52b2.png",
+      "df-875c128d64cc4a14be6cb1c06d183106.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-agences-de-notation-investment-grade",
+    "service": "tiktok",
+    "date_paris": "2026-09-21 09:00",
+    "due_at": "2026-09-21T07:00:00.000Z",
+    "post_id": "6aad47825c7c4c6d22001815",
+    "relais": [
+      "df-3b6fbe8d5ea54ea7b71b4fc59c9c9ef3.png",
+      "df-d13eabc4912644a4a2aeb6ee16aad90c.png",
+      "df-cabddc8a51cd4585bdf7c9ba84ca8306.png",
+      "df-cdc2f72bf9524ba7a616cdaa5ad3c6cd.png",
+      "df-5a92b25b4f3d48d7a691bf81875c5837.png",
+      "df-7e31debd129249f4b1c98f44bd76d577.png",
+      "df-584de36c24d74d4a9da7939846a01233.png",
+      "df-ff8d6f55711840e589ef9fee296a2b58.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-amf-ou-acpr",
+    "service": "tiktok",
+    "date_paris": "2026-09-21 13:00",
+    "due_at": "2026-09-21T11:00:00.000Z",
+    "post_id": "6aad47875c5a5e3eefd9d13a",
+    "relais": [
+      "df-1049525919144af5a5d682d36eae6d05.png",
+      "df-6ac632d4fcf443ef9bd11564d507b96f.png",
+      "df-b54b2b80b1724016ae004d8fb6097166.png",
+      "df-f6944019f79a4a90b23aeb6a621726ab.png",
+      "df-3bb3a6db82844e828c8c95a537626bfd.png",
+      "df-d43128f04de249c2b0859f6f311d7da6.png",
+      "df-9ad5136916d54cd3b08bf93d63a848fd.png",
+      "df-dfce9d63a6c240db88136d5e7a5a6460.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-beneficiaire-effectif-ppe",
+    "service": "tiktok",
+    "date_paris": "2026-09-21 18:00",
+    "due_at": "2026-09-21T16:00:00.000Z",
+    "post_id": "6aad478dd7a2d94521ea0688",
+    "relais": [
+      "df-83b20ba2396e4b7997c7df25063931a1.png",
+      "df-df1ec82c746b4562863b3dc740d75dd6.png",
+      "df-e20175d8146946aa82cd5668526f987c.png",
+      "df-402c90ee373c4b518137cac70eebd81e.png",
+      "df-e8ea7230d74042f39a50d396655d37a3.png",
+      "df-0b56aa01594949e0bb639a825153c9de.png",
+      "df-af3822adcb564ea38f05175fcebd82ca.png",
+      "df-1843e8d51e1147d3902a966e190aaf86.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-bilan-ou-compte-de-resultat",
+    "service": "tiktok",
+    "date_paris": "2026-09-22 09:00",
+    "due_at": "2026-09-22T07:00:00.000Z",
+    "post_id": "6ab0205ab07e536c5a186c7f",
+    "relais": [
+      "df-361b9b2f62374c2bb8e01c7f64e11405.png",
+      "df-bec6a4a5b66f4c289042546ee1a5b611.png",
+      "df-629a3d7b1c2e45bd82e0de657a80fe4d.png",
+      "df-e00a9c29287f4b608f71f5561e543aa3.png",
+      "df-9f655fc08dfe47a78ac9aec5cf39591a.png",
+      "df-c9164ae4622d41079c5550211f54e1e8.png",
+      "df-52fcae60fab84293a1efa82dc0b2fd5b.png",
+      "df-2bc20b74ea1945648096b7ed0c27e477.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-crypto-psan-ou-psca",
+    "service": "tiktok",
+    "date_paris": "2026-09-22 13:00",
+    "due_at": "2026-09-22T11:00:00.000Z",
+    "post_id": "6ab0205f3f368df689ede3b0",
+    "relais": [
+      "df-c38ad76789424c48a82c8098eb41c088.png",
+      "df-82212121f4224394a9b9acf4ce4cdf75.png",
+      "df-b9a4f8a77ede40f2b56b6cf7c605d442.png",
+      "df-a7c78db0f6204e4193611464782532d2.png",
+      "df-9d0e95594a3b4b3c84a5fb9ea8a83759.png",
+      "df-c7c5c6a671274492bb6c468f3c69ae0f.png",
+      "df-846db42dc46541eeaf6a2df712aa3a91.png",
+      "df-d6ac514ecafa49f687722217aed3e576.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-delit-d-initie",
+    "service": "tiktok",
+    "date_paris": "2026-09-22 18:00",
+    "due_at": "2026-09-22T16:00:00.000Z",
+    "post_id": "6ab02064b07e536c5a186d89",
+    "relais": [
+      "df-17c373accbf34832be91f0c8aec5f7d8.png",
+      "df-2603e90e196b4b9e8c9ee7f2fed14b92.png",
+      "df-a74b827835fb4aeea8b02215163e218d.png",
+      "df-6f187f71825b4ca68cc60ce21f0f6b09.png",
+      "df-db0d0154e317439ea2fe7f99bf91685d.png",
+      "df-f2d6d22c9d2142c4abde5bbf31e85b0a.png",
+      "df-6bf7ea34f2f8441e8d1a3e8c11290a87.png",
+      "df-c66f5582084f47d4b0eb01f03159dfe2.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-demarchage-delai-de-retractation",
+    "service": "tiktok",
+    "date_paris": "2026-09-23 09:00",
+    "due_at": "2026-09-23T07:00:00.000Z",
+    "post_id": "6ab02068b07e536c5a186e18",
+    "relais": [
+      "df-d9a6499fd373479383e4101333787b39.png",
+      "df-5c8e454b90ad49818232cffa806fac87.png",
+      "df-ae431cade5d74bfe90f5f535bb42e5a1.png",
+      "df-4a5c80c54e194910b9039c837d97994b.png",
+      "df-2784b8dd04b54f86a72e32637ce54607.png",
+      "df-81c08a4b8ec34a2fbc77556f405d72e2.png",
+      "df-b990e356365249e7a62f9449a67a8f9d.png",
+      "df-9877922ee5dc4c4aa4699f3a94e0906b.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-eba-esma-amf-qui-fait-quoi",
+    "service": "tiktok",
+    "date_paris": "2026-09-23 13:00",
+    "due_at": "2026-09-23T11:00:00.000Z",
+    "post_id": "6ab0206d3f368df689ede598",
+    "relais": [
+      "df-d0c032e9fdc647ae93f246afa7d0bce1.png",
+      "df-c2c1893e6f824f1d94fe54daf86dd46f.png",
+      "df-b121f43cd139488c961bedabfeb59c23.png",
+      "df-a3929a5d45f5419c9645c0b4a7c507d3.png",
+      "df-4c5f96380d5f49978d2f1d9b65f2ad8f.png",
+      "df-f83f7fc033bb4550a13a61e859a005d9.png",
+      "df-e4e121c53c5d4d7da623e3db1d313114.png",
+      "df-c8214fb742874c3eaaf43e5ae53ea645.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-emission-prospectus-visa-amf",
+    "service": "tiktok",
+    "date_paris": "2026-09-23 18:00",
+    "due_at": "2026-09-23T16:00:00.000Z",
+    "post_id": "6ab020713f368df689ede633",
+    "relais": [
+      "df-b6038e848b4d47239c2f1e739a71070c.png",
+      "df-ce601ecdfac14476bfba2433f42e9b2e.png",
+      "df-b16069dbc89b43dc8d560d7a291fdff8.png",
+      "df-28a5585d62294808a502e6b77c324870.png",
+      "df-8e10161ead71463c921ad8b556469dc2.png",
+      "df-7250fa9b9ed549efb8cbf87f1cada357.png",
+      "df-1fb8e1fdbae944d195882bd1a56c7e27.png",
+      "df-77e5deaa45a44525b5e1b2b7e9b52e29.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-fcpr-fcpi-fonds-a-formule",
+    "service": "tiktok",
+    "date_paris": "2026-09-24 09:00",
+    "due_at": "2026-09-24T07:00:00.000Z",
+    "post_id": "6ab020769644849c899c5a8d",
+    "relais": [
+      "df-3e9e06020a834205adc59c97baa229f7.png",
+      "df-bf66f035cf1d4d19873046a455061249.png",
+      "df-df99f10a88414104a0599f874c40f604.png",
+      "df-30fafcbceb9b46f996b3a5653511f7c0.png",
+      "df-d996602cd03748ecbe26ad6c04b87e42.png",
+      "df-8285a6b7e9e144e2ab6fc2d8e475604b.png",
+      "df-1d8755bda3574d409249edd17db5b020.png",
+      "df-3f88c541c2fd4e19a66a0fe0b227931a.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-manipulation-de-cours-layering-spoofing",
+    "service": "tiktok",
+    "date_paris": "2026-09-24 13:00",
+    "due_at": "2026-09-24T11:00:00.000Z",
+    "post_id": "6ab156af3411491ae6fbcfe7",
+    "relais": [
+      "df-5d8138476ac14dee86a15e3398c9ba54.png",
+      "df-b1aefcbaef074a6e9b5074a914db8450.png",
+      "df-cfc55d5bd12a4a2ba05ad017a42d22a8.png",
+      "df-8b38c0dd193e4e67b0f5379510e57350.png",
+      "df-aadccace6e7b4c6b8991ce64c67dc31d.png",
+      "df-b46e96c86e5c4e788effcebd7d7da6d3.png",
+      "df-1edd54962b464a469853aa2bfe9e00ae.png",
+      "df-d16737d9cbc24c3dbf9d6d7c3fcfc430.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-mif2-conseil-independant-retrocessions",
+    "service": "tiktok",
+    "date_paris": "2026-09-24 18:00",
+    "due_at": "2026-09-24T16:00:00.000Z",
+    "post_id": "6ab156b4123e7b2749ee9abd",
+    "relais": [
+      "df-3a1c371d7c6f476884a996718d08b46b.png",
+      "df-af8348890d26425fa52eba1abb8c7bb2.png",
+      "df-289793da4a7c4f9a934efde1c3538312.png",
+      "df-9b06bddde81840a98aaa454ac9ac9665.png",
+      "df-b05f346673024dba9b1f692561e1fe3c.png",
+      "df-ae1ec001dafe42ecb46927023ffab207.png",
+      "df-668ec067f853420997c24b400844eaea.png",
+      "df-4690cbce9af240c4985ba1193d3561ff.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-obligation-duration-sensibilite",
+    "service": "tiktok",
+    "date_paris": "2026-09-25 09:00",
+    "due_at": "2026-09-25T07:00:00.000Z",
+    "post_id": "6ab156b9123e7b2749ee9b3b",
+    "relais": [
+      "df-f5d98c4e3cd24e9da5dedc115aceac9f.png",
+      "df-47c6cec937af4fb28d55c5245c130eb3.png",
+      "df-f3a6d2a4951d472db9091c99f8724ae4.png",
+      "df-47a6967ce17242b3b0cbf7c1058e8ddd.png",
+      "df-009a549c1dd94f2485675228be8d3f1f.png",
+      "df-80b9745d3ab842c69bef6c076f80748b.png",
+      "df-baeafa7bffda41b794c7f9fe958bf4b2.png",
+      "df-01d35818859148dfbecf561ba59fc9e4.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-opa-ope-opr-offres-publiques",
+    "service": "tiktok",
+    "date_paris": "2026-09-25 13:00",
+    "due_at": "2026-09-25T11:00:00.000Z",
+    "post_id": "6ab24871e6bae09bd80db490",
+    "relais": [
+      "df-e39a96c3e93845619afd8fc8c4446617.png",
+      "df-a8655f099005445ebc06bed9be469694.png",
+      "df-a7d7c1fa4a014f28986ec1cb7d9941e1.png",
+      "df-2d79b5b4557844a79575e15daeb54bff.png",
+      "df-28b0568fe8074081805ad6dec926872a.png",
+      "df-5f8dbd6487684e878ef1e161559eeeb2.png",
+      "df-81bbeb48f7a24dccaadc7eeaba13e41e.png",
+      "df-ccaf494dac674de9b646421a91cb9ce6.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-opcvm-ou-fia",
+    "service": "tiktok",
+    "date_paris": "2026-09-25 18:00",
+    "due_at": "2026-09-25T16:00:00.000Z",
+    "post_id": "6ab34b3a98ae6feaa62377e7",
+    "relais": [
+      "df-944efd3518b04bc4a9aa1cea5dbb3687.png",
+      "df-047839e04ef242c6b21a2fd567612e80.png",
+      "df-436c48fd561b424daf4b8753f8efdb15.png",
+      "df-221cb333349f4f3a99d6c874fbd6e4e6.png",
+      "df-ce9cd4765a7941cb80332f4d0886248e.png",
+      "df-47a17c396a2d4e3fb0ec6df9a3261c73.png",
+      "df-e3d8958fdae543eab682d9484487785a.png",
+      "df-df82f075c665439ca01a5820061524ad.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-perco-pee-epargne-salariale",
+    "service": "tiktok",
+    "date_paris": "2026-09-26 09:00",
+    "due_at": "2026-09-26T07:00:00.000Z",
+    "post_id": "6ab34b3f2aa0e20bb47194ea",
+    "relais": [
+      "df-76aad72a2e194bdf95311a5bdb8f2f43.png",
+      "df-6079e48d196740fe9b76be6248609082.png",
+      "df-6174e42ba8804124a157632ef48d1caa.png",
+      "df-2dddc7c5559349daacfb5fafa3a47367.png",
+      "df-50be7d61a8dd4e64a196de6995f27f5c.png",
+      "df-99e9283cf1fc4569bd489aef707f5ab6.png",
+      "df-e107308ae69b4147b81be6d62914a8b2.png",
+      "df-d833dc76da2b4b6ab16eb8d0b8db3d57.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-plateformes-marche-reglemente-smn-otf",
+    "service": "tiktok",
+    "date_paris": "2026-09-26 13:00",
+    "due_at": "2026-09-26T11:00:00.000Z",
+    "post_id": "6ab4045c7f037588e0bdcfd2",
+    "relais": [
+      "df-cc0729227ec24c7aaa0b54316f0b39e1.png",
+      "df-be8f8456dc3a4b63b9be9f6e1ec980db.png",
+      "df-fdb93907ed1f4bbf9ed1c104a04dc951.png",
+      "df-c7987e95e71d4f8fb8e461cb6a7a1507.png",
+      "df-62be4e137be64fb5961de823407c184b.png",
+      "df-dd8329b9060648e1b3aeab7933f3a682.png",
+      "df-5560b3be8a3143c38e92435e69298f5a.png",
+      "df-884e4379f96242919ba9bd8f195cefd8.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-prelevement-forfaitaire-unique-flat-tax",
+    "service": "tiktok",
+    "date_paris": "2026-09-26 18:00",
+    "due_at": "2026-09-26T16:00:00.000Z",
+    "post_id": "6ab40461062c9074d14e353d",
+    "relais": [
+      "df-d8425ae8a29d4b78bde8d8f68a9f6a0f.png",
+      "df-b1f0ded1db534a12939f351cb392f628.png",
+      "df-e2d59bc8485b479697621ffcc0d81480.png",
+      "df-ac2c2ba0cc624ea78efc803512ed0179.png",
+      "df-b7739071682a4da4ba709d5bf70419db.png",
+      "df-5e771a9a49d14aca947763845276dcbd.png",
+      "df-34280819be1f42559616b2c2397c9b8a.png",
+      "df-7b3c79b7a4104fe3a5e2fcfa098e311c.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-sous-mandat-ou-conseil-en-investissement",
+    "service": "tiktok",
+    "date_paris": "2026-09-27 09:00",
+    "due_at": "2026-09-27T07:00:00.000Z",
+    "post_id": "6ab40466b425cfcccc8042cc",
+    "relais": [
+      "df-02756ef5675b4e3aa5d09d547fc8797e.png",
+      "df-9863ea52f8974ff8868325fedebf36db.png",
+      "df-64be1b4024e245c6bccd2eb4f3e3c710.png",
+      "df-53072346e9d545f5b6167b13a239871b.png",
+      "df-ea5d966a8d494acaaccc46fcf0e29b5d.png",
+      "df-9a152ad4a32b463383f7c85bca431a97.png",
+      "df-8b1dff5d5fa94de79793a253b16b5186.png",
+      "df-4e4801021edc495988c74a42e47abdd2.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-13-vigilance-lcb-ft-durees-et-peines",
+    "service": "tiktok",
+    "date_paris": "2026-09-27 13:00",
+    "due_at": "2026-09-27T11:00:00.000Z",
+    "post_id": "6ab53dd567bd3aad31fa87f2",
+    "relais": [
+      "df-d6a0d01b2e5844db8c4e030360443d14.png",
+      "df-f6170a44e2a94454af0fe2b3c2b6e708.png",
+      "df-dba40079ca1946da921234e61ce213c1.png",
+      "df-1306b97c926045ec992e91e08d6b9a35.png",
+      "df-d1c014b4c3ed461e917be3be27b46380.png",
+      "df-7c780cf05c7043edaab3544717a58cfa.png",
+      "df-3edf5f8594de4568b5b3731ffd07cfbb.png",
+      "df-1edbec2bc8df4bfcb2bcee3fd361af08.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-14-client-de-detail-ou-professionnel",
+    "service": "tiktok",
+    "date_paris": "2026-09-27 18:00",
+    "due_at": "2026-09-27T16:00:00.000Z",
+    "post_id": "6ab53ddb8333eb39f0e2d2c8",
+    "relais": [
+      "df-639bee79a23c4ad4b7fb271045fdad78.png",
+      "df-d4dc4c67cbc8456cb484175602c94aeb.png",
+      "df-6661ff77c3a44f5590a9b1eb671bdd31.png",
+      "df-bc49cd92fa4e4739ae017b5b07ac15e0.png",
+      "df-3bf2facd837144b498f5557bdb169e73.png",
+      "df-c65c4c4bbc7a433b8423c8e5d64d7424.png",
+      "df-e40afdba26e94880957c272fd3af36de.png",
+      "df-bc96c76dec39492aa4f23c561f8b238e.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-14-compensation-et-reglement-livraison",
+    "service": "tiktok",
+    "date_paris": "2026-09-28 09:00",
+    "due_at": "2026-09-28T07:00:00.000Z",
+    "post_id": "6ab5a70d09af459907b387dd",
+    "relais": [
+      "df-ed637b58aae840acb122118938dd7304.png",
+      "df-4173338fc9454d77805a5906707a1437.png",
+      "df-5406faec217741b29882907c0250850a.png",
+      "df-811fe781185546feb4ac2f90b5b2345c.png",
+      "df-d62823bea73e40bdb473523865aa9147.png",
+      "df-83471c90b22d43958034a7c79c602fd0.png",
+      "df-d43eaa86096441f2b5c4b6a9cb205e2d.png",
+      "df-973349b1bfda4fd3b4240017b83adf1f.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-14-option-call-put-ou-contrat-a-terme",
+    "service": "tiktok",
+    "date_paris": "2026-09-28 13:00",
+    "due_at": "2026-09-28T11:00:00.000Z",
+    "post_id": "6ab63136db73444101e69b06",
+    "relais": [
+      "df-6e0c7a9fda4a48a791571a0783721104.png",
+      "df-6b556235703643f79e22dbf8d33b2d1a.png",
+      "df-87df6e2c801242b986676a013c1f3cdf.png",
+      "df-fb200505c5504ef98018864b602f6e5c.png",
+      "df-cc518ed3e07b499da3d4c930b7b6ef46.png",
+      "df-503e00f062a14fe590f1f03d3e6ffa56.png",
+      "df-3dae96298c024144b6fb6fadf56be430.png",
+      "df-58e24faabc8647c4ba18539c5058462b.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-14-pea-cinq-ans-et-frais",
+    "service": "tiktok",
+    "date_paris": "2026-09-28 18:00",
+    "due_at": "2026-09-28T16:00:00.000Z",
+    "post_id": "6ab77808f59168c9753a1640",
+    "relais": [
+      "df-b95ef8b890a04470a79e1014661b0f28.png",
+      "df-ffffe5542ea0489cbad4496abb616540.png",
+      "df-eaa5753ee01040c2930350d3acac1c4e.png",
+      "df-2350a9b614f0435686fb23e8a17d4966.png",
+      "df-e6c0c41545bd474c8093a33bbab00b12.png",
+      "df-fae2d159225848bebafc6d1c97c35c20.png",
+      "df-cd178be1195c43a7b824aceb3f62e6bd.png",
+      "df-da11dd664d1e4f98bf992171ea3bd35b.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-14-types-d-ordres-de-bourse",
+    "service": "tiktok",
+    "date_paris": "2026-09-29 09:00",
+    "due_at": "2026-09-29T07:00:00.000Z",
+    "post_id": "6ab7780d84e8fc26af257b24",
+    "relais": [
+      "df-488049bd786044f492d57f348433177a.png",
+      "df-eb4d480cf2e94b0f9d6b1c03855b0134.png",
+      "df-10909c19978e445eb716600d4a075f5d.png",
+      "df-c4e22daf5ada47b3ac82df5302749717.png",
+      "df-c15675c95be34cf0ba35cce313dfbf5c.png",
+      "df-af62edf35fd7406eab4b5cff440fe445.png",
+      "df-0fc7988829c24f949bb1166823c4dbe8.png",
+      "df-7f24ca909523412fa35e8df72bb90525.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-15-etf-tracker-fonds-cote-en-bourse",
+    "service": "tiktok",
+    "date_paris": "2026-09-29 13:00",
+    "due_at": "2026-09-29T11:00:00.000Z",
+    "post_id": "6ab77811dffba3cec6f3274f",
+    "relais": [
+      "df-2cc21c04555642c78c4170a4dc241d61.png",
+      "df-2b874e720a6e45a3b4db9512945414f0.png",
+      "df-d2d4ebfd77134cf093ec0c896c9fa769.png",
+      "df-6e5d7904a9ec410fb831cadb43156931.png",
+      "df-a920986b40664f778f6013c39cd0b889.png",
+      "df-60ca97b2d94e4b9198f6b858f7e222f6.png",
+      "df-2a69e4435b5943cdb846bffcd2337c07.png",
+      "df-1d08d274080c4ffabce5a42c88c5b4a5.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-15-front-running-ou-delit-d-initie",
+    "service": "tiktok",
+    "date_paris": "2026-09-29 18:00",
+    "due_at": "2026-09-29T16:00:00.000Z",
+    "post_id": "6ab8e48e4b4b9f2c1c69ec90",
+    "relais": [
+      "df-0972e386217a41f6b73b89dba9c9b7f1.png",
+      "df-0082b3ce482644cd911029080b0de712.png",
+      "df-08087d7ee9b84d25a41c167560364990.png",
+      "df-d871d3cda36f4747ba980164d80d1332.png",
+      "df-31ad2320fdd24f1696ee452678659ec9.png",
+      "df-fd5dc251f7da47aea4b591247309a9c6.png",
+      "df-de8215d51190426ebd6df664590a1846.png",
+      "df-5e97e549df324597b29822b6e91ebcac.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-15-monetaire-ou-obligataire-les-tcn",
+    "service": "tiktok",
+    "date_paris": "2026-09-30 09:00",
+    "due_at": "2026-09-30T07:00:00.000Z",
+    "post_id": "6ab8e4943d66d464e5cf51cc",
+    "relais": [
+      "df-bc185abb5b734d4397527cabea099bb9.png",
+      "df-a0f411680e4b4dc2b75d04ca5d047b87.png",
+      "df-5b6fe290c03742dc8ed73b9fe9982a7a.png",
+      "df-1c3cac23b756482f87126b62d8979dea.png",
+      "df-2a3b6753da59488d90d9a6963dfd39ac.png",
+      "df-19e68b02ab8d41e9901174b31270ea17.png",
+      "df-b2fef9b7966e4e8e8406910469e4da34.png",
+      "df-537391b03642487e93725bedbad4ed3d.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-15-notation-aaa-bbb-high-yield",
+    "service": "tiktok",
+    "date_paris": "2026-09-30 13:00",
+    "due_at": "2026-09-30T11:00:00.000Z",
+    "post_id": "6ab8e49805811e57374a4bae",
+    "relais": [
+      "df-003881263e76498e9aff25470dd390ba.png",
+      "df-fa2eb4460be54c639f13b19661e9227d.png",
+      "df-f938e4a2350746f483d0a07e189a6b92.png",
+      "df-b789bfa369f74652bbe1250fc18be683.png",
+      "df-530967f74e2547c189dbdbb5bad3dbea.png",
+      "df-4fb1667fff7542908f9db10f1acc05ec.png",
+      "df-83f49ba862e540639e1ce8870ca1cd95.png",
+      "df-65952f10a21e44999712bd553f320877.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-15-scpi-ou-opci-fonds-immobiliers",
+    "service": "tiktok",
+    "date_paris": "2026-09-30 18:00",
+    "due_at": "2026-09-30T16:00:00.000Z",
+    "post_id": "6ab9fea336a0dcfcb3f20139",
+    "relais": [
+      "df-08bdf057bb064cc5858fc705cfb901cc.png",
+      "df-b2b929e843094e0bbe802754e92a234b.png",
+      "df-9f6b821fdb984ac78bd833f653385960.png",
+      "df-7bdf7bd081554d4484bbe2f5ef8105fb.png",
+      "df-bc767f24ce674a09b2eee3bd36b64520.png",
+      "df-4f7dac1d3b81439db906649a0c026a8e.png",
+      "df-f094387d7ca8424f8b9ec5f95f277fed.png",
+      "df-4cdc63ddfdae4ac4ae2178f4a8801434.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-16-action-ou-obligation-associe-ou-creancier",
+    "service": "tiktok",
+    "date_paris": "2026-10-01 09:00",
+    "due_at": "2026-10-01T07:00:00.000Z",
+    "post_id": "6ab9fea782dee5c85bd7d4e4",
+    "relais": [
+      "df-ecc0ca16947b4087b6d6179aaedfd50e.png",
+      "df-c8edf3c0008f417db6a752991acdadbb.png",
+      "df-5177fb5c25a54b9dbeaddbc1f6a9a60a.png",
+      "df-0a6b2af3641946c38268ff536b2069ee.png",
+      "df-b3c41f80a7c94ec9a13529db45366fcb.png",
+      "df-b42c27290600457e81791dc301052c92.png",
+      "df-66f051edcb214f1d87ac368658940dfd.png",
+      "df-7a8985559bbd4af7bf2ad868ebd0e125.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-16-credit-liquidite-contrepartie-quel-risque",
+    "service": "tiktok",
+    "date_paris": "2026-10-01 13:00",
+    "due_at": "2026-10-01T11:00:00.000Z",
+    "post_id": "6abaac4c6219c00209b959c6",
+    "relais": [
+      "df-95c48fe79c20442997f29294d5c36503.png",
+      "df-9a912fd954ca4cc3aa562d9fbab2068e.png",
+      "df-1890676b3311400a83782aa4c9f133a3.png",
+      "df-af3afd47caf2484797622e0ea2299dc1.png",
+      "df-1996d5b1da014569bd6382bc82d41637.png",
+      "df-325aae1bc902468f860e2a00660863f3.png",
+      "df-94ead46626ac411aaf7e1c97f22efdd1.png",
+      "df-adda73b37a264593a6804b239c2e031b.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-16-financement-participatif-psfp-5-millions",
+    "service": "tiktok",
+    "date_paris": "2026-10-01 18:00",
+    "due_at": "2026-10-01T16:00:00.000Z",
+    "post_id": "6abaac517c19a799daed90df",
+    "relais": [
+      "df-b59daba177ce4fb7b66684e0a5ba6517.png",
+      "df-e953d0770f4942a7931028c38c7c95fe.png",
+      "df-81aa2c90a31d4372bf9e8842bc1d7ea1.png",
+      "df-64ae4fb09a394a75a4a52e1fae4dfc91.png",
+      "df-fefe7f058231419b888cfbf46f46c304.png",
+      "df-19f68377f4114ad9a7ef319ab09989de.png",
+      "df-dae607a3b6eb4cdd8dac43096a53f9b2.png",
+      "df-515dbfdb86fa4808be76598deaaa2e49.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-16-preference-vote-double-dividende-majore",
+    "service": "tiktok",
+    "date_paris": "2026-10-02 09:00",
+    "due_at": "2026-10-02T07:00:00.000Z",
+    "post_id": "6abaac566706f7fb01025e8d",
+    "relais": [
+      "df-9624294c780b4651b77aea0585c4eb35.png",
+      "df-5aba530773e64d92b34ff02944d098cb.png",
+      "df-fbb108ec614e4662bb3e05a0d130518d.png",
+      "df-7b8c7e74ec014405923cd0dd09bb4f8c.png",
+      "df-b5037fe796614551a50da25336fcb815.png",
+      "df-f8a0169576b2439e827d009745b2afa8.png",
+      "df-779b640ae91b4ac1893ee8690c93e4fe.png",
+      "df-7bbf68f97e4f49589c0aee6148cac465.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-16-qui-fait-quoi-contre-le-blanchiment-gafi-tracfin",
+    "service": "tiktok",
+    "date_paris": "2026-10-02 13:00",
+    "due_at": "2026-10-02T11:00:00.000Z",
+    "post_id": "6abcbb2a3b1eb12e6e49362b",
+    "relais": [
+      "df-ef75ef0893f14fbc9d7c15a7f0930bc4.png",
+      "df-2528cc16ff2a4c09beb295ba5401259d.png",
+      "df-b4045a60bffa4576ae263e628b51dd65.png",
+      "df-1ae095d17340494a8e39c84e3a19aa9f.png",
+      "df-6c6a0dde4c554b8b9a08a1f349ec8bba.png",
+      "df-77cab8a544f345a48054638790fcc8cd.png",
+      "df-295b2b8c362f4c989b9033c4524f2905.png",
+      "df-0c82b6ab1d244dbbbf5af1b9b1292345.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-17-csrd-sfdr-taxonomie-trois-textes-verts",
+    "service": "tiktok",
+    "date_paris": "2026-10-02 18:00",
+    "due_at": "2026-10-02T16:00:00.000Z",
+    "post_id": "6abcbb2f28074da804c5b752",
+    "relais": [
+      "df-e15b7e7aed5d44d79c6ca98e86d7bb66.png",
+      "df-0821b1389dca49b79b79b72d2b58864f.png",
+      "df-e752354dc21c44e493b83af727790e19.png",
+      "df-fa88900d7c6649a8bc4c53fc4841a9ab.png",
+      "df-a0599c90e3b24785befaa47ed1a55cfc.png",
+      "df-2115c5cbc2ab4dde95715cafc1ee710c.png",
+      "df-03a50662e7674312a04ccb6a1e0ed2dc.png",
+      "df-8af8b84e82c74a33bad9371bb3a91622.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-17-dic-ou-dici-le-document-d-informations-cles",
+    "service": "tiktok",
+    "date_paris": "2026-10-03 09:00",
+    "due_at": "2026-10-03T07:00:00.000Z",
+    "post_id": "6abcbb33c595610f202e52ba",
+    "relais": [
+      "df-129f826986044a1f8f23889d5961a7ca.png",
+      "df-88c6aaa2243d47599b11532afc45b2ba.png",
+      "df-966b766fe42240dabb2dc1c2e0603c26.png",
+      "df-ef44b10313364c23a9fb5d90bf0f2627.png",
+      "df-ea85b021283947b2b3385e249d19010f.png",
+      "df-81323a5285274bf1989e305c1b00a7f4.png",
+      "df-d207592e1de14bdebd31945aa5e25641.png",
+      "df-ec25a2e151ff4d0cafeeca2436b51c0e.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-17-liste-d-inities-et-muraille-de-chine",
+    "service": "tiktok",
+    "date_paris": "2026-10-03 13:00",
+    "due_at": "2026-10-03T11:00:00.000Z",
+    "post_id": "6abcbb3828074da804c5b81c",
+    "relais": [
+      "df-2f5c443f2c2246039d24e6eb67a42154.png",
+      "df-29f4a3916e5d4b09a601735d2ab3b7ca.png",
+      "df-0bc982492512429baf642f4e22802402.png",
+      "df-eb0ed8e388844a67866e67da2fc2eaa4.png",
+      "df-60f518a88d8a45afab120d1fa303c907.png",
+      "df-c5c3618110fd4882a73371ff8d9d2528.png",
+      "df-84329183375e4a5f8ca5fff7b6761f2d.png",
+      "df-39a4908645684259b38f29f28a6294dc.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-17-quel-test-adequation-ou-caractere-approprie",
+    "service": "tiktok",
+    "date_paris": "2026-10-03 18:00",
+    "due_at": "2026-10-03T16:00:00.000Z",
+    "post_id": "6abe41c3a92dda6a728467ba",
+    "relais": [
+      "df-74c82155603345a3927d9aaf90026835.png",
+      "df-e920e80339d24f0894e851ccd5e87567.png",
+      "df-e7b8356743824cb5b1fbef93e07cbdd7.png",
+      "df-a078be882ce64e4ba7cceb2940482a3b.png",
+      "df-b71b10cdc53e46b6aed09f1c59394d4b.png",
+      "df-5f5652d561a94e278d171df5ed6ec3c7.png",
+      "df-a473f13f9ed84b0bbe2a4fbf7b183dac.png",
+      "df-53df513fef1e4e4f8525b2e9474388eb.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-17-secret-bancaire-qui-peut-le-lever",
+    "service": "tiktok",
+    "date_paris": "2026-10-04 09:00",
+    "due_at": "2026-10-04T07:00:00.000Z",
+    "post_id": "6abe41ca3607bfdadeacf241",
+    "relais": [
+      "df-24bc69e58224477693564cc15613fa17.png",
+      "df-8fd5de30aa574fdd864958624cf8b9dc.png",
+      "df-a2ff2f32b1944258a28e3c368792bb24.png",
+      "df-4cad97c3bf9f43139c239b8e665adc67.png",
+      "df-e463caf7475e4434ba11491aa13bcba9.png",
+      "df-817ddfe21a6344799415ffe6a7e96fbe.png",
+      "df-82d1deb4a9924a85b67baa1b3f229a05.png",
+      "df-961b21b4c6a7452193f8dfd9083c27a9.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-21-clause-de-grand-pere-qui-est-dispense-de-l-examen",
+    "service": "tiktok",
+    "date_paris": "2026-10-04 13:00",
+    "due_at": "2026-10-04T11:00:00.000Z",
+    "post_id": "6abe41d0160ef0fb5a9e3d9c",
+    "relais": [
+      "df-63ab15e2ec864410abd5f903257ce80e.png",
+      "df-0680227567d941d8a4e3e5e60183f25f.png",
+      "df-c619faa08f034da7af58d96688a7d96a.png",
+      "df-b28e4c55726948c19c9f42bf65e7acec.png",
+      "df-90c0877b12994420bbd2e2abd1cc9ead.png",
+      "df-2c5871e50b6848038af00450f00f64e5.png",
+      "df-39758687a30c4130ab507ad0c7dbe86d.png",
+      "df-76970912a0674baaa636e02384e4e547.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-21-fcp-ou-sicav-actionnaire-ou-coproprietaire",
+    "service": "tiktok",
+    "date_paris": "2026-10-04 18:00",
+    "due_at": "2026-10-04T16:00:00.000Z",
+    "post_id": "6abe41d654106926208f55f0",
+    "relais": [
+      "df-5052556886fe4945bc5199904a61c4fd.png",
+      "df-be53bd04f74e4945891cf8b8d42992c6.png",
+      "df-e2986ff2ae664a128e7539fb85a0340f.png",
+      "df-44ece8a0f4b74c71a2f079bf6ab2fe41.png",
+      "df-19b4750f0a5c41cda8c1de1262660448.png",
+      "df-5ef190ff1c9b4d8482759489aa409a0e.png",
+      "df-cbb16ae9d50a4f93972691a5ddb38699.png",
+      "df-fbb41dfdbad84ffd8441863d10a55d08.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-21-ratio-cet1-le-matelas-de-la-banque",
+    "service": "tiktok",
+    "date_paris": "2026-10-05 09:00",
+    "due_at": "2026-10-05T07:00:00.000Z",
+    "post_id": "6abf60c863de9e09a29274ef",
+    "relais": [
+      "df-dc58111847b8420fb8e248f831cca382.png",
+      "df-8e4f85e046cd456bb5dc35757eca49aa.png",
+      "df-76113c03368946248c3d39ed6f2014cf.png",
+      "df-58e8438f8ddd433bb2630a3f3ab84525.png",
+      "df-2d89d15f8ad04ac983e4ef7d6d8018aa.png",
+      "df-f9c8e0cdc45244c18ce0d13ab755ddee.png",
+      "df-bd418cf4b70c4d50a3c7d44fc75cb84b.png",
+      "df-9ea318f9cbb04b26b3817d6f1192b916.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-21-titrisation-qui-rachete-qui-gere-a-qui-on-vend",
+    "service": "tiktok",
+    "date_paris": "2026-10-05 13:00",
+    "due_at": "2026-10-05T11:00:00.000Z",
+    "post_id": "6abf60cc8bccc8e6416f9c2a",
+    "relais": [
+      "df-f664bbb01ab147f7af40c140f6fdfee2.png",
+      "df-4ec692af5e924a0484cd88d15d5a5278.png",
+      "df-0ab4a53aee24434daf581532c10ebbfc.png",
+      "df-29daaef814de46e0ac233fb685a91cd7.png",
+      "df-ce34b6cc98aa4c1b97e25a339487b748.png",
+      "df-436968ccbbf44891a05b6f7e49d23491.png",
+      "df-0fea88c051434be7972bf4c09b637a69.png",
+      "df-00c8c00c4bd1463cb0baff40c66f4fd6.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-21-tracfin-declarant-ou-correspondant",
+    "service": "tiktok",
+    "date_paris": "2026-10-05 18:00",
+    "due_at": "2026-10-05T16:00:00.000Z",
+    "post_id": "6ac27be32dd93d8b00f59b03",
+    "relais": [
+      "df-a0907a24df4f46ca8d7488297e98bde5.png",
+      "df-46a3821ef2694077b7ce2bfaf3bcb7cd.png",
+      "df-0701fbb4bad14930ad9e16498653e159.png",
+      "df-673eccb65ffc480eb7d8934a1089ad50.png",
+      "df-e8a5954abe1148238ba3a8d82918c39a.png",
+      "df-a15522c79278489ea8957cfd951e7fe4.png",
+      "df-23e14a4fef8242afbc50387f64152673.png",
+      "df-352b9fa6356c4e488790b3d1f1ffdf6a.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-22-crypto-actifs-ce-que-dit-la-loi",
+    "service": "tiktok",
+    "date_paris": "2026-10-06 09:00",
+    "due_at": "2026-10-06T07:00:00.000Z",
+    "post_id": "6ac27be78f2e554cdf2be36f",
+    "relais": [
+      "df-613313b8372d4e978fa3b2a8cfd8d4b2.png",
+      "df-61a27fa33fbf4e149a08668907b6b1c1.png",
+      "df-a77c564b521940fab05b9a332e77ae9d.png",
+      "df-6b7f925d5d1f40a0844828cd4ab139d4.png",
+      "df-f90388a2b2394263b65be0c1ca3714db.png",
+      "df-4d364c1462c2436fb3c6a644ccec4e0b.png",
+      "df-de0ede76f9cf4b14be2f7683e2995618.png",
+      "df-2e98e48968294dc99b30c6bb881750da.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-22-enregistrement-des-appels-qui-ecoute-et-pourquoi",
+    "service": "tiktok",
+    "date_paris": "2026-10-06 13:00",
+    "due_at": "2026-10-06T11:00:00.000Z",
+    "post_id": "6ac27beb8f73649f46112404",
+    "relais": [
+      "df-1d9393b8e3604fd286bff64540a5bf10.png",
+      "df-4a1076377fa244208b886f99d857d56d.png",
+      "df-9eb2706355a747cca926eedf8b879389.png",
+      "df-e6a6917e915948b88697084f55622a12.png",
+      "df-08930ad7991d4c95bf94429d3c32c639.png",
+      "df-b1b9ec68c01547f88fdb91aec411d9ab.png",
+      "df-5d046c76175b4b4ab76df25697bab339.png",
+      "df-bf412028014c4a98a6437eec47455dfa.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-22-frais-d-opc-et-droits-de-garde-qui-paie-quoi",
+    "service": "tiktok",
+    "date_paris": "2026-10-06 18:00",
+    "due_at": "2026-10-06T16:00:00.000Z",
+    "post_id": "6ac27bf08f2e554cdf2be443",
+    "relais": [
+      "df-ffc87da4ca4c44e48d59397b6a28ed6f.png",
+      "df-c1dfa40f3cdf431b8de8e880223b5639.png",
+      "df-7037dc3c6dbc4dc6811fc0917dc5d8b1.png",
+      "df-3d399b2093524de388701b02b8243898.png",
+      "df-9eea69262e444714bacae3c8155e41c4.png",
+      "df-ce5be0f59885422a8b132fecc277e836.png",
+      "df-8e14c510a30d471bb28f42a52ee3981f.png",
+      "df-ebb409cca3b44abaacd5a97bf0df0264.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-22-information-permanente-ou-periodique",
+    "service": "tiktok",
+    "date_paris": "2026-10-07 09:00",
+    "due_at": "2026-10-07T07:00:00.000Z",
+    "post_id": "6ac27bf563761da98b52cb40",
+    "relais": [
+      "df-915a6fb017b847a09b8449e2d21da3ad.png",
+      "df-d22dd09e339742a08a6716f613721df9.png",
+      "df-44318db329bf49e09b345703c66c3049.png",
+      "df-00dca442201646be814bef279ca7642b.png",
+      "df-189d97fd0f8e475fadfedfe856cd4113.png",
+      "df-4f5ea4345a1949e4919e86fd6d7db2e9.png",
+      "df-273f840035a64ea6a1bbe63837b53940.png",
+      "df-0f209fdb47764f40a79f162778a61eb9.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-22-mandat-de-gestion-moyens-ou-resultat",
+    "service": "tiktok",
+    "date_paris": "2026-10-07 13:00",
+    "due_at": "2026-10-07T11:00:00.000Z",
+    "post_id": "6ac27bfa8f73649f461125e4",
+    "relais": [
+      "df-4e16e3bf003641538a031ad5cf8e5d0a.png",
+      "df-fde11ec6442e45eabd8c25b10d77b580.png",
+      "df-f127bac97dc849e086c05a12a88f5399.png",
+      "df-6ba66ebac51043cf84a8ae743fcf7adf.png",
+      "df-4ef568dc287a4b5393742f31a842ce51.png",
+      "df-7287fc5b3aea49a2912d0ecd6c34ebd2.png",
+      "df-cae0de623b2c4208919f683900cd41ec.png",
+      "df-74e71afb6e15407c8e62c415ed0234d5.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-22-marches-derives-de-gre-a-gre-ou-organise",
+    "service": "tiktok",
+    "date_paris": "2026-10-07 18:00",
+    "due_at": "2026-10-07T16:00:00.000Z",
+    "post_id": "6ac27bff8f2e554cdf2be787",
+    "relais": [
+      "df-3bc73b0c66ec4a2c9723d0400f933970.png",
+      "df-46b65011d0ca40c8bbe04e03f25212d6.png",
+      "df-508939bc88894e48b75676d85c81dc44.png",
+      "df-e0fb8cca96244f5b95249fa03eb31c1d.png",
+      "df-0daf518cab224b4fb4c0f40c585a8595.png",
+      "df-a8188150edaf4fbaaedd3768e9192420.png",
+      "df-c0df73fc629f4923983465f3740db16f.png",
+      "df-cac59b2854d74fad97e593176576b097.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-22-qui-doit-passer-la-certification-amf-et-quand",
+    "service": "tiktok",
+    "date_paris": "2026-10-08 09:00",
+    "due_at": "2026-10-08T07:00:00.000Z",
+    "post_id": "6ac27c038f2e554cdf2be96d",
+    "relais": [
+      "df-fcbecdfd9fd64182982d8d561793d100.png",
+      "df-6619fa4508a4497cb7309b455cd9aaf2.png",
+      "df-036da59629334dec8a702dadd7da6d18.png",
+      "df-eaeecdc86499477b94b68df47f802eb0.png",
+      "df-799a19d3dccd4bd5a0175c62617cbb52.png",
+      "df-414e84d9b78a4bbd96d6fd1af8472277.png",
+      "df-b33739a16dbc4353993b4bc0849e8366.png",
+      "df-48d19b7df2fe4e47b89f53f3435fb86b.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-22-reclamation-client-delais-et-mediateur",
+    "service": "tiktok",
+    "date_paris": "2026-10-08 13:00",
+    "due_at": "2026-10-08T11:00:00.000Z",
+    "post_id": "6ac35a8dfe1389e41357f0dd",
+    "relais": [
+      "df-6cb5a8fecb8d42318a0cd7293a111dfc.png",
+      "df-f9eca4d21b784876a5cfe7556e1db6fb.png",
+      "df-152a2eabf11a49f8a53f016fca66a7d6.png",
+      "df-1a0af0a8a9bf473d89fe63de50cf0152.png",
+      "df-7f8cd6ad06934a289af1772d3a2e2159.png",
+      "df-e39f5ccab82e480283c874f6b0b811f9.png",
+      "df-1e77b1037e9b43ba81ca2ff29d9bedcc.png",
+      "df-244de5be4b364104926beea64219f36f.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-22-sanctions-et-gel-des-avoirs-qui-decide-qui-execute",
+    "service": "tiktok",
+    "date_paris": "2026-10-08 18:00",
+    "due_at": "2026-10-08T16:00:00.000Z",
+    "post_id": "6ac4a9bfd22f62f240c22147",
+    "relais": [
+      "df-b30f12b7ab2a4235825173c71d5e7413.png",
+      "df-428e70c9dabc4fdf894e41e4cd9b4aa2.png",
+      "df-82ffccdf5b1d42a5809b4d885520b10e.png",
+      "df-4fe39b4a0ccd445a9a67bea727ad8460.png",
+      "df-e0d4618d6d7e40798426833dc6853358.png",
+      "df-420fb03172b74b5ca22fcb49546231a9.png",
+      "df-00979533752f45ec883259837197b6b5.png",
+      "df-3c3555d447544c4ebe954da8450de686.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-22-surendettement-et-redressement-quand-ca-va-mal",
+    "service": "tiktok",
+    "date_paris": "2026-10-09 09:00",
+    "due_at": "2026-10-09T07:00:00.000Z",
+    "post_id": "6ac4a9ca2be1e9f5ca4d4467",
+    "relais": [
+      "df-0d1304ae3b434d0f9a69187b3e2566ba.png",
+      "df-abbe6b4d8c3a41df89ba972a324ddc00.png",
+      "df-59e8c33c683745e59e28b0027a0599fb.png",
+      "df-3078e738012348a181322809c8df70d2.png",
+      "df-38377d9d91e94b11a0ab189063fec3e1.png",
+      "df-b91f45b92385477ea3a00e0abdefcb5d.png",
+      "df-82eab466f05d4cbaa1bb25870c408e62.png",
+      "df-711dd587b3d04a0aafe1d2f97e8e0e24.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-23-attestation-amf-valable-a-vie-ou-pas",
+    "service": "tiktok",
+    "date_paris": "2026-10-09 13:00",
+    "due_at": "2026-10-09T11:00:00.000Z",
+    "post_id": "6ac4a9cf1438456395ac57e9",
+    "relais": [
+      "df-0841bdf5b91f467ca8a7d1d1b7a32a50.png",
+      "df-853c7d0cfe2e45d7bdb3ccf2e2b79ff9.png",
+      "df-c215cc72fe3948878a3812a89cf1cbf7.png",
+      "df-004fdb7139894533b10d8c5da300f1f7.png",
+      "df-32a96c9fb76f4fee9e7f8f5705d9b6a0.png",
+      "df-a562ce5118a84f19be94ba33b42a67de.png",
+      "df-a8ca7d28444b4b9dac31bb1d3d772ee2.png",
+      "df-6b49fd61358c4baa9e29fad578098db3.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-23-bale-oicv-fsb-qui-fixe-les-regles-du-monde",
+    "service": "tiktok",
+    "date_paris": "2026-10-11 09:00",
+    "due_at": "2026-10-11T07:00:00.000Z",
+    "post_id": "6acaa051f91f772d45a6de34",
+    "relais": [
+      "df-092ed4f5dfe145cbb889131dfd48a47b.png",
+      "df-5a2719088b4e446092fbc48b69b6e8c2.png",
+      "df-811f14c62d6444c98ff92d8a0b738bc8.png",
+      "df-9ecacf426a26457492756ba710cda267.png",
+      "df-64c42950f6ef42a885a8e1c25125c7aa.png",
+      "df-25d326d70bcf4d46b0630fd92ef297ae.png",
+      "df-6d10ed6d5fa34082997296091cbbd080.png",
+      "df-0200d85e6ec54cdfa57e8b9d10be1cfe.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-23-capitalisation-ou-distribution-meme-fonds-meme-risque",
+    "service": "tiktok",
+    "date_paris": "2026-10-11 13:00",
+    "due_at": "2026-10-11T11:00:00.000Z",
+    "post_id": "6acaa073b07d37ac9786607d",
+    "relais": [
+      "df-db8305becd7a4cbea5033d716683c14f.png",
+      "df-add50f8b1e884b57a1062d92963d8a98.png",
+      "df-47bd2688b2f54662a8b6c0e2490b222d.png",
+      "df-72a46f58a4314a2b82e25584cd58b630.png",
+      "df-459014dbc38c49dbbfb23eb2ad920c32.png",
+      "df-c4215bfb93b448c39b3a66294b53842c.png",
+      "df-7450bd0ca63c412fb2724bf86ef2499c.png",
+      "df-aa0ee0b5c02340efb1bae082c1e7d45c.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-23-fonds-euros-ou-unites-de-compte-garanti-ou-pas",
+    "service": "tiktok",
+    "date_paris": "2026-10-11 18:00",
+    "due_at": "2026-10-11T16:00:00.000Z",
+    "post_id": "6acaa078b07d37ac9786611a",
+    "relais": [
+      "df-361e78f32d174e1798393f824bddce14.png",
+      "df-9cdfb9e502104491855cd50a7a6fa834.png",
+      "df-df877896eaba450ea42c0bf4fc71e7e3.png",
+      "df-872af4da019946d9b6829c5ec9bef8f5.png",
+      "df-fb0b15ba6c0c45c18e93e784936b74b2.png",
+      "df-568a2b9e6afd40e1933ff497a5e23d29.png",
+      "df-a2dc845db3c74a96a2867dc3c796a29f.png",
+      "df-71f79f789294470f887f0ca463eafac7.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-23-trois-pouvoirs-de-l-amf-regler-controler-sanctionner",
+    "service": "tiktok",
+    "date_paris": "2026-10-12 09:00",
+    "due_at": "2026-10-12T07:00:00.000Z",
+    "post_id": "6acaa07db07d37ac97866251",
+    "relais": [
+      "df-aaefc5d683274ddb906861e5f1fa7325.png",
+      "df-4fa70a36a0a041498f59c05b453668e3.png",
+      "df-6555853457904706a446cb02d8326ba4.png",
+      "df-8275510006f842d3aa28d04c121eb711.png",
+      "df-79e69e67170e4e2fb7bc66adf3dbd654.png",
+      "df-ba524aedab7242feb67925e9d01e2791.png",
+      "df-cc4ffe08dc2d49f7809788a129a9706f.png",
+      "df-fb20f1e77a8f43d882b3f76ed1b662c8.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-24-bce-taux-directeurs-qui-decide-vraiment",
+    "service": "tiktok",
+    "date_paris": "2026-10-12 13:00",
+    "due_at": "2026-10-12T11:00:00.000Z",
+    "post_id": "6acaa082bba9419ccb14f255",
+    "relais": [
+      "df-53625f4fc16a4bdb87aea736df73f1da.png",
+      "df-ba150a26277742c189977576f24cbd5b.png",
+      "df-69a789c305af41d481f9ba78fb91fdcc.png",
+      "df-057dfbaa78974d2ba0cb0e1bf9aaab8f.png",
+      "df-5ac7dbb6d4e549a1bfff79c1d70fa6eb.png",
+      "df-c7776476c54d400fab008cfdaa6bc07b.png",
+      "df-a05a1cb707c44513a62776c94f73a392.png",
+      "df-86abe3ee9cf44956894dc49ba2f15f4c.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-24-cac-40-dow-jones-qui-calcule-combien-de-valeurs",
+    "service": "tiktok",
+    "date_paris": "2026-10-12 18:00",
+    "due_at": "2026-10-12T16:00:00.000Z",
+    "post_id": "6acaa088d9cab260a7d812b8",
+    "relais": [
+      "df-e8f75b79544046408c3794c5b362616c.png",
+      "df-feb619f8ddf4486abb10dd56f52b3fc4.png",
+      "df-2560a84b037e4508a03815a5046ed884.png",
+      "df-efcd1f70324c40478bb714d92f6a305e.png",
+      "df-eb1dbf8c8ab6477e84c3edcaa4033b8c.png",
+      "df-4b9bbdb99fc549ad8f37be31b97cc4a0.png",
+      "df-5a8550fa34cf4d0d9348fef0bf010b42.png",
+      "df-1ce10a91a352407aa07732a72e01d241.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-24-concept-emission-ou-bourse-marche-primaire-ou-secondaire",
+    "service": "tiktok",
+    "date_paris": "2026-10-13 09:00",
+    "due_at": "2026-10-13T07:00:00.000Z",
+    "post_id": "6acaa08dc4de2d2b123cda6e",
+    "relais": [
+      "df-15ee8148655d4be4b2d3e73f1fabc0e5.png",
+      "df-0c12683b0832463fb410866b797ab3a9.png",
+      "df-4c548065a114450789a092aac49dd9e5.png",
+      "df-d5d4581b96d443aa859134c0667e4315.png",
+      "df-d84183f4ca014c97956fb8823c5605aa.png",
+      "df-7aec08b4b8b34a71a232e2b291e69724.png",
+      "df-455154ba1268497aa75ed9e490c30197.png",
+      "df-323390096fbf4ed685efe259625337eb.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-24-fixing-carnet-d-ordres-qui-passe-en-premier",
+    "service": "tiktok",
+    "date_paris": "2026-10-13 13:00",
+    "due_at": "2026-10-13T11:00:00.000Z",
+    "post_id": "6acaa091f91f772d45a6f17e",
+    "relais": [
+      "df-67b2055023ea47ff81ef0d2fc5030ed1.png",
+      "df-9f660234ed9e4b00a2bcbf443e709b7a.png",
+      "df-603e2a57c5284e9c8d2e09e788139e06.png",
+      "df-d538be316ea5432690a2b31dfe078030.png",
+      "df-76bbf5230b4d410faaab4b4b15d3ccb4.png",
+      "df-5d6f68101bc24a0baaf32d1781578b20.png",
+      "df-09d86a13c33542bd8a5f57277323f506.png",
+      "df-2258a314d48c4e898e1f37d7fc36438b.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-24-srd-future-cfd-le-levier-dans-les-deux-sens",
+    "service": "tiktok",
+    "date_paris": "2026-10-13 18:00",
+    "due_at": "2026-10-13T16:00:00.000Z",
+    "post_id": "6acaa096b07d37ac97866539",
+    "relais": [
+      "df-aa783b05d38a4ac2acf08632dd0b0204.png",
+      "df-4ecde7bac9f4428abfc0cabe32981b9d.png",
+      "df-86d8eb72cbf4490ca637ce1e5ed6e765.png",
+      "df-040e4d7f778f4556b0ad52d5bb23bbdb.png",
+      "df-7b29da62e1f746298ed0411b5755049f.png",
+      "df-92f3db747281404b93f7260df58e9670.png",
+      "df-eaeda5ad398346208ba0152a9082cdb8.png",
+      "df-b47adf30677443849b0ed2a7e78e8438.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-27-action-chere-ou-bon-marche-le-per",
+    "service": "tiktok",
+    "date_paris": "2026-10-14 09:00",
+    "due_at": "2026-10-14T07:00:00.000Z",
+    "post_id": "6acaa09ac4de2d2b123cdb8e",
+    "relais": [
+      "df-59d9b48cc64d4e48b5eac729d3d646bb.png",
+      "df-7178571fc70e42479973474e8eab52b0.png",
+      "df-b28768c7c7bd4e24acc33df6ff43de78.png",
+      "df-a421cb0216424510a82173cef8422d79.png",
+      "df-6fe3020715054647bd0ec49b520caf9a.png",
+      "df-ef7389f55ae3480d80bcd7141209f8d9.png",
+      "df-9b313a6c6c0d4dedade8a2d8ea646d1b.png",
+      "df-5578d08ba4634c2e8d1046eb26f32c61.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-27-banquier-qui-trade-pour-lui-transactions-personnelles",
+    "service": "tiktok",
+    "date_paris": "2026-10-14 13:00",
+    "due_at": "2026-10-14T11:00:00.000Z",
+    "post_id": "6acb4ce3ed92ed8fa5f8a485",
+    "relais": [
+      "df-524b867f36fb4dd99c688ddc24a6d302.png",
+      "df-114632042d144f68be554b62f59f4526.png",
+      "df-974340ebaf65454ebc13f7e6113660aa.png",
+      "df-85f7be0e1cf94bb6abf95116276786e4.png",
+      "df-c6ad8341c7c44ff7a6b0c0f2ea324b49.png",
+      "df-194abce60f594ad796fb5beeb47ed36b.png",
+      "df-874003bec27c461889fed9a1dee0a69c.png",
+      "df-e68cec18869449a69323ec7cbaed9134.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-27-concept-vigilance-simplifiee-ou-renforcee",
+    "service": "tiktok",
+    "date_paris": "2026-10-14 18:00",
+    "due_at": "2026-10-14T16:00:00.000Z",
+    "post_id": "6acca1ce5feb3462de993ae1",
+    "relais": [
+      "df-f562ceed5ee24fe698684fd04b7a2652.png",
+      "df-b40050dfa1ca466abb5428dadfa7b1f8.png",
+      "df-b6744f98f29d41b8b2bdeaf8bed6fdd1.png",
+      "df-bdba8e3a5dc04f8ca2fbddd076dad6fa.png",
+      "df-55126802d7e6491c98f361a9807a787a.png",
+      "df-849a31262b0e43aaa1beaa5c3490286b.png",
+      "df-7ad68a3e7d6e4069ae3aa77cd26b75cc.png",
+      "df-4a8839102568476eb0a96ff1d9c4ccb5.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-27-late-trading-ou-market-timing-l-heure-qui-compte",
+    "service": "tiktok",
+    "date_paris": "2026-10-15 09:00",
+    "due_at": "2026-10-15T07:00:00.000Z",
+    "post_id": "6acca1d3802e657d5c40ba38",
+    "relais": [
+      "df-8073ec88e4d840ca845d05709490c38d.png",
+      "df-5c1b40de37d4457e8bd24442ddd031ea.png",
+      "df-8b7f041ec32b41d99f4fd7e6c3210d1c.png",
+      "df-73f1fba6b04a4488bdeeb0a7f10bf819.png",
+      "df-a6cd6ddc33ad4a95b21200b361236147.png",
+      "df-c757317aab6a4b4082562fd258e5f4a2.png",
+      "df-01adc175e9ee44cda0f73a4ed507d044.png",
+      "df-c2408b3912bb40e7af59f06e1a9d7b99.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-09-27-zero-coupon-et-strips-ou-sont-passes-les-interets",
+    "service": "tiktok",
+    "date_paris": "2026-10-15 13:00",
+    "due_at": "2026-10-15T11:00:00.000Z",
+    "post_id": "6acca1d7712ba82086b3bd54",
+    "relais": [
+      "df-6196cf7785244f628a6531876ef13fc5.png",
+      "df-77904ae29d5548908c32bad1fa82d8bd.png",
+      "df-7d38db4aeeee49cca80818d33e69e2cd.png",
+      "df-71060d818f7d4b15bb1fcf58df789ca6.png",
+      "df-952d8c5d932149ac980c00b2611b373a.png",
+      "df-35579e2acf3e44809b96b2f6651631e8.png",
+      "df-b5ad1bfa26054826995894048ec67f73.png",
+      "df-2dc4f3f1789f4b08bf03c28574e8e12c.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-01-avis-d-opere-quand-il-part-ce-qu-il-dit",
+    "service": "tiktok",
+    "date_paris": "2026-10-15 18:00",
+    "due_at": "2026-10-15T16:00:00.000Z",
+    "post_id": "6ace669e11032ccdb8c24c23",
+    "relais": [
+      "df-eed7dd0e875541dda1d62c701061fe74.png",
+      "df-9c9fae23e2d1450fb4bf4a24a0010997.png",
+      "df-c7ee49e9c277483eb4017a3dc0cf965f.png",
+      "df-50e03e6719cf465aabc7b9de68c45c95.png",
+      "df-52b03341c5ab4f8687abaa675eda00b6.png",
+      "df-c3cb97131bba4003be7acbd0b1b90dc1.png",
+      "df-6b45ea4140b241d2be1fde39c4ec0e12.png",
+      "df-333014c75fe2493cbdb4b3e10156a81a.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-01-cash-ou-actions-le-dividende-qui-choisit",
+    "service": "tiktok",
+    "date_paris": "2026-10-16 09:00",
+    "due_at": "2026-10-16T07:00:00.000Z",
+    "post_id": "6ace66a405447a55937247a2",
+    "relais": [
+      "df-027a5b82defe49089da7ed5b4b65262f.png",
+      "df-33b500aae20c425db63fb0518bd1da0b.png",
+      "df-40eec72388864cd09a78610b89e6b1ad.png",
+      "df-6e19327992b7499da7dde526088683a3.png",
+      "df-924033d94b904cff8c7b6e7a070df29f.png",
+      "df-9f51341ea40b4539a0ac12e8cc7d14fe.png",
+      "df-0b326327b7db4bc4b20bd79f01d997fa.png",
+      "df-896302ac355645e38709f66f35d154d7.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-01-concept-conflit-d-interets-informer-en-dernier-recours",
+    "service": "tiktok",
+    "date_paris": "2026-10-16 13:00",
+    "due_at": "2026-10-16T11:00:00.000Z",
+    "post_id": "6ace66b2d718c7e2826f94d0",
+    "relais": [
+      "df-6001e260464840f39fcf110f707278f4.png",
+      "df-892286adb3e04614bea7c3b3633ff68f.png",
+      "df-f597e0c2cf9c4fe9958aa77c16d3e771.png",
+      "df-cedda01aec4b4c96937d9fb02d7fe0d7.png",
+      "df-bcb230c1abfb41c7a7ab9b5ce6f1439b.png",
+      "df-e7187d1f0df542f9b935a6908a0c3d14.png",
+      "df-5e0d4e4286f444d8aebf7f7729ebae95.png",
+      "df-b33bfc17e8f24ff3b769637b16a9ffa8.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-01-inflation-stagflation-et-oati-qui-protege-de-quoi",
+    "service": "tiktok",
+    "date_paris": "2026-10-16 18:00",
+    "due_at": "2026-10-16T16:00:00.000Z",
+    "post_id": "6ace66baa582dbdae834de8a",
+    "relais": [
+      "df-d9bd861fec264ab3bd51895107d09e2d.png",
+      "df-005d2649f073405ba3e9941bda7f1ea9.png",
+      "df-afba38c3091a4031bec69a6dd84729e5.png",
+      "df-cc00309462d54c17b36ea73cfcd6a39b.png",
+      "df-f634632fd77e470ca83b3daca62b5d96.png",
+      "df-231c78fa5af049d5bee89fc6637f6e74.png",
+      "df-6bd850171bda4d50a9e608fc1435822b.png",
+      "df-364a323e471f484094ee5438223293b8.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-01-marche-cible-producteur-ou-distributeur",
+    "service": "tiktok",
+    "date_paris": "2026-10-17 09:00",
+    "due_at": "2026-10-17T07:00:00.000Z",
+    "post_id": "6ace66c305447a5593724eac",
+    "relais": [
+      "df-c1459160e07842f697af137541ca80c6.png",
+      "df-30c8f163703c4a5a83ba3f2e1398f900.png",
+      "df-ec73a7f560144f1b8c99d1abdd1ddb62.png",
+      "df-7333d247b54e488c94c5988ce10bd40e.png",
+      "df-689f2837f8984441a5e5766c703ff010.png",
+      "df-8320c2e073a847c1839a27f900f8e216.png",
+      "df-55cf81952d5241799cee722782fe6bea.png",
+      "df-e6ffaad388bc4c7db407c2be457611a9.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04-achat-d-obligation-le-coupon-couru-du-au-vendeur",
+    "service": "tiktok",
+    "date_paris": "2026-10-17 13:00",
+    "due_at": "2026-10-17T11:00:00.000Z",
+    "post_id": "6acf3f10f847f2ad9ecc8e95",
+    "relais": [
+      "df-2c9a8735b3e04e489f2fd369575867d4.png",
+      "df-9dbd96c2261e43c19e1142813d07c251.png",
+      "df-25050d15c13d4de89427f1ef7b69b8a4.png",
+      "df-5c8948f6e84043b4b9b65a3ab95a5b2b.png",
+      "df-562c35a083ff412d94e9ea02d095b07a.png",
+      "df-6de2f361704a4988bf3acf14f831c24a.png",
+      "df-d13aa08aacdf44aba60ec6e51edf84f5.png",
+      "df-ed429a919a3f43d3b34c33cb24150924.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04-compte-joint-mineur-procuration-qui-peut-signer",
+    "service": "tiktok",
+    "date_paris": "2026-10-17 18:00",
+    "due_at": "2026-10-17T16:00:00.000Z",
+    "post_id": "6acf635667dda1d44c18357d",
+    "relais": [
+      "df-bd8f0de5693f47ae89d70224c6fcdb6e.png",
+      "df-9d4645dcc9104ffa8bab4c63114316fc.png",
+      "df-c7723a451792476fba0ce673509a0493.png",
+      "df-f04132eff1b54570a69048208d8ff790.png",
+      "df-12c636cd9d9f4fbe83e3f5c0ec56acb1.png",
+      "df-ed654b2c659341cdbc7229ceecf6f13d.png",
+      "df-e5453c5ea3bc493e80f4bca56d08f6dc.png",
+      "df-b0fa3a693854465e80dab72d6fa48b69.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04-concept-depositaire-ou-depositaire-central-qui-garde-quoi",
+    "service": "tiktok",
+    "date_paris": "2026-10-18 09:00",
+    "due_at": "2026-10-18T07:00:00.000Z",
+    "post_id": "6ad04d306ff8a3fe7b365812",
+    "relais": [
+      "df-e6ab5545df1d4a5ebae900deb5e4af08.png",
+      "df-3facd9f8b4ee4b5b8f117e362b9da7f3.png",
+      "df-40519923e2fa419092695af391d31980.png",
+      "df-6b165f9638ad449d92e3202aca95b2f8.png",
+      "df-58d352b80fdc4a54aceeaf03f65565ec.png",
+      "df-d6e767dcce7340679803562ee5c048e2.png",
+      "df-e70398cbeb13468895c874af558cc3c9.png",
+      "df-bb430ae4cabf42598067079fac8f13f1.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04-introduction-en-bourse-particuliers-ordres-et-prise-ferme",
+    "service": "tiktok",
+    "date_paris": "2026-10-21 13:00",
+    "due_at": "2026-10-21T11:00:00.000Z",
+    "post_id": "6ad8780d7143aca6ab042df2",
+    "relais": [
+      "df-774f00e419c54a99b82cd848b84b2ace.png",
+      "df-7e30874be60f4863abe1b0b91fc9dcbc.png",
+      "df-44c34806b7f64ff68aeab4ad6f80d084.png",
+      "df-9654f46a01574a9d9ba2aefd26ed77da.png",
+      "df-f6fa6cdf7963487b967f2f51c29032ad.png",
+      "df-14f3fba5ef6c4e578316efd1b3b1f0de.png",
+      "df-c42d83791a9e43acbd5ddda592c83957.png",
+      "df-c826a67baa524d40ae0c6af2f1fb76b3.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04-ouvrir-un-compte-identite-especes-et-refus",
+    "service": "tiktok",
+    "date_paris": "2026-10-21 18:00",
+    "due_at": "2026-10-21T16:00:00.000Z",
+    "post_id": "6ad878167143aca6ab043668",
+    "relais": [
+      "df-59a54b56d1594755befaadd76765fd9a.png",
+      "df-fb1b0a4aa3304de3963eb0b41a6bc14a.png",
+      "df-e590846cf5df433598c349eed9c24134.png",
+      "df-e1029943d4ab427eb543c78de4a4740a.png",
+      "df-0b8cfa1b929546c0bcdf99853585841c.png",
+      "df-bc53a361d2b44f47a080919e90b094b6.png",
+      "df-6debc473dfa7439f88a8ac3adae338da.png",
+      "df-2e6f457928234563ba0b4036481499ee.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04b-alerte-lanceur-d-alerte-a-qui-signaler-qui-te-protege",
+    "service": "tiktok",
+    "date_paris": "2026-10-22 09:00",
+    "due_at": "2026-10-22T07:00:00.000Z",
+    "post_id": "6ad8781b7f2a5e272ec77f49",
+    "relais": [
+      "df-9afd513f6cc54883b9bf91d65f702de4.png",
+      "df-2ff5803ed78a4d648d7a1288091ede68.png",
+      "df-ab1fd3dd3012423b9cba23f6f98c1214.png",
+      "df-4461677090cb40cb854c66d6111ac072.png",
+      "df-be79c32b597b4e41a644d04a8c17b7de.png",
+      "df-d91f0ab2cc334a47a93e972f416c96c9.png",
+      "df-e5531e3c5a1f479f8d6bf5a06521687e.png",
+      "df-249b2ddaeee940a683542cf3e767934e.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04b-biens-divers-vin-chevaux-rentes-qui-controle",
+    "service": "tiktok",
+    "date_paris": "2026-10-22 13:00",
+    "due_at": "2026-10-22T11:00:00.000Z",
+    "post_id": "6ad87821d1cf44a4af47fbd0",
+    "relais": [
+      "df-96f136eb58424e74b64f6576d62d373f.png",
+      "df-bf7293d9b1514f6daaf3b20488c59745.png",
+      "df-87820b0eca1e4b4387f4834fa37a8c9c.png",
+      "df-4dbdc56de5d64c239a7844672be33721.png",
+      "df-2dc2cf45869345aeb6d374fd661aa9a5.png",
+      "df-a5bf8c63682445d7ad73db0feab198b9.png",
+      "df-fc1cb64a6f83403c9a06e74cf797233c.png",
+      "df-768872e73e5d4ff1900171fc6ac92cb0.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04b-concept-dps-ce-que-le-droit-de-souscription-compense",
+    "service": "tiktok",
+    "date_paris": "2026-10-22 18:00",
+    "due_at": "2026-10-22T16:00:00.000Z",
+    "post_id": "6ad87825d109f3f66b869c25",
+    "relais": [
+      "df-0aa80290daee49e3af56c422341ba7c2.png",
+      "df-fe0ea6efc3ca4d359e75b080c2fc7d65.png",
+      "df-17a279fc9f3a4d308140b401efa46c5a.png",
+      "df-c3836d80c3be41aa94240cf7f23754c7.png",
+      "df-8987c50d8f8640f88520acefb53430d4.png",
+      "df-fc6cfb1121594f0586f2c9a980f2b200.png",
+      "df-b06e87b05f0d47f890b02d88381e8122.png",
+      "df-6c7a8ef991db4299ba2d3f5246d54fad.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04b-options-binaires-interdites-a-qui-et-par-qui",
+    "service": "tiktok",
+    "date_paris": "2026-10-23 09:00",
+    "due_at": "2026-10-23T07:00:00.000Z",
+    "post_id": "6ad878297143aca6ab043d29",
+    "relais": [
+      "df-fc96f1d4f687422da2a24a61f862e3fe.png",
+      "df-543de261acfe459b90e4b0bf5cceccf9.png",
+      "df-c75ebb7e8adb473dafd88c0a751f0d88.png",
+      "df-fec82d297c0e4a75b744dfe8852d883d.png",
+      "df-9451506e1c8f42a28a874130e601b781.png",
+      "df-caa4393f61d94acea93094693c82b0ae.png",
+      "df-b6aea539bde54fc7a371711966a5042f.png",
+      "df-e19319f648f1471c98eb80cba730d9ac.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04b-rcci-conformite-qui-controle-le-controleur",
+    "service": "tiktok",
+    "date_paris": "2026-10-23 13:00",
+    "due_at": "2026-10-23T11:00:00.000Z",
+    "post_id": "6ad8782ed0cc3336f1140263",
+    "relais": [
+      "df-85b64ec8fb3644b399823a049767af3f.png",
+      "df-abf3e739add8442fadbdbf9cc922f41b.png",
+      "df-838e4a11954d40a884c886985c8d4476.png",
+      "df-335daac880dd4a1797e95d436f32a375.png",
+      "df-5b200114898d4d4891badf196d805391.png",
+      "df-40ba0cfbc9c1431aaa00aac7f0602fc3.png",
+      "df-b20bdeb3eaac496994c51771f1547b05.png",
+      "df-cb4c077c1fcc426280b27f8c1e4c200d.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04c-algorithmes-haute-frequence-ce-que-la-loi-exige",
+    "service": "tiktok",
+    "date_paris": "2026-10-23 18:00",
+    "due_at": "2026-10-23T16:00:00.000Z",
+    "post_id": "6ad878337f2a5e272ec785df",
+    "relais": [
+      "df-3766d705a69a414a837cfd42c490a71a.png",
+      "df-8c6539ed78df4fa084d73556079fa314.png",
+      "df-5ba6c312381d4acd807f92757270e29f.png",
+      "df-7f02d74b5fb04805835101ef17339638.png",
+      "df-12247609896144b7b45d1f8340768289.png",
+      "df-a82c5eff22ce4e5c8e07874a53a3822c.png",
+      "df-127ca64bbd1f42439966fe3768f8bc28.png",
+      "df-ee0ad8ed8b6d4157abe6d6312d9aab90.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04c-cnil-rgpd-fuite-de-donnees-72-heures",
+    "service": "tiktok",
+    "date_paris": "2026-10-24 09:00",
+    "due_at": "2026-10-24T07:00:00.000Z",
+    "post_id": "6ad878377f2a5e272ec78692",
+    "relais": [
+      "df-a7d0e56093cd408fb13c16e33e0c7533.png",
+      "df-8f55e31296e14d81be66124db11e4b09.png",
+      "df-1b3a7556cb2e4bb5918a609dc0acbefa.png",
+      "df-61205d928a6c4ebbac691a31ede104a5.png",
+      "df-7f35c0ba231c4c649d4e86fc3baca07a.png",
+      "df-4c214f4b39ac49a78067a5499fb7b80b.png",
+      "df-45dca3a067914c5b9911fe52457ef1f6.png",
+      "df-84f5f6f7cbfa44e2958ae5dc5945af2e.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04c-concept-sfdr-article-6-8-ou-9",
+    "service": "tiktok",
+    "date_paris": "2026-10-24 13:00",
+    "due_at": "2026-10-24T11:00:00.000Z",
+    "post_id": "6ad8783ed1cf44a4af480e93",
+    "relais": [
+      "df-73419dac7e3c4e1c9676447b0b3060ee.png",
+      "df-c5fc719fe56b4d2c888d56114f3578b6.png",
+      "df-3a116134122d470583f985324d254a62.png",
+      "df-2896eb0899cd49b38ba2394abcd229c6.png",
+      "df-7d5f6a15b9ff4dba9eefa76ebc26bfc4.png",
+      "df-ca87a07fae7f41adbcfa0b5c44a9c693.png",
+      "df-8b4cd56046dc4e6c8d608cea8b7b46f1.png",
+      "df-4174ffec0ef54c04bb02d0bc11642c88.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04c-dora-pannes-et-cyberattaques-qui-encadre",
+    "service": "tiktok",
+    "date_paris": "2026-10-24 18:00",
+    "due_at": "2026-10-24T16:00:00.000Z",
+    "post_id": "6ad9a9067dadc432f7410baf",
+    "relais": [
+      "df-3b3f090c1b8e4ad98d91f29ce4670112.png",
+      "df-a2332025c2b2463c8665f30435fc1612.png",
+      "df-f1555ce747244395acde5cd94086abd0.png",
+      "df-68fd4198c7bc42e8900e1f0cd767694f.png",
+      "df-11787a450cc2479eb12378fd6050f1c4.png",
+      "df-cb2de5e25e014d98b4446cff9b257414.png",
+      "df-df0979c524b94c1d8701522a16aa56d2.png",
+      "df-1be488e16c18462da2473cd80a3542cb.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-04c-eltif-fonds-de-long-terme-qui-peut-souscrire",
+    "service": "tiktok",
+    "date_paris": "2026-10-25 09:00",
+    "due_at": "2026-10-25T08:00:00.000Z",
+    "post_id": "6ad9a90b1093844846e37390",
+    "relais": [
+      "df-05d9e48c4d554776a6f8421e6a2e3cac.png",
+      "df-0a8440de20534bcb983de838a801a935.png",
+      "df-9bf8f6c6c81e43d9ba69c32994846d78.png",
+      "df-474bdf4bf47e404982b7762b7de39dba.png",
+      "df-2ef73aa3c9624436a63304dc1f073738.png",
+      "df-9aa3b3f59e7f4648ba32f37986d85771.png",
+      "df-d39867209a8e483fbc4a795b58fe4e5f.png",
+      "df-5bfe1cb96b994c70b65d605a4c333bad.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11-amortissement-ou-provision-usure-ou-charge-probable",
+    "service": "tiktok",
+    "date_paris": "2026-10-25 13:00",
+    "due_at": "2026-10-25T12:00:00.000Z",
+    "post_id": "6ada41c377984f39b2ac1ce7",
+    "relais": [
+      "df-2907f090ef1246dc83523889d10dec33.png",
+      "df-e49e4201d11b458989c395bbe521fc0e.png",
+      "df-5425eddffa1c423793ebc4af06bb4dfe.png",
+      "df-f357ebfadd09424490583cb1053329df.png",
+      "df-6f421c3f4991423c9a438dde29789e50.png",
+      "df-48aac61af9d342c2826080b4cca61b2c.png",
+      "df-8695f1d2f80e4c44929b8db5dfe84feb.png",
+      "df-8f7b9135191f489097c8ff1a7fe46bf9.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11-cac-valorisateur-centralisateur-qui-fait-quoi-dans-un-fonds",
+    "service": "tiktok",
+    "date_paris": "2026-10-25 18:00",
+    "due_at": "2026-10-25T17:00:00.000Z",
+    "post_id": "6ada41eeb2fbfbb7e986275c",
+    "relais": [
+      "df-3c4360b2cc4c4ed08a87677f8a77dd70.png",
+      "df-f6afd887b43244eaaf2b5641207ef6b9.png",
+      "df-35001162547f414db4d634db1c0413ec.png",
+      "df-d68f9cc9691d494da914ee24393aa9d9.png",
+      "df-78f04151b20441b2923212c7f7d783c0.png",
+      "df-e14094217e114cdea6ac8aad9be16706.png",
+      "df-c000238e4ab94882b9924cd6c2b1bc67.png",
+      "df-79508753b2a54974998c8397a81ae7e8.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11-concept-warrant-turbo-certificat-le-levier-en-bourse",
+    "service": "tiktok",
+    "date_paris": "2026-10-26 09:00",
+    "due_at": "2026-10-26T08:00:00.000Z",
+    "post_id": "6ada4215b2fbfbb7e9863421",
+    "relais": [
+      "df-0ba6b7c4bf4a4d1aa8792de03dc457cc.png",
+      "df-94576ac84c364b019744b3133ec35c0e.png",
+      "df-3dce2fd75fe34ed9a4ee73727b05733a.png",
+      "df-2131b4932eb7495c86017384395da613.png",
+      "df-58c94b9168a0489090e303bf206b4fe4.png",
+      "df-ce00206556ea4724b66ad217520e2564.png",
+      "df-597b1aa648154f68b66c2d12a3af8a54.png",
+      "df-cb1f2b982b34490c90c7af6db99cea5f.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11-orias-qui-s-inscrit-et-pour-combien-de-temps",
+    "service": "tiktok",
+    "date_paris": "2026-10-26 13:00",
+    "due_at": "2026-10-26T12:00:00.000Z",
+    "post_id": "6adbabb6bd33ce99c3e6c27c",
+    "relais": [
+      "df-7efd1a8fb8c847daad6578072403d79a.png",
+      "df-7a0b2eb5377e48caa28621b84916536b.png",
+      "df-ff1c73f72287482ca9e6560001ab3900.png",
+      "df-8a55d1359a304c119a631baa62d36706.png",
+      "df-30d82418e7d2457395cb462c2caca0fb.png",
+      "df-2efc1b5ed2a64604bd7dc9591bba9065.png",
+      "df-61dddc42bda8468182562d44d9d8e83c.png",
+      "df-e771a35f10024308a324f0509c2c2820.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11-teneur-de-marche-animateur-contrat-de-liquidite",
+    "service": "tiktok",
+    "date_paris": "2026-10-26 18:00",
+    "due_at": "2026-10-26T17:00:00.000Z",
+    "post_id": "6adbabba8b3d437ddc7fd849",
+    "relais": [
+      "df-77ea216f4990449ea8efd5fe70f53bff.png",
+      "df-d81a5736581f466992da524ca378f077.png",
+      "df-82cbc9a2e10a4f21b23d9eb028d445d2.png",
+      "df-d96b6732a8bd40559d80f31c87ab89d7.png",
+      "df-82210feceae149288e59547f32754c64.png",
+      "df-9570108ee1ba4557864e45e7dadaafab.png",
+      "df-7e56f2830a9e412da49663a87fc8f415.png",
+      "df-85586915734e4888848ef802bc48e37d.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11b-abus-de-marche-sondage-de-marche-ce-qu-on-a-le-droit-de-dire",
+    "service": "tiktok",
+    "date_paris": "2026-10-27 09:00",
+    "due_at": "2026-10-27T08:00:00.000Z",
+    "post_id": "6adbabbf8b3d437ddc7fd8f7",
+    "relais": [
+      "df-13c04eae313c4801b5c3e8aa34be4319.png",
+      "df-71f517e114834feb9694a33e0ec73445.png",
+      "df-6bd346ab41264aa9a93e8b1bbe4ba0d6.png",
+      "df-090ddf2e02bf4a1e870c03a88525db80.png",
+      "df-539616c932f24304af3068d07384c113.png",
+      "df-14833fa4464b4cf8bd62dc55bb795c8d.png",
+      "df-ae5ea6cbb9b54e0eb46cd3c28e9cb04b.png",
+      "df-a8f672b46f6b4f6080ebe0227e850549.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11b-augmentation-de-capital-split-fusion-ce-que-devient-ton-action",
+    "service": "tiktok",
+    "date_paris": "2026-10-27 13:00",
+    "due_at": "2026-10-27T12:00:00.000Z",
+    "post_id": "6adc6bc1e4be8a4d864ab393",
+    "relais": [
+      "df-4772f8d9c83f42dca4f24d089483cb7f.png",
+      "df-34d98880156f438d98177b55b2d018c9.png",
+      "df-dcac736422e045be81a3fe5b23aed2bd.png",
+      "df-e33e838f02784bdc817f1ff789b94d47.png",
+      "df-6a76bc7651cd41a79c4fe04424497f38.png",
+      "df-0cd99ebbcc564f00bf7c920a6068bca7.png",
+      "df-7b6d778a61ba4639ad8cec1c256b2142.png",
+      "df-dc743fce374d4adf9b25303e70e23983.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11b-concept-demarchage-bancaire-et-financier-qui-quoi-combien-de-jours",
+    "service": "tiktok",
+    "date_paris": "2026-10-27 18:00",
+    "due_at": "2026-10-27T17:00:00.000Z",
+    "post_id": "6ade34df3d5b27036be202bf",
+    "relais": [
+      "df-da4bdecd90a543828e5141679a2f3b35.png",
+      "df-9209684663544d9f9b6f198359173dfa.png",
+      "df-d2f1d8f0c59d45c2bc0d342f1714a82d.png",
+      "df-3669f696012c49bc948389694856b14e.png",
+      "df-b414bd3db54b45e792b620530019da62.png",
+      "df-e264687c383445b6bf18dc1886e97960.png",
+      "df-0f7976304fad439a84cb10b95001ec12.png",
+      "df-5337518ad280462997d55d04ae294eb4.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11b-franchissement-de-seuils-a-qui-le-dire-et-en-combien-de-jours",
+    "service": "tiktok",
+    "date_paris": "2026-10-28 09:00",
+    "due_at": "2026-10-28T08:00:00.000Z",
+    "post_id": "6ade34e40b5343d070e0cebd",
+    "relais": [
+      "df-73021a5746b14e63b810d4289f498fd6.png",
+      "df-96a646e6e7d349158d5d6951d3a7fd54.png",
+      "df-981e82d4f4db481db47a27910b217531.png",
+      "df-5c57d0bb99384fb488e3a1e7b934e658.png",
+      "df-23025aa1dfaf4ba395d7c412f5987b58.png",
+      "df-1b4ca838059e4121a25dbd447e51c20f.png",
+      "df-11b98508dc1d4fb28f9a34e59d434c27.png",
+      "df-5a71b50a31734b139ea05110292c2f1d.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11b-gates-quand-un-fonds-plafonne-les-rachats",
+    "service": "tiktok",
+    "date_paris": "2026-10-28 13:00",
+    "due_at": "2026-10-28T12:00:00.000Z",
+    "post_id": "6ade34e8e4be8a4d86b8f075",
+    "relais": [
+      "df-d9ab8f798ca049e6900e5e8c52a83683.png",
+      "df-78f3810334ba4f12b2a778e05f901c48.png",
+      "df-b3cecc96f6554e48a6ae65a0aa5405f1.png",
+      "df-eb36f77c65324ba0a57c6e77826e05ee.png",
+      "df-d46ebe9142ee4e23bd01d5627d6250f9.png",
+      "df-d85a6102312d499381f2cbd70b8ce500.png",
+      "df-6f778e116a6641508e1c9c9868c21724.png",
+      "df-f89d28cc222446c38b27c5a9ec485b73.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11c-boite-qui-place-sa-tresorerie-quel-impot",
+    "service": "tiktok",
+    "date_paris": "2026-10-28 18:00",
+    "due_at": "2026-10-28T17:00:00.000Z",
+    "post_id": "6ade34ee8b3d437ddc19ba45",
+    "relais": [
+      "df-5e33880b6e38453ba3c1dce93ee8987f.png",
+      "df-50504f8700a148ca8f4ecb28efdbf6a8.png",
+      "df-6290f41ba61842738d9e23f2f3144cb4.png",
+      "df-ab0d82783028461bae26f9ee746d7fdc.png",
+      "df-b7f241f2ecf441ea8501650de14be516.png",
+      "df-cfb92b738c1a4a17b5094606174cf76d.png",
+      "df-98d6adcc5ea540a68546b97ad4dca8bb.png",
+      "df-63bf1293d7e04965a49551e9e45f5600.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11c-comites-cclrf-ccsf-hcsf-qui-fait-quoi",
+    "service": "tiktok",
+    "date_paris": "2026-10-29 09:00",
+    "due_at": "2026-10-29T08:00:00.000Z",
+    "post_id": "6adfa81e1ed1b50b3ea06354",
+    "relais": [
+      "df-f3c6480ba2f64fe19bfab5b25ed757b7.png",
+      "df-c9fdd1098e3648038078ecbd9e064781.png",
+      "df-cbcaf29c830d4a799a73ac188868a3cb.png",
+      "df-1bfd340c204f46b887ff32a3b7a04ba3.png",
+      "df-bc4b13c691944932a3363de99ffb0e69.png",
+      "df-05fa58253cf24ed5b068726d2b02ef8c.png",
+      "df-f725a5aac66e4ddfa24d35012b5c68c9.png",
+      "df-3f940871ccef4e0098c12ee150904934.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11c-concept-blanchiment-placement-empilage-integration",
+    "service": "tiktok",
+    "date_paris": "2026-10-29 13:00",
+    "due_at": "2026-10-29T12:00:00.000Z",
+    "post_id": "6adfa823e0ae5134fabc6f2a",
+    "relais": [
+      "df-9c43ee38ae0c4aaa960c68eee1c4b624.png",
+      "df-69f0deb6708c457baf6030e1b9e66bdc.png",
+      "df-af0511ee9a364f349fbf01b07216c81d.png",
+      "df-246f693d93c64b109ab256634cc7037c.png",
+      "df-be7f7683ca194d3fb131160714cc8450.png",
+      "df-bc27ccd0226a4ee894adbd17b5c4057a.png",
+      "df-9ec1d08fe9f64e7aa13743a28a8bf945.png",
+      "df-61728c6daa814f1693ba215f9b6d0875.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11c-estr-ou-euribor-quel-taux-remplace-quoi",
+    "service": "tiktok",
+    "date_paris": "2026-10-29 18:00",
+    "due_at": "2026-10-29T17:00:00.000Z",
+    "post_id": "6adfa828fbfb299b1aea8ef7",
+    "relais": [
+      "df-e029dc1f0e8c4ce7ac1b155825e0c4d0.png",
+      "df-2b91667d060043c9af47c2cf1a0b55bb.png",
+      "df-11481cb4d7864a15b4b6346b491f42e1.png",
+      "df-c9711cb1437643bfa5efc6b34bce10d9.png",
+      "df-068c6632921b4d028391a341f1e5e9f5.png",
+      "df-be36b4daeae341029377d54a5f54bed7.png",
+      "df-f73f0dcc484c40039382ff6103c3f0a3.png",
+      "df-549553c8207e4e5095a401fcd0d8589c.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11c-fonds-monetaire-ce-que-le-nom-garantit",
+    "service": "tiktok",
+    "date_paris": "2026-10-30 09:00",
+    "due_at": "2026-10-30T08:00:00.000Z",
+    "post_id": "6adfa82d635f26817d51b6cf",
+    "relais": [
+      "df-6e7fea10b0da4d038b80b71e309af6e2.png",
+      "df-b5127a357fb0485a8886e2b047f8a930.png",
+      "df-a086280810f54694949208dcc0175340.png",
+      "df-7fa65d3610a0450ea8712908b8a4ee7f.png",
+      "df-34de98fafe3243a096143fe1361a0af8.png",
+      "df-aab9653d06b040dc8f22bb812bfc8fff.png",
+      "df-720687bbb297418d937b9dfa7367a13e.png",
+      "df-df75f86389c24f50b2eec2e33b0e8ce7.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11d-active-ou-passive-ton-gerant-bat-il-l-indice",
+    "service": "tiktok",
+    "date_paris": "2026-10-30 13:00",
+    "due_at": "2026-10-30T12:00:00.000Z",
+    "post_id": "6ae05ec27724fdcea6e0f3b5",
+    "relais": [
+      "df-4b86d4dbb030447d80c96d35ad977f41.png",
+      "df-ad6fd34b85d048d6ba6af46759ec4021.png",
+      "df-dfe5250dc58c443d98a18f1e1aa19956.png",
+      "df-9dc601f2bc6d4158899df4fd334be20f.png",
+      "df-53f5a960bf34491c92c0f5fd4e25c577.png",
+      "df-c17613ed8ea0453c999a4a364345cc39.png",
+      "df-8bb708d003934cbe82f7493a2edd2e16.png",
+      "df-53718fe963ec4c0eb8115c87c0b22157.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11d-ces-labels-verts-isr-greenfin-finansol-qui-decide",
+    "service": "tiktok",
+    "date_paris": "2026-10-30 18:00",
+    "due_at": "2026-10-30T17:00:00.000Z",
+    "post_id": "6ae1b1c445e232dcee589d6b",
+    "relais": [
+      "df-41363e4611794c60b800f15d4af7d1b7.png",
+      "df-7fbcd72bc5074d97987d6c8c36194ef3.png",
+      "df-9c86619f06554566ae97ef6a748c5fd4.png",
+      "df-42b2524666434356a1722479223c241e.png",
+      "df-c4ae4d3b6d2a4265b1725d3bf2971649.png",
+      "df-99e9014296804158a882b5023bf0685a.png",
+      "df-ab407574b6324ad880fff4949723d056.png",
+      "df-4b2a8446c4bd424382f4f4bf648bcd80.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11d-concept-epargne-salariale-pee-ou-per-collectif",
+    "service": "tiktok",
+    "date_paris": "2026-10-31 09:00",
+    "due_at": "2026-10-31T08:00:00.000Z",
+    "post_id": "6ae1b1ca46856e876545d128",
+    "relais": [
+      "df-45f30ef03b8c413691c8b3569f5fce55.png",
+      "df-dd6dbc7c79fc437c9189d10fc8081990.png",
+      "df-fef871e7133247adbcd5435bfdec62f9.png",
+      "df-7f280c5f5a2544409781cb13d9254c59.png",
+      "df-e400640908d144c5a7e4a69153c464d5.png",
+      "df-9b6033bfba7e40af96f18b86e40e68b7.png",
+      "df-b98c4f29f5b64b43b9b9976532793a92.png",
+      "df-0a5572a130474159b09daa4b773f1e6a.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11d-hedge-funds-gestion-alternative-et-prime-broker",
+    "service": "tiktok",
+    "date_paris": "2026-10-31 13:00",
+    "due_at": "2026-10-31T12:00:00.000Z",
+    "post_id": "6ae1b1ce707b0dd3619b9dd4",
+    "relais": [
+      "df-56468a72b6484d3892a0c48cb0201798.png",
+      "df-8d84c1ff7fc34f7a88f73fe67bd6f3be.png",
+      "df-06fc3cb58a6f4224bd0bdfcbb0bf444e.png",
+      "df-03889f76f9c84bd7a12ecd1ca00bca2f.png",
+      "df-ff9b8a316d9b434e9edca7e45443e841.png",
+      "df-6b220e18b2524b0c957086e08ed5ca7b.png",
+      "df-5021af5b5fb24fa1a7b8c028272b4a5c.png",
+      "df-763df9311922475f8f381f41dd7f98bc.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-11d-stablecoins-emt-art-jeton-utilitaire-mica",
+    "service": "tiktok",
+    "date_paris": "2026-10-31 18:00",
+    "due_at": "2026-10-31T17:00:00.000Z",
+    "post_id": "6ae2e8972467e67f1282b9f6",
+    "relais": [
+      "df-a263a672f4414f058d84c0cd66ca87b0.png",
+      "df-7e33b1ebd1834f9e9283a482584695a0.png",
+      "df-9e728de79d054e6885d6fd6c4eee3b06.png",
+      "df-5764235975cc4c1199ff8be4f0b3d7e5.png",
+      "df-bff81b39abd4479ea9b4782e1eb1d557.png",
+      "df-0af5dd42bdfd41619bddc4814ebc80dd.png",
+      "df-16bd551252154231acf1085fef457399.png",
+      "df-f1812728e81344b5b24cea87eb3b8fbb.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-14-01-passeport-europeen-un-agrement-pour-toute-l-ue",
+    "service": "tiktok",
+    "date_paris": "2026-11-01 09:00",
+    "due_at": "2026-11-01T08:00:00.000Z",
+    "post_id": "6ae2e89d8d517922b2345339",
+    "relais": [
+      "df-8ea95c32018846649510a31a56e41f0d.png",
+      "df-0a3696af9e1747a4bcc6483c75dec38b.png",
+      "df-4cf7274dc0ce4e9a8f0bf88c8df45eff.png",
+      "df-1279e43b601d463fb0391c8b92d11d9d.png",
+      "df-cd279cc8c6fe48e89c22d045b3573b3b.png",
+      "df-505ecf65b0c64e75854cded02e323320.png",
+      "df-75694b5776584273bad0d7a6c87609d6.png",
+      "df-2398bc71bd5647208bd4afb6931700d6.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-14-02-loi-sapin-2-anticorruption-qui-est-oblige",
+    "service": "tiktok",
+    "date_paris": "2026-11-01 13:00",
+    "due_at": "2026-11-01T12:00:00.000Z",
+    "post_id": "6ae457ca38b96b6f5b9b102e",
+    "relais": [
+      "df-731826657d634da9af983008a6e26b8f.png",
+      "df-c1f4ef8a98934b73aca41192b87a1893.png",
+      "df-fb334760c3ea47caaa2639f865695b6d.png",
+      "df-c1959ec2af994b4f99fe2d79fc000fd5.png",
+      "df-11f7ae7b25b94fb8b4569c6249d998a8.png",
+      "df-b14905cd05604b3bb3876bf4fc772321.png",
+      "df-a1c49ed472634bb1acc6af27f84ce5c3.png",
+      "df-4c7d866c252d491181a2021834f0fcbd.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-14-03-concept-meilleure-execution-pas-seulement-le-meilleur-prix",
+    "service": "tiktok",
+    "date_paris": "2026-11-01 18:00",
+    "due_at": "2026-11-01T17:00:00.000Z",
+    "post_id": "6ae457d0c2427e8527c58b09",
+    "relais": [
+      "df-8972a4031dca491dbdf0a704b843ef9c.png",
+      "df-8a89fcd7dfa541e9a0aafb4ca67e4ed6.png",
+      "df-8f11d4201ddb4bc0b16920830d95e879.png",
+      "df-ee161e72836b421a9c24478cb735f70b.png",
+      "df-7f41d34a33f04fa1b7533bd1f8b6baad.png",
+      "df-0c33fe01dc63499b83e375828bffac8d.png",
+      "df-f5d4e5abd68e409fa46c4924e0010345.png",
+      "df-e596090619ab4bb89c30d74546874b61.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-14-04-fatca-echange-automatique-ce-que-ta-banque-declare",
+    "service": "tiktok",
+    "date_paris": "2026-11-02 09:00",
+    "due_at": "2026-11-02T08:00:00.000Z",
+    "post_id": "6ae457d438b96b6f5b9b11e8",
+    "relais": [
+      "df-a4f153a0b0ce48098724a10e0a9ba849.png",
+      "df-eac17c589dc94b0c8b8e5121ba5d9e8d.png",
+      "df-db6a4e230f4249f98f9845aa54dd6d41.png",
+      "df-3d3bec0bfbec48d79379bd8eab5a56d7.png",
+      "df-a1fbccf20310482dbbe4abc26c2555f0.png",
+      "df-4af836eda0be4ce5b79d6fbfe3e09fa2.png",
+      "df-4277493bb95842158501ffcbd03d1f01.png",
+      "df-d3adae583b014381b457d0fd50474e81.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-14-05-beta-alpha-sharpe-ce-que-mesure-chaque-ratio",
+    "service": "tiktok",
+    "date_paris": "2026-11-02 13:00",
+    "due_at": "2026-11-02T12:00:00.000Z",
+    "post_id": "6ae457d858a62337fb754827",
+    "relais": [
+      "df-d1f77c4b16bb44489c95e26c2d5977b4.png",
+      "df-e71d209658d14820be6b53958bf38ec5.png",
+      "df-016b7bd47be7418e90549fe1e7729513.png",
+      "df-4ff3075bdab544098659aaa5675755ee.png",
+      "df-0ef355fa50a54a9b9eeee6460f0d023a.png",
+      "df-cfecf43371a145019c1e89fd3f726640.png",
+      "df-118263214611493399a34493c2829cd5.png",
+      "df-ace84918f30649f885b0daaad68d1f5e.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-14-06-actualisation-taux-actuariel-le-prix-d-une-obligation",
+    "service": "tiktok",
+    "date_paris": "2026-11-02 18:00",
+    "due_at": "2026-11-02T17:00:00.000Z",
+    "post_id": "6ae5b0de406ab8a018abc01a",
+    "relais": [
+      "df-1bdb9ef9bee24e659be3718432928d34.png",
+      "df-3953e59848174a71901a1876a6e41611.png",
+      "df-90732cb47c88412bbf8d4aab82160b3a.png",
+      "df-f81655c97e644055a28e065ef67f2085.png",
+      "df-45872b4111f8475080c4c27a651dda99.png",
+      "df-65a3fdbcd9e64aae84650fdbe0f601cd.png",
+      "df-506a43c120374d0888ece0a5c6433da2.png",
+      "df-2f29bc3080b94ed3a084c019b1660d1c.png"
+    ],
+    "nettoye": true
+  },
+  {
+    "dossier": "2026-10-14-07-pib-croissance-niveau-de-vie-ce-qu-il-mesure",
+    "service": "tiktok",
+    "date_paris": "2026-11-03 09:00",
+    "due_at": "2026-11-03T08:00:00.000Z",
+    "post_id": "6ae5b0e3ceb491e585e92f8c",
+    "relais": [
+      "df-002c26965fd745b29642ec6920b16caf.png",
+      "df-8dd9f98273de4eb1be86707dfc937603.png",
+      "df-d28921cadfea4cadb56dc42c516a32e9.png",
+      "df-1ff91d0ed3834f4487151bb796f5d1a1.png",
+      "df-b0b3b309fa3e492197d87dc03a6920c1.png",
+      "df-95a6be5c6b604126992218e1edd48f76.png",
+      "df-289718876cab4be98b8b0cbc499190cf.png",
+      "df-38d426a4f333473a8c983e171a0335a3.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14-08-concept-risques-financiers-marche-credit-liquidite",
+    "service": "tiktok",
+    "date_paris": "2026-11-03 13:00",
+    "due_at": "2026-11-03T12:00:00.000Z",
+    "post_id": "6ae5b0e9a11457434997043a",
+    "relais": [
+      "df-ecab4bc39d184fea8546e9ef432a41a5.png",
+      "df-9df6efa84ff44aada2652f63ec541e6d.png",
+      "df-e85ec8ff68574a78809a92877b73ffcf.png",
+      "df-f1637f427f8948b2be75d6e9238f3367.png",
+      "df-6bc7b6a4a7af48469b94b82c24e17b1c.png",
+      "df-914e0b7a8c394ad594f347e374524120.png",
+      "df-492614a2dbef4b05b2f661d8cc257112.png",
+      "df-d557305311b643e687f5f7f21c8a9292.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14-09-publicite-financiere-ce-qu-elle-doit-afficher",
+    "service": "tiktok",
+    "date_paris": "2026-11-03 18:00",
+    "due_at": "2026-11-03T17:00:00.000Z",
+    "post_id": "6ae5f6f5cf3a3112f3a742dc",
+    "relais": [
+      "df-2ec03fe711954b7ba976ead5604e2ca4.png",
+      "df-a092908abaac49eda8ef209e2143dc88.png",
+      "df-bc00008c4d5c49fd9314214b3d0a7334.png",
+      "df-58d27ea092064effb11ab5c06023b5da.png",
+      "df-132cc1c8e9fa4251aae6f6a4117a9241.png",
+      "df-ace2ba977f4345f08f4a2f16a4c7bbcf.png",
+      "df-bc499b5c27e5410ab2e7024e402510d8.png",
+      "df-6378142b19204e1492af321b099f3bcf.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14-10-taux-de-change-qui-fixe-l-euro-dollar",
+    "service": "tiktok",
+    "date_paris": "2026-11-04 09:00",
+    "due_at": "2026-11-04T08:00:00.000Z",
+    "post_id": "6ae7182021c807e9d5b314b2",
+    "relais": [
+      "df-36c18c0887c1485a9c2cbcef19b2caf4.png",
+      "df-4094df029cb949cd8c1dc5bdea83cee0.png",
+      "df-3d4046b19b534050829c5d7bb99f0869.png",
+      "df-ceee1c0395c14d48b1ecbd890a615ad1.png",
+      "df-3fd08a109ca04b959f68344dfd0071db.png",
+      "df-d0105236e38d4386a048e1ef03dab675.png",
+      "df-84a8823886f9472a8977ac078960fc57.png",
+      "df-98d1cb27a1fc42e586c1ba47c3b84eb8.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14b-01-obligation-verte-qui-decide-qu-elle-est-verte",
+    "service": "tiktok",
+    "date_paris": "2026-11-04 13:00",
+    "due_at": "2026-11-04T12:00:00.000Z",
+    "post_id": "6ae71824ab019b908753d3bf",
+    "relais": [
+      "df-41564d3b24e84556a32ac7acb5ce434a.png",
+      "df-086e121165e0440a966ad36a7d8296ff.png",
+      "df-4e72b3fd7c2a48efb5e811a397b37eb2.png",
+      "df-1fd703000b0a47cb85281788d93e818b.png",
+      "df-0cc72d4bbe5243e88d37e05ca7b282be.png",
+      "df-9c4dcafe5ebd49428e0d61fc88713000.png",
+      "df-9270bbe1ea8b47e388cc2e824fec4b74.png",
+      "df-a23ab9e5820841debfebfae4c9ac8f9f.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14b-02-amla-l-autorite-europeenne-anti-blanchiment-que-controle-t-elle",
+    "service": "tiktok",
+    "date_paris": "2026-11-04 18:00",
+    "due_at": "2026-11-04T17:00:00.000Z",
+    "post_id": "6ae79623b7d22b897a0c0fa6",
+    "relais": [
+      "df-d15144fccb5b4c3d87315e693ac69c63.png",
+      "df-5625bb3d48db46dcbb00223993ded45f.png",
+      "df-5854f7c2ab5844fdbae2ca203d4df810.png",
+      "df-5df7841de19a4cfbb94180f0cee5ebfb.png",
+      "df-01cef27f37cb4cf8927ed52d782e8f98.png",
+      "df-2b51890be9a44bd695486df44a3258ff.png",
+      "df-db87eb257f9e49fa9e4f43d15a44a55b.png",
+      "df-db2fd24ddee34d70a333a2c0fd2a4d37.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14b-03-concept-instrument-financier-titres-ou-contrats",
+    "service": "tiktok",
+    "date_paris": "2026-11-05 09:00",
+    "due_at": "2026-11-05T08:00:00.000Z",
+    "post_id": "6aebb3d65713311553520e9f",
+    "relais": [
+      "df-32c599ae7cfa4625a99e00d3474cbddf.png",
+      "df-99b60d2e480e40bdafc709773181ce9f.png",
+      "df-b2d3e0c0569a4c7cb02474e85a6d1102.png",
+      "df-9058deed37d845d9926d7f6a5fb0f33f.png",
+      "df-b1e910e721374a4caa07b5d82f57daac.png",
+      "df-cf162a8b10734992b6510f2c511e203f.png",
+      "df-515c4d16c24c44d29c8e12b31fbdad18.png",
+      "df-1dc2eca806b547228a72b2189e10609f.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14b-04-part-de-fonds-a-quel-prix-tu-achetes-et-tu-revends",
+    "service": "tiktok",
+    "date_paris": "2026-11-05 13:00",
+    "due_at": "2026-11-05T12:00:00.000Z",
+    "post_id": "6aebb3db34dd0163dbe293aa",
+    "relais": [
+      "df-9f2948c2b6e04a4da582bbe00b51d2cb.png",
+      "df-46bb99b6d373413dba195143726db581.png",
+      "df-5a9ed56146354426ac4a6b3e5a3ec13d.png",
+      "df-456bffceceb74b0bbc8c6cc6cda9a671.png",
+      "df-6b6c8c46fc47459cb8096d1234d5ddf6.png",
+      "df-08b878f4b817436189de0d737c7ca56c.png",
+      "df-06abce2d63864bdf858a993d46053222.png",
+      "df-553643d4ca0a4c2bb9b486a8e7adfc5d.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14b-05-une-journee-a-la-bourse-de-paris-de-7h15-a-17h40",
+    "service": "tiktok",
+    "date_paris": "2026-11-05 18:00",
+    "due_at": "2026-11-05T17:00:00.000Z",
+    "post_id": "6aebb3e050fc4a0253ecc436",
+    "relais": [
+      "df-c2f21cb808d24e05ba884f8e3b930450.png",
+      "df-c0ffb33e560348099f351eda4e19b518.png",
+      "df-81585a2fcea145149acb59f9bd032bff.png",
+      "df-78b2981def614c8685409710d16e4e01.png",
+      "df-22f242cc46e84aa581cccf5d499b40ce.png",
+      "df-a8468e252e38419fb3309d0ceca331c0.png",
+      "df-5dc42beb0e1e4d7485875cc4b915e7a6.png",
+      "df-2f16f4b3ec1a42dd9e69c13bcf3c837d.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14b-06-fonds-de-fonds-maitre-nourricier-qui-investit-dans-qui",
+    "service": "tiktok",
+    "date_paris": "2026-11-06 09:00",
+    "due_at": "2026-11-06T08:00:00.000Z",
+    "post_id": "6aebb3e5022b8f16d7d5db1b",
+    "relais": [
+      "df-fb4dd375bd7e464a8ad3f929aec0d6ea.png",
+      "df-4799a041db634b2881a11c997a4087bf.png",
+      "df-50bae5bf31bc4b7f94a9df9b0c1d7669.png",
+      "df-7cd3a0bda9294847a2e3fd3e6d13649e.png",
+      "df-929ffc7f49b94727b70bf9c233490de4.png",
+      "df-a434ecb183a442cf830ec4561aa9401a.png",
+      "df-2bea80f5bb524b0ab5e6d2cb6f53f8aa.png",
+      "df-0732551ed2834b5d9009e62c79f2c291.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14b-07-liste-de-surveillance-ou-d-interdiction-ce-que-fait-la-conformite",
+    "service": "tiktok",
+    "date_paris": "2026-11-06 13:00",
+    "due_at": "2026-11-06T12:00:00.000Z",
+    "post_id": "6aebb3ea57133115535212d7",
+    "relais": [
+      "df-c0a9b77e058443ae8ee0bf3de39b341c.png",
+      "df-7e869447a6844158a74e488d98b85ac7.png",
+      "df-86f2fe47a83840b0ba8030447dc09f9a.png",
+      "df-9bc008bc73f94b3e964e396742f40b50.png",
+      "df-64fca2cc3a9247d2a184f2838e078efc.png",
+      "df-21666a012a224e3d891123730380ec63.png",
+      "df-f26dfffe1dc643509058c53b246d4b87.png",
+      "df-a8fb98a225264ea4804e9c07e947394f.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14b-08-concept-cadeaux-et-avantages-ce-qu-un-pro-peut-accepter",
+    "service": "tiktok",
+    "date_paris": "2026-11-06 18:00",
+    "due_at": "2026-11-06T17:00:00.000Z",
+    "post_id": "6aebb3ef321c00b9244f2abf",
+    "relais": [
+      "df-e9777cb4c98141ab9d6b2b719ad585e0.png",
+      "df-bd4fce6502724022a9715282def8c688.png",
+      "df-87841c18d7f649388b84741c18bb0019.png",
+      "df-035a0416b0f64568aff9bca8494d7d98.png",
+      "df-f693e85bd33947adbbcf97203f6c666f.png",
+      "df-a2907135bec347918a7bf1aee64eadc2.png",
+      "df-3a78d89bd971424e89007c69a575f61a.png",
+      "df-b765d1b1e1604f04b5e1217a7d5784f7.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14b-09-euribor-cac-40-qui-encadre-les-indices-de-reference",
+    "service": "tiktok",
+    "date_paris": "2026-11-07 09:00",
+    "due_at": "2026-11-07T08:00:00.000Z",
+    "post_id": "6aebb3f450fc4a0253eccabb",
+    "relais": [
+      "df-e89e2803f7174f3c9865cd7a1ae04a11.png",
+      "df-67572a64321f4b5882ef307deb0f5260.png",
+      "df-e62175ba497949efa8c0f0bff90620a3.png",
+      "df-ba5fe68c1a9242228336daaed1bfc8c0.png",
+      "df-768e2dfc8b1641e7bf0d1ab9ce3fc192.png",
+      "df-634b67bf43d74a77b7b72a12a1ec777e.png",
+      "df-62ff735b0f1e45529a713827975b30f9.png",
+      "df-24ff10a261764680ae6287ca12a67679.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14b-10-preferences-de-durabilite-ton-client-veut-il-du-durable",
+    "service": "tiktok",
+    "date_paris": "2026-11-07 13:00",
+    "due_at": "2026-11-07T12:00:00.000Z",
+    "post_id": "6aebb3f9022b8f16d7d5e16f",
+    "relais": [
+      "df-4d7a397c08724ee4b7e10f4d0f6b2dc2.png",
+      "df-8a5d5a51b3e14f0ab1f3a5ca228bf8dc.png",
+      "df-e9b56d4d9793450e8e3a687f290c2d55.png",
+      "df-f2d21bf40c334e8c9d7f06f22a4ac797.png",
+      "df-a498b8d6912846d78ab8590b0547eb0d.png",
+      "df-b6a4ba3604df48ba9ca579d41196ee3d.png",
+      "df-55cdfc423659470c91a501686331cfb4.png",
+      "df-2c4f25bc91234bc8b52defef421cf67f.png"
+    ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-01-conseils-en-bourse-sur-les-reseaux-ce-que-l-esma-exige",
+    "service": "tiktok",
+    "date_paris": "2026-11-07 18:00",
+    "due_at": "2026-11-07T17:00:00.000Z",
+    "post_id": "6aebb3feda46403dc429a345",
+    "relais": [
+      "df-4917f430d5054078b80b9e13239f90f5.png",
+      "df-3fc0f286c1ce405e99b4dfcb30857aaa.png",
+      "df-347c2e78646d4ff8b3933d282fb88ddc.png",
+      "df-42647c1286db4e08b1d5488dec7fc3b8.png",
+      "df-e436740309de416fa1f27f9a02288028.png",
+      "df-c049344c5fcd49ec8753ac3a0ff14d9a.png",
+      "df-e8b433f75bcc4ce0b995ad9385e6e306.png",
+      "df-b1dde89b9ee74e7d9c1a43982dfe0c8e.png"
+    ],
+    "nettoye": false
+  }
+]
