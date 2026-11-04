@@ -2641,7 +2641,7 @@
       "df-289718876cab4be98b8b0cbc499190cf.png",
       "df-38d426a4f333473a8c983e171a0335a3.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14-08-concept-risques-financiers-marche-credit-liquidite",
@@ -2659,7 +2659,7 @@
       "df-492614a2dbef4b05b2f661d8cc257112.png",
       "df-d557305311b643e687f5f7f21c8a9292.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14-09-publicite-financiere-ce-qu-elle-doit-afficher",
@@ -2677,7 +2677,7 @@
       "df-bc499b5c27e5410ab2e7024e402510d8.png",
       "df-6378142b19204e1492af321b099f3bcf.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14-10-taux-de-change-qui-fixe-l-euro-dollar",
@@ -2893,6 +2893,15 @@
       "df-e8b433f75bcc4ce0b995ad9385e6e306.png",
       "df-b1dde89b9ee74e7d9c1a43982dfe0c8e.png"
     ],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-02-livret-a-lep-livret-jeune-qui-fixe-quoi",
+    "service": "tiktok",
+    "date_paris": "2026-11-08 09:00",
+    "due_at": "2026-11-08T08:00:00.000Z",
+    "post_id": "6aebb811022b8f16d7d712a9",
+    "relais": [],
     "nettoye": false
   }
 ]
