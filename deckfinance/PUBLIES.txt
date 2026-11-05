@@ -171,5 +171,8 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-07 13:00  tiktok     programme  2026-10-14b-10-preferences-de-durabilite-ton-client-veut-il-du-durable
 2026-11-07 18:00  tiktok     programme  2026-10-14c-01-conseils-en-bourse-sur-les-reseaux-ce-que-l-esma-exige
 2026-11-08 09:00  tiktok     programme  2026-10-14c-02-livret-a-lep-livret-jeune-qui-fixe-quoi
+2026-11-08 13:00  tiktok     programme  2026-10-14c-02y-cours-01-amf
+2026-11-08 18:00  tiktok     programme  2026-10-14c-03-concept-frais-ce-que-ta-banque-doit-te-montrer-avant-et-apres
+2026-11-09 09:00  tiktok     programme  2026-10-14c-04-dark-pools-ou-s-echangent-les-ordres-qu-on-ne-voit-pas
 
-169 post(s), 169 carrousel(s).
+172 post(s), 172 carrousel(s).

@@ -2695,7 +2695,7 @@
       "df-84a8823886f9472a8977ac078960fc57.png",
       "df-98d1cb27a1fc42e586c1ba47c3b84eb8.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14b-01-obligation-verte-qui-decide-qu-elle-est-verte",
@@ -2713,7 +2713,7 @@
       "df-9270bbe1ea8b47e388cc2e824fec4b74.png",
       "df-a23ab9e5820841debfebfae4c9ac8f9f.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14b-02-amla-l-autorite-europeenne-anti-blanchiment-que-controle-t-elle",
@@ -2731,7 +2731,7 @@
       "df-db87eb257f9e49fa9e4f43d15a44a55b.png",
       "df-db2fd24ddee34d70a333a2c0fd2a4d37.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14b-03-concept-instrument-financier-titres-ou-contrats",
@@ -2901,6 +2901,33 @@
     "date_paris": "2026-11-08 09:00",
     "due_at": "2026-11-08T08:00:00.000Z",
     "post_id": "6aebb811022b8f16d7d712a9",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-02y-cours-01-amf",
+    "service": "tiktok",
+    "date_paris": "2026-11-08 13:00",
+    "due_at": "2026-11-08T12:00:00.000Z",
+    "post_id": "6aecbf7ab09a1f8d3e28b087",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-03-concept-frais-ce-que-ta-banque-doit-te-montrer-avant-et-apres",
+    "service": "tiktok",
+    "date_paris": "2026-11-08 18:00",
+    "due_at": "2026-11-08T17:00:00.000Z",
+    "post_id": "6aecbf7b7c2c23ac24c5a6cd",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-04-dark-pools-ou-s-echangent-les-ordres-qu-on-ne-voit-pas",
+    "service": "tiktok",
+    "date_paris": "2026-11-09 09:00",
+    "due_at": "2026-11-09T08:00:00.000Z",
+    "post_id": "6aecbf7bb943974e73159340",
     "relais": [],
     "nettoye": false
   }
