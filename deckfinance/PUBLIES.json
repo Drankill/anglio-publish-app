@@ -2749,7 +2749,7 @@
       "df-515c4d16c24c44d29c8e12b31fbdad18.png",
       "df-1dc2eca806b547228a72b2189e10609f.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14b-04-part-de-fonds-a-quel-prix-tu-achetes-et-tu-revends",
@@ -2767,7 +2767,7 @@
       "df-06abce2d63864bdf858a993d46053222.png",
       "df-553643d4ca0a4c2bb9b486a8e7adfc5d.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14b-05-une-journee-a-la-bourse-de-paris-de-7h15-a-17h40",
@@ -2928,6 +2928,24 @@
     "date_paris": "2026-11-09 09:00",
     "due_at": "2026-11-09T08:00:00.000Z",
     "post_id": "6aecbf7bb943974e73159340",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-04y-cours-02-acpr",
+    "service": "tiktok",
+    "date_paris": "2026-11-09 13:00",
+    "due_at": "2026-11-09T12:00:00.000Z",
+    "post_id": "6aee06c1af7e526d43cb9044",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-05-crypto-et-blanchiment-l-anonymat-ne-passe-plus",
+    "service": "tiktok",
+    "date_paris": "2026-11-09 18:00",
+    "due_at": "2026-11-09T17:00:00.000Z",
+    "post_id": "6aee06c1af7e526d43cb906c",
     "relais": [],
     "nettoye": false
   }
