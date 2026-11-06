@@ -2785,7 +2785,7 @@
       "df-5dc42beb0e1e4d7485875cc4b915e7a6.png",
       "df-2f16f4b3ec1a42dd9e69c13bcf3c837d.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14b-06-fonds-de-fonds-maitre-nourricier-qui-investit-dans-qui",
@@ -2946,6 +2946,15 @@
     "date_paris": "2026-11-09 18:00",
     "due_at": "2026-11-09T17:00:00.000Z",
     "post_id": "6aee06c1af7e526d43cb906c",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-06-assurance-vie-au-deces-et-en-rente-qui-paie-quoi",
+    "service": "tiktok",
+    "date_paris": "2026-11-10 09:00",
+    "due_at": "2026-11-10T08:00:00.000Z",
+    "post_id": "6aee6378a7751de7c9b3d75e",
     "relais": [],
     "nettoye": false
   }
