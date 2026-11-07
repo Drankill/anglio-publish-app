@@ -2803,7 +2803,7 @@
       "df-2bea80f5bb524b0ab5e6d2cb6f53f8aa.png",
       "df-0732551ed2834b5d9009e62c79f2c291.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14b-07-liste-de-surveillance-ou-d-interdiction-ce-que-fait-la-conformite",
@@ -2821,7 +2821,7 @@
       "df-f26dfffe1dc643509058c53b246d4b87.png",
       "df-a8fb98a225264ea4804e9c07e947394f.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14b-08-concept-cadeaux-et-avantages-ce-qu-un-pro-peut-accepter",
@@ -2955,6 +2955,24 @@
     "date_paris": "2026-11-10 09:00",
     "due_at": "2026-11-10T08:00:00.000Z",
     "post_id": "6aee6378a7751de7c9b3d75e",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-06y-cours-03-esma",
+    "service": "tiktok",
+    "date_paris": "2026-11-10 13:00",
+    "due_at": "2026-11-10T12:00:00.000Z",
+    "post_id": "6aef2917229bf05daf51cacb",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-07-isin-ou-lei-le-code-du-titre-ou-celui-de-l-entreprise",
+    "service": "tiktok",
+    "date_paris": "2026-11-10 18:00",
+    "due_at": "2026-11-10T17:00:00.000Z",
+    "post_id": "6aef2917af7e526d43252e9a",
     "relais": [],
     "nettoye": false
   }

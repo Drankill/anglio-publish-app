@@ -177,5 +177,7 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-09 13:00  tiktok     programme  2026-10-14c-04y-cours-02-acpr
 2026-11-09 18:00  tiktok     programme  2026-10-14c-05-crypto-et-blanchiment-l-anonymat-ne-passe-plus
 2026-11-10 09:00  tiktok     programme  2026-10-14c-06-assurance-vie-au-deces-et-en-rente-qui-paie-quoi
+2026-11-10 13:00  tiktok     programme  2026-10-14c-06y-cours-03-esma
+2026-11-10 18:00  tiktok     programme  2026-10-14c-07-isin-ou-lei-le-code-du-titre-ou-celui-de-l-entreprise
 
-175 post(s), 175 carrousel(s).
+177 post(s), 177 carrousel(s).
