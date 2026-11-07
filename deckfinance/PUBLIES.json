@@ -2839,7 +2839,7 @@
       "df-3a78d89bd971424e89007c69a575f61a.png",
       "df-b765d1b1e1604f04b5e1217a7d5784f7.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14b-09-euribor-cac-40-qui-encadre-les-indices-de-reference",
@@ -2973,6 +2973,15 @@
     "date_paris": "2026-11-10 18:00",
     "due_at": "2026-11-10T17:00:00.000Z",
     "post_id": "6aef2917af7e526d43252e9a",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-07z-conseils-reviser",
+    "service": "tiktok",
+    "date_paris": "2026-11-11 09:00",
+    "due_at": "2026-11-11T08:00:00.000Z",
+    "post_id": "6aef7e24229bf05daf6df726",
     "relais": [],
     "nettoye": false
   }
