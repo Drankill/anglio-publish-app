@@ -2857,7 +2857,7 @@
       "df-62ff735b0f1e45529a713827975b30f9.png",
       "df-24ff10a261764680ae6287ca12a67679.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14b-10-preferences-de-durabilite-ton-client-veut-il-du-durable",
@@ -2982,6 +2982,15 @@
     "date_paris": "2026-11-11 09:00",
     "due_at": "2026-11-11T08:00:00.000Z",
     "post_id": "6aef7e24229bf05daf6df726",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-07zy-cours-04-psi",
+    "service": "tiktok",
+    "date_paris": "2026-11-11 13:00",
+    "due_at": "2026-11-11T12:00:00.000Z",
+    "post_id": "6af05335d6bbae6fa1e1d2eb",
     "relais": [],
     "nettoye": false
   }
