@@ -181,5 +181,7 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-10 18:00  tiktok     programme  2026-10-14c-07-isin-ou-lei-le-code-du-titre-ou-celui-de-l-entreprise
 2026-11-11 09:00  tiktok     programme  2026-10-14c-07z-conseils-reviser
 2026-11-11 13:00  tiktok     programme  2026-10-14c-07zy-cours-04-psi
+2026-11-11 18:00  tiktok     programme  2026-10-14c-08-concept-produits-structures-capital-garanti-ou-protege
+2026-11-12 09:00  tiktok     programme  2026-10-14c-09-euronext-growth-ou-access-ou-cote-une-pme
 
-179 post(s), 179 carrousel(s).
+181 post(s), 181 carrousel(s).

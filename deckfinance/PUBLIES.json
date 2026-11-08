@@ -2875,7 +2875,7 @@
       "df-55cdfc423659470c91a501686331cfb4.png",
       "df-2c4f25bc91234bc8b52defef421cf67f.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-01-conseils-en-bourse-sur-les-reseaux-ce-que-l-esma-exige",
@@ -2893,7 +2893,7 @@
       "df-e8b433f75bcc4ce0b995ad9385e6e306.png",
       "df-b1dde89b9ee74e7d9c1a43982dfe0c8e.png"
     ],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-02-livret-a-lep-livret-jeune-qui-fixe-quoi",
@@ -2991,6 +2991,24 @@
     "date_paris": "2026-11-11 13:00",
     "due_at": "2026-11-11T12:00:00.000Z",
     "post_id": "6af05335d6bbae6fa1e1d2eb",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-08-concept-produits-structures-capital-garanti-ou-protege",
+    "service": "tiktok",
+    "date_paris": "2026-11-11 18:00",
+    "due_at": "2026-11-11T17:00:00.000Z",
+    "post_id": "6af0ba0d51492b796e527ac5",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-09-euronext-growth-ou-access-ou-cote-une-pme",
+    "service": "tiktok",
+    "date_paris": "2026-11-12 09:00",
+    "due_at": "2026-11-12T08:00:00.000Z",
+    "post_id": "6af0ba0d9214322f686b96d1",
     "relais": [],
     "nettoye": false
   }
