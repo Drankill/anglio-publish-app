@@ -2902,7 +2902,7 @@
     "due_at": "2026-11-08T08:00:00.000Z",
     "post_id": "6aebb811022b8f16d7d712a9",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-02y-cours-01-amf",
@@ -2911,7 +2911,7 @@
     "due_at": "2026-11-08T12:00:00.000Z",
     "post_id": "6aecbf7ab09a1f8d3e28b087",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-03-concept-frais-ce-que-ta-banque-doit-te-montrer-avant-et-apres",
@@ -2920,7 +2920,7 @@
     "due_at": "2026-11-08T17:00:00.000Z",
     "post_id": "6aecbf7b7c2c23ac24c5a6cd",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-04-dark-pools-ou-s-echangent-les-ordres-qu-on-ne-voit-pas",
@@ -3009,6 +3009,33 @@
     "date_paris": "2026-11-12 09:00",
     "due_at": "2026-11-12T08:00:00.000Z",
     "post_id": "6af0ba0d9214322f686b96d1",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-09y-cours-05-passeport",
+    "service": "tiktok",
+    "date_paris": "2026-11-12 13:00",
+    "due_at": "2026-11-12T12:00:00.000Z",
+    "post_id": "6af2285f6802357334ad2ffa",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-14c-10-bon-de-souscription-le-droit-d-acheter-plus-tard",
+    "service": "tiktok",
+    "date_paris": "2026-11-12 18:00",
+    "due_at": "2026-11-12T17:00:00.000Z",
+    "post_id": "6af228606802357334ad3046",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-27-01-btf-oat-oati-qui-gere-la-dette-de-l-etat",
+    "service": "tiktok",
+    "date_paris": "2026-11-13 09:00",
+    "due_at": "2026-11-13T08:00:00.000Z",
+    "post_id": "6af228601061607e3be5ba3c",
     "relais": [],
     "nettoye": false
   }
