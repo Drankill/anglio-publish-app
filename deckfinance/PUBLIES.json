@@ -2947,7 +2947,7 @@
     "due_at": "2026-11-09T17:00:00.000Z",
     "post_id": "6aee06c1af7e526d43cb906c",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-06-assurance-vie-au-deces-et-en-rente-qui-paie-quoi",
@@ -3054,6 +3054,15 @@
     "date_paris": "2026-11-13 18:00",
     "due_at": "2026-11-13T17:00:00.000Z",
     "post_id": "6af33509e9e4a87f7b4b4f99",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-27-02z-conseils-jour-j",
+    "service": "tiktok",
+    "date_paris": "2026-11-14 09:00",
+    "due_at": "2026-11-14T08:00:00.000Z",
+    "post_id": "6af38c2322c9a6c17d4a27d5",
     "relais": [],
     "nettoye": false
   }
