@@ -2929,7 +2929,7 @@
     "due_at": "2026-11-09T08:00:00.000Z",
     "post_id": "6aecbf7bb943974e73159340",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-04y-cours-02-acpr",
@@ -2938,7 +2938,7 @@
     "due_at": "2026-11-09T12:00:00.000Z",
     "post_id": "6aee06c1af7e526d43cb9044",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-05-crypto-et-blanchiment-l-anonymat-ne-passe-plus",
@@ -3036,6 +3036,24 @@
     "date_paris": "2026-11-13 09:00",
     "due_at": "2026-11-13T08:00:00.000Z",
     "post_id": "6af228601061607e3be5ba3c",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-27-01y-cours-06-mif2",
+    "service": "tiktok",
+    "date_paris": "2026-11-13 13:00",
+    "due_at": "2026-11-13T12:00:00.000Z",
+    "post_id": "6af335082d2fdb3b7de32119",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-27-02-compte-a-terme-bloque-mais-pas-fige",
+    "service": "tiktok",
+    "date_paris": "2026-11-13 18:00",
+    "due_at": "2026-11-13T17:00:00.000Z",
+    "post_id": "6af33509e9e4a87f7b4b4f99",
     "relais": [],
     "nettoye": false
   }
