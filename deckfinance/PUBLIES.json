@@ -2956,7 +2956,7 @@
     "due_at": "2026-11-10T08:00:00.000Z",
     "post_id": "6aee6378a7751de7c9b3d75e",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-06y-cours-03-esma",
@@ -3063,6 +3063,15 @@
     "date_paris": "2026-11-14 09:00",
     "due_at": "2026-11-14T08:00:00.000Z",
     "post_id": "6af38c2322c9a6c17d4a27d5",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-27-02zy-cours-07-associations",
+    "service": "tiktok",
+    "date_paris": "2026-11-14 13:00",
+    "due_at": "2026-11-14T12:00:00.000Z",
+    "post_id": "6af4515a8bcfab418ea2ace8",
     "relais": [],
     "nettoye": false
   }
