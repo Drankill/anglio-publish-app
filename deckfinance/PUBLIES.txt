@@ -192,5 +192,6 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-14 13:00  tiktok     programme  2026-10-27-02zy-cours-07-associations
 2026-11-14 18:00  tiktok     programme  2026-10-27-03-concept-rendement-brut-net-d-impot-ou-reel-lequel-tu-gardes
 2026-11-15 09:00  tiktok     programme  2026-10-27-04-actions-de-preference-et-engagement-actionnarial
+2026-11-15 13:00  tiktok     programme  2026-10-27-04y-cours-08-deontologie
 
-190 post(s), 190 carrousel(s).
+191 post(s), 191 carrousel(s).

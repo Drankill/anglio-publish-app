@@ -2983,7 +2983,7 @@
     "due_at": "2026-11-11T08:00:00.000Z",
     "post_id": "6aef7e24229bf05daf6df726",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-07zy-cours-04-psi",
@@ -3090,6 +3090,15 @@
     "date_paris": "2026-11-15 09:00",
     "due_at": "2026-11-15T08:00:00.000Z",
     "post_id": "6af4c79eee6fced9f5478f09",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-27-04y-cours-08-deontologie",
+    "service": "tiktok",
+    "date_paris": "2026-11-15 13:00",
+    "due_at": "2026-11-15T12:00:00.000Z",
+    "post_id": "6af5a89b09e869a662dd110d",
     "relais": [],
     "nettoye": false
   }
