@@ -196,5 +196,7 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-15 18:00  tiktok     programme  2026-10-27-05-union-bancaire-eurosysteme-qui-fait-quoi-en-europe
 2026-11-16 09:00  tiktok     programme  2026-10-27-06-combien-de-temps-conserver-trois-durees-a-connaitre
 2026-11-16 13:00  tiktok     programme  2026-10-27-06y-cours-09-conflits-interets
+2026-11-16 18:00  tiktok     programme  2026-10-27-07-iobsp-cgpi-orias-qui-a-quel-statut
+2026-11-17 09:00  tiktok     programme  2026-10-27-07z-conseils-erreurs-permises
 
-194 post(s), 194 carrousel(s).
+196 post(s), 196 carrousel(s).

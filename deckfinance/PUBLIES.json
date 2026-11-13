@@ -3019,7 +3019,7 @@
     "due_at": "2026-11-12T12:00:00.000Z",
     "post_id": "6af2285f6802357334ad2ffa",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-10-bon-de-souscription-le-droit-d-acheter-plus-tard",
@@ -3028,7 +3028,7 @@
     "due_at": "2026-11-12T17:00:00.000Z",
     "post_id": "6af228606802357334ad3046",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-01-btf-oat-oati-qui-gere-la-dette-de-l-etat",
@@ -3126,6 +3126,24 @@
     "date_paris": "2026-11-16 13:00",
     "due_at": "2026-11-16T12:00:00.000Z",
     "post_id": "6af6f65fd414da1f7da04720",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-27-07-iobsp-cgpi-orias-qui-a-quel-statut",
+    "service": "tiktok",
+    "date_paris": "2026-11-16 18:00",
+    "due_at": "2026-11-16T17:00:00.000Z",
+    "post_id": "6af76d524b28296eb110fc79",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-27-07z-conseils-erreurs-permises",
+    "service": "tiktok",
+    "date_paris": "2026-11-17 09:00",
+    "due_at": "2026-11-17T08:00:00.000Z",
+    "post_id": "6af76d52bb36d00909c5b956",
     "relais": [],
     "nettoye": false
   }
