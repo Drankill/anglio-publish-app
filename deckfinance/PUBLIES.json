@@ -3010,7 +3010,7 @@
     "due_at": "2026-11-12T08:00:00.000Z",
     "post_id": "6af0ba0d9214322f686b96d1",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-14c-09y-cours-05-passeport",
@@ -3117,6 +3117,15 @@
     "date_paris": "2026-11-16 09:00",
     "due_at": "2026-11-16T08:00:00.000Z",
     "post_id": "6af62181a01fb6efee480992",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-27-06y-cours-09-conflits-interets",
+    "service": "tiktok",
+    "date_paris": "2026-11-16 13:00",
+    "due_at": "2026-11-16T12:00:00.000Z",
+    "post_id": "6af6f65fd414da1f7da04720",
     "relais": [],
     "nettoye": false
   }
