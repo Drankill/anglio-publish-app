@@ -198,5 +198,6 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-16 13:00  tiktok     programme  2026-10-27-06y-cours-09-conflits-interets
 2026-11-16 18:00  tiktok     programme  2026-10-27-07-iobsp-cgpi-orias-qui-a-quel-statut
 2026-11-17 09:00  tiktok     programme  2026-10-27-07z-conseils-erreurs-permises
+2026-11-17 13:00  tiktok     programme  2026-10-27-07zy-cours-10-rcci
 
-196 post(s), 196 carrousel(s).
+197 post(s), 197 carrousel(s).

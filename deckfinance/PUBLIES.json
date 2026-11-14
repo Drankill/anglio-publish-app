@@ -3037,7 +3037,7 @@
     "due_at": "2026-11-13T08:00:00.000Z",
     "post_id": "6af228601061607e3be5ba3c",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-01y-cours-06-mif2",
@@ -3144,6 +3144,15 @@
     "date_paris": "2026-11-17 09:00",
     "due_at": "2026-11-17T08:00:00.000Z",
     "post_id": "6af76d52bb36d00909c5b956",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-10-27-07zy-cours-10-rcci",
+    "service": "tiktok",
+    "date_paris": "2026-11-17 13:00",
+    "due_at": "2026-11-17T12:00:00.000Z",
+    "post_id": "6af83ec4bb36d0090904e9bd",
     "relais": [],
     "nettoye": false
   }
