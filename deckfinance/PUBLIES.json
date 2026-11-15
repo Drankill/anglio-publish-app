@@ -3082,7 +3082,7 @@
     "due_at": "2026-11-14T17:00:00.000Z",
     "post_id": "6af4c79db933477d281e30cc",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-04-actions-de-preference-et-engagement-actionnarial",
@@ -3189,6 +3189,15 @@
     "date_paris": "2026-11-18 18:00",
     "due_at": "2026-11-18T17:00:00.000Z",
     "post_id": "6af9dfbf4f0276ab944c3f23",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-01-obligation-nominal-prime-d-emission-ou-de-remboursement",
+    "service": "tiktok",
+    "date_paris": "2026-11-19 09:00",
+    "due_at": "2026-11-19T08:00:00.000Z",
+    "post_id": "6afa3c2da869c35e5ba1e7ce",
     "relais": [],
     "nettoye": false
   }
