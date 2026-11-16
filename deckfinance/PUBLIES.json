@@ -3091,7 +3091,7 @@
     "due_at": "2026-11-15T08:00:00.000Z",
     "post_id": "6af4c79eee6fced9f5478f09",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-04y-cours-08-deontologie",
@@ -3100,7 +3100,7 @@
     "due_at": "2026-11-15T12:00:00.000Z",
     "post_id": "6af5a89b09e869a662dd110d",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-05-union-bancaire-eurosysteme-qui-fait-quoi-en-europe",
@@ -3109,7 +3109,7 @@
     "due_at": "2026-11-15T17:00:00.000Z",
     "post_id": "6af621808a13f5efaaf94d6e",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-06-combien-de-temps-conserver-trois-durees-a-connaitre",
@@ -3198,6 +3198,33 @@
     "date_paris": "2026-11-19 09:00",
     "due_at": "2026-11-19T08:00:00.000Z",
     "post_id": "6afa3c2da869c35e5ba1e7ce",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-01y-cours-12-reclamations",
+    "service": "tiktok",
+    "date_paris": "2026-11-19 13:00",
+    "due_at": "2026-11-19T12:00:00.000Z",
+    "post_id": "6afb5f073e6202be8784e152",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-02-blanchiment-delit-aggrave-ou-abus-de-confiance",
+    "service": "tiktok",
+    "date_paris": "2026-11-19 18:00",
+    "due_at": "2026-11-19T17:00:00.000Z",
+    "post_id": "6afb5f08710e22a9c7b7a21e",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-02z-conseils-temps",
+    "service": "tiktok",
+    "date_paris": "2026-11-20 09:00",
+    "due_at": "2026-11-20T08:00:00.000Z",
+    "post_id": "6afb5f093e6202be8784e1c4",
     "relais": [],
     "nettoye": false
   }

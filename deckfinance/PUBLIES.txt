@@ -204,5 +204,8 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-18 13:00  tiktok     programme  2026-10-27-09y-cours-11-cadeaux
 2026-11-18 18:00  tiktok     programme  2026-10-27-10-capitalisation-boursiere-capital-social-rendement-beneficiaire
 2026-11-19 09:00  tiktok     programme  2026-11-01-01-obligation-nominal-prime-d-emission-ou-de-remboursement
+2026-11-19 13:00  tiktok     programme  2026-11-01-01y-cours-12-reclamations
+2026-11-19 18:00  tiktok     programme  2026-11-01-02-blanchiment-delit-aggrave-ou-abus-de-confiance
+2026-11-20 09:00  tiktok     programme  2026-11-01-02z-conseils-temps
 
-202 post(s), 202 carrousel(s).
+205 post(s), 205 carrousel(s).
