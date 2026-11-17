@@ -3118,7 +3118,7 @@
     "due_at": "2026-11-16T08:00:00.000Z",
     "post_id": "6af62181a01fb6efee480992",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-06y-cours-09-conflits-interets",
@@ -3127,7 +3127,7 @@
     "due_at": "2026-11-16T12:00:00.000Z",
     "post_id": "6af6f65fd414da1f7da04720",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-07-iobsp-cgpi-orias-qui-a-quel-statut",
@@ -3225,6 +3225,24 @@
     "date_paris": "2026-11-20 09:00",
     "due_at": "2026-11-20T08:00:00.000Z",
     "post_id": "6afb5f093e6202be8784e1c4",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-02zy-cours-13-lcb-ft",
+    "service": "tiktok",
+    "date_paris": "2026-11-20 13:00",
+    "due_at": "2026-11-20T12:00:00.000Z",
+    "post_id": "6afc8102a166de7b3ec007d1",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-03-concept-connaissance-client-ce-que-ta-banque-doit-savoir-de-toi",
+    "service": "tiktok",
+    "date_paris": "2026-11-20 18:00",
+    "due_at": "2026-11-20T17:00:00.000Z",
+    "post_id": "6afc81027a7b613f168e43b3",
     "relais": [],
     "nettoye": false
   }
