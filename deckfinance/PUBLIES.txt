@@ -209,5 +209,6 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-20 09:00  tiktok     programme  2026-11-01-02z-conseils-temps
 2026-11-20 13:00  tiktok     programme  2026-11-01-02zy-cours-13-lcb-ft
 2026-11-20 18:00  tiktok     programme  2026-11-01-03-concept-connaissance-client-ce-que-ta-banque-doit-savoir-de-toi
+2026-11-21 09:00  tiktok     programme  2026-11-01-04-sa-snc-holding-qui-paie-l-impot-sur-les-societes
 
-207 post(s), 207 carrousel(s).
+208 post(s), 208 carrousel(s).
