@@ -3145,7 +3145,7 @@
     "due_at": "2026-11-17T08:00:00.000Z",
     "post_id": "6af76d52bb36d00909c5b956",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-07zy-cours-10-rcci",
@@ -3154,7 +3154,7 @@
     "due_at": "2026-11-17T12:00:00.000Z",
     "post_id": "6af83ec4bb36d0090904e9bd",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-08-concept-dividende-rendement-ou-taux-de-distribution-deux-ratios",
@@ -3252,6 +3252,24 @@
     "date_paris": "2026-11-21 09:00",
     "due_at": "2026-11-21T08:00:00.000Z",
     "post_id": "6afcfd469f3765f6ab212d89",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-04y-cours-14-vigilance-client",
+    "service": "tiktok",
+    "date_paris": "2026-11-21 13:00",
+    "due_at": "2026-11-21T12:00:00.000Z",
+    "post_id": "6afd97363cc95fb47ced10e7",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-05-execution-simple-quand-la-banque-ne-teste-rien",
+    "service": "tiktok",
+    "date_paris": "2026-11-21 18:00",
+    "due_at": "2026-11-21T17:00:00.000Z",
+    "post_id": "6afd9737771ad9d67627ed35",
     "relais": [],
     "nettoye": false
   }

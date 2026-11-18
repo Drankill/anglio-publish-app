@@ -210,5 +210,7 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-20 13:00  tiktok     programme  2026-11-01-02zy-cours-13-lcb-ft
 2026-11-20 18:00  tiktok     programme  2026-11-01-03-concept-connaissance-client-ce-que-ta-banque-doit-savoir-de-toi
 2026-11-21 09:00  tiktok     programme  2026-11-01-04-sa-snc-holding-qui-paie-l-impot-sur-les-societes
+2026-11-21 13:00  tiktok     programme  2026-11-01-04y-cours-14-vigilance-client
+2026-11-21 18:00  tiktok     programme  2026-11-01-05-execution-simple-quand-la-banque-ne-teste-rien
 
-208 post(s), 208 carrousel(s).
+210 post(s), 210 carrousel(s).
