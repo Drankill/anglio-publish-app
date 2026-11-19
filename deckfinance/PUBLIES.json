@@ -3172,7 +3172,7 @@
     "due_at": "2026-11-18T08:00:00.000Z",
     "post_id": "6af8a8bae5a113497a9f1fa4",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-09y-cours-11-cadeaux",
@@ -3181,7 +3181,7 @@
     "due_at": "2026-11-18T12:00:00.000Z",
     "post_id": "6af9dfbee5a113497afc8dfa",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-10-27-10-capitalisation-boursiere-capital-social-rendement-beneficiaire",
@@ -3279,6 +3279,24 @@
     "date_paris": "2026-11-22 09:00",
     "due_at": "2026-11-22T08:00:00.000Z",
     "post_id": "6afe108b0d8c064ce4d5c84e",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-06y-cours-15-tracfin",
+    "service": "tiktok",
+    "date_paris": "2026-11-22 13:00",
+    "due_at": "2026-11-22T12:00:00.000Z",
+    "post_id": "6afee751108d769bdfcf6260",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-07-ifi-qui-le-paie-et-sur-quels-biens",
+    "service": "tiktok",
+    "date_paris": "2026-11-22 18:00",
+    "due_at": "2026-11-22T17:00:00.000Z",
+    "post_id": "6afee751d345127bae15e8b6",
     "relais": [],
     "nettoye": false
   }
