@@ -3217,7 +3217,7 @@
     "due_at": "2026-11-19T17:00:00.000Z",
     "post_id": "6afb5f08710e22a9c7b7a21e",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-02z-conseils-temps",
@@ -3324,6 +3324,15 @@
     "date_paris": "2026-11-23 18:00",
     "due_at": "2026-11-23T17:00:00.000Z",
     "post_id": "6b003955fc5b97f0f802fcba",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-10-ttf-et-moins-values-ce-que-la-bourse-coute-en-impots",
+    "service": "tiktok",
+    "date_paris": "2026-11-24 09:00",
+    "due_at": "2026-11-24T08:00:00.000Z",
+    "post_id": "6b00b13a6f199ec35b7eb694",
     "relais": [],
     "nettoye": false
   }
