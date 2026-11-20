@@ -3199,7 +3199,7 @@
     "due_at": "2026-11-19T08:00:00.000Z",
     "post_id": "6afa3c2da869c35e5ba1e7ce",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-01y-cours-12-reclamations",
@@ -3208,7 +3208,7 @@
     "due_at": "2026-11-19T12:00:00.000Z",
     "post_id": "6afb5f073e6202be8784e152",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-02-blanchiment-delit-aggrave-ou-abus-de-confiance",
@@ -3306,6 +3306,24 @@
     "date_paris": "2026-11-23 09:00",
     "due_at": "2026-11-23T08:00:00.000Z",
     "post_id": "6aff63318ec824f4cebe0705",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-08y-cours-16-sapin2",
+    "service": "tiktok",
+    "date_paris": "2026-11-23 13:00",
+    "due_at": "2026-11-23T12:00:00.000Z",
+    "post_id": "6b0039547efc64d5e41876e7",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-01-09-swift-bic-target-2-les-tuyaux-des-paiements",
+    "service": "tiktok",
+    "date_paris": "2026-11-23 18:00",
+    "due_at": "2026-11-23T17:00:00.000Z",
+    "post_id": "6b003955fc5b97f0f802fcba",
     "relais": [],
     "nettoye": false
   }
