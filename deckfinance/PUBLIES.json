@@ -3226,7 +3226,7 @@
     "due_at": "2026-11-20T08:00:00.000Z",
     "post_id": "6afb5f093e6202be8784e1c4",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-02zy-cours-13-lcb-ft",
@@ -3333,6 +3333,15 @@
     "date_paris": "2026-11-24 09:00",
     "due_at": "2026-11-24T08:00:00.000Z",
     "post_id": "6b00b13a6f199ec35b7eb694",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-01-cours-17-gel-des-avoirs",
+    "service": "tiktok",
+    "date_paris": "2026-11-24 13:00",
+    "due_at": "2026-11-24T12:00:00.000Z",
+    "post_id": "6b018512943aa0abf4535eb8",
     "relais": [],
     "nettoye": false
   }
