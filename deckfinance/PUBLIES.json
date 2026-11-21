@@ -3235,7 +3235,7 @@
     "due_at": "2026-11-20T12:00:00.000Z",
     "post_id": "6afc8102a166de7b3ec007d1",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-03-concept-connaissance-client-ce-que-ta-banque-doit-savoir-de-toi",
@@ -3244,7 +3244,7 @@
     "due_at": "2026-11-20T17:00:00.000Z",
     "post_id": "6afc81027a7b613f168e43b3",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-04-sa-snc-holding-qui-paie-l-impot-sur-les-societes",
@@ -3342,6 +3342,24 @@
     "date_paris": "2026-11-24 13:00",
     "due_at": "2026-11-24T12:00:00.000Z",
     "post_id": "6b018512943aa0abf4535eb8",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-02-risque-de-change",
+    "service": "tiktok",
+    "date_paris": "2026-11-24 18:00",
+    "due_at": "2026-11-24T17:00:00.000Z",
+    "post_id": "6b01f599846b0ee907336251",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-03-transparence-carnet-d-ordres",
+    "service": "tiktok",
+    "date_paris": "2026-11-25 09:00",
+    "due_at": "2026-11-25T08:00:00.000Z",
+    "post_id": "6b01f599d5eabfb8cc580ed3",
     "relais": [],
     "nettoye": false
   }

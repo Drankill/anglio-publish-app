@@ -220,5 +220,7 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-23 18:00  tiktok     programme  2026-11-01-09-swift-bic-target-2-les-tuyaux-des-paiements
 2026-11-24 09:00  tiktok     programme  2026-11-01-10-ttf-et-moins-values-ce-que-la-bourse-coute-en-impots
 2026-11-24 13:00  tiktok     programme  2026-11-05-01-cours-17-gel-des-avoirs
+2026-11-24 18:00  tiktok     programme  2026-11-05-02-risque-de-change
+2026-11-25 09:00  tiktok     programme  2026-11-05-03-transparence-carnet-d-ordres
 
-218 post(s), 218 carrousel(s).
+220 post(s), 220 carrousel(s).
