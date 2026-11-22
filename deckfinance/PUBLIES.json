@@ -3253,7 +3253,7 @@
     "due_at": "2026-11-21T08:00:00.000Z",
     "post_id": "6afcfd469f3765f6ab212d89",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-04y-cours-14-vigilance-client",
@@ -3262,7 +3262,7 @@
     "due_at": "2026-11-21T12:00:00.000Z",
     "post_id": "6afd97363cc95fb47ced10e7",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-05-execution-simple-quand-la-banque-ne-teste-rien",
@@ -3360,6 +3360,15 @@
     "date_paris": "2026-11-25 09:00",
     "due_at": "2026-11-25T08:00:00.000Z",
     "post_id": "6b01f599d5eabfb8cc580ed3",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-04-cours-18-information-privilegiee",
+    "service": "tiktok",
+    "date_paris": "2026-11-25 13:00",
+    "due_at": "2026-11-25T12:00:00.000Z",
+    "post_id": "6b02d948846b0ee90781784a",
     "relais": [],
     "nettoye": false
   }
