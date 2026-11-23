@@ -3280,7 +3280,7 @@
     "due_at": "2026-11-22T08:00:00.000Z",
     "post_id": "6afe108b0d8c064ce4d5c84e",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-06y-cours-15-tracfin",
@@ -3289,7 +3289,7 @@
     "due_at": "2026-11-22T12:00:00.000Z",
     "post_id": "6afee751108d769bdfcf6260",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-07-ifi-qui-le-paie-et-sur-quels-biens",
@@ -3387,6 +3387,24 @@
     "date_paris": "2026-11-26 09:00",
     "due_at": "2026-11-26T08:00:00.000Z",
     "post_id": "6b034983d5eabfb8ccd5fed4",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-07-cours-19-operation-initie",
+    "service": "tiktok",
+    "date_paris": "2026-11-26 13:00",
+    "due_at": "2026-11-26T12:00:00.000Z",
+    "post_id": "6b044282ab9184f298a5e78a",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-08-amc-instruments-complexes",
+    "service": "tiktok",
+    "date_paris": "2026-11-26 18:00",
+    "due_at": "2026-11-26T17:00:00.000Z",
+    "post_id": "6b044282b94e468a6da5ea4c",
     "relais": [],
     "nettoye": false
   }
