@@ -3307,7 +3307,7 @@
     "due_at": "2026-11-23T08:00:00.000Z",
     "post_id": "6aff63318ec824f4cebe0705",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-08y-cours-16-sapin2",
@@ -3316,7 +3316,7 @@
     "due_at": "2026-11-23T12:00:00.000Z",
     "post_id": "6b0039547efc64d5e41876e7",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-09-swift-bic-target-2-les-tuyaux-des-paiements",
@@ -3414,6 +3414,24 @@
     "date_paris": "2026-11-27 09:00",
     "due_at": "2026-11-27T08:00:00.000Z",
     "post_id": "6b04f815bc151fa8ad183c1d",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-10-cours-20-manipulation-de-cours",
+    "service": "tiktok",
+    "date_paris": "2026-11-27 13:00",
+    "due_at": "2026-11-27T12:00:00.000Z",
+    "post_id": "6b059cb6f0ca06e8a8fcd30c",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-11-appel-de-marge",
+    "service": "tiktok",
+    "date_paris": "2026-11-27 18:00",
+    "due_at": "2026-11-27T17:00:00.000Z",
+    "post_id": "6b059cb704012648fc6bf87a",
     "relais": [],
     "nettoye": false
   }
