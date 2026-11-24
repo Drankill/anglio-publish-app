@@ -227,5 +227,6 @@ Une ligne par post. Programme = dans la file Buffer, part tout seul a l'heure di
 2026-11-26 09:00  tiktok     programme  2026-11-05-06-valeur-ajoutee-ebe-caf
 2026-11-26 13:00  tiktok     programme  2026-11-05-07-cours-19-operation-initie
 2026-11-26 18:00  tiktok     programme  2026-11-05-08-amc-instruments-complexes
+2026-11-27 09:00  tiktok     programme  2026-11-05-09-obligation-in-fine
 
-225 post(s), 225 carrousel(s).
+226 post(s), 226 carrousel(s).
