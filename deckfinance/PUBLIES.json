@@ -3325,7 +3325,7 @@
     "due_at": "2026-11-23T17:00:00.000Z",
     "post_id": "6b003955fc5b97f0f802fcba",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-01-10-ttf-et-moins-values-ce-que-la-bourse-coute-en-impots",
@@ -3432,6 +3432,15 @@
     "date_paris": "2026-11-27 18:00",
     "due_at": "2026-11-27T17:00:00.000Z",
     "post_id": "6b059cb704012648fc6bf87a",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-12-peac",
+    "service": "tiktok",
+    "date_paris": "2026-11-28 09:00",
+    "due_at": "2026-11-28T08:00:00.000Z",
+    "post_id": "6b0626f09192919413269de8",
     "relais": [],
     "nettoye": false
   }
