@@ -3343,7 +3343,7 @@
     "due_at": "2026-11-24T12:00:00.000Z",
     "post_id": "6b018512943aa0abf4535eb8",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-05-02-risque-de-change",
@@ -3352,7 +3352,7 @@
     "due_at": "2026-11-24T17:00:00.000Z",
     "post_id": "6b01f599846b0ee907336251",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-05-03-transparence-carnet-d-ordres",
@@ -3450,6 +3450,24 @@
     "date_paris": "2026-11-28 13:00",
     "due_at": "2026-11-28T12:00:00.000Z",
     "post_id": "6b06a6870babbb7dab4cb444",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-14-document-enregistrement-universel",
+    "service": "tiktok",
+    "date_paris": "2026-11-28 18:00",
+    "due_at": "2026-11-28T17:00:00.000Z",
+    "post_id": "6b0738beebbe940776ad06d1",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-15-greenwashing",
+    "service": "tiktok",
+    "date_paris": "2026-11-29 09:00",
+    "due_at": "2026-11-29T08:00:00.000Z",
+    "post_id": "6b0738bf26006f0325dca11b",
     "relais": [],
     "nettoye": false
   }
