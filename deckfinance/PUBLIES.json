@@ -3334,7 +3334,7 @@
     "due_at": "2026-11-24T08:00:00.000Z",
     "post_id": "6b00b13a6f199ec35b7eb694",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-05-01-cours-17-gel-des-avoirs",
@@ -3441,6 +3441,15 @@
     "date_paris": "2026-11-28 09:00",
     "due_at": "2026-11-28T08:00:00.000Z",
     "post_id": "6b0626f09192919413269de8",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-13-cours-21-reglement-mar",
+    "service": "tiktok",
+    "date_paris": "2026-11-28 13:00",
+    "due_at": "2026-11-28T12:00:00.000Z",
+    "post_id": "6b06a6870babbb7dab4cb444",
     "relais": [],
     "nettoye": false
   }
