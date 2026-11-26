@@ -3361,7 +3361,7 @@
     "due_at": "2026-11-25T08:00:00.000Z",
     "post_id": "6b01f599d5eabfb8cc580ed3",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-05-04-cours-18-information-privilegiee",
@@ -3370,7 +3370,7 @@
     "due_at": "2026-11-25T12:00:00.000Z",
     "post_id": "6b02d948846b0ee90781784a",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-05-05-notation-extra-financiere",
@@ -3379,7 +3379,7 @@
     "due_at": "2026-11-25T17:00:00.000Z",
     "post_id": "6b034982d5eabfb8ccd5fea6",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-05-06-valeur-ajoutee-ebe-caf",
@@ -3468,6 +3468,15 @@
     "date_paris": "2026-11-29 09:00",
     "due_at": "2026-11-29T08:00:00.000Z",
     "post_id": "6b0738bf26006f0325dca11b",
+    "relais": [],
+    "nettoye": false
+  },
+  {
+    "dossier": "2026-11-05-16-commission-de-surperformance",
+    "service": "tiktok",
+    "date_paris": "2026-11-29 13:00",
+    "due_at": "2026-11-29T12:00:00.000Z",
+    "post_id": "6b086a7cce64081689da1004",
     "relais": [],
     "nettoye": false
   }
