@@ -3406,7 +3406,7 @@
     "due_at": "2026-11-26T17:00:00.000Z",
     "post_id": "6b044282b94e468a6da5ea4c",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-05-09-obligation-in-fine",
