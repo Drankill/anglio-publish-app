@@ -3388,7 +3388,7 @@
     "due_at": "2026-11-26T08:00:00.000Z",
     "post_id": "6b034983d5eabfb8ccd5fed4",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-05-07-cours-19-operation-initie",
@@ -3397,7 +3397,7 @@
     "due_at": "2026-11-26T12:00:00.000Z",
     "post_id": "6b044282ab9184f298a5e78a",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-05-08-amc-instruments-complexes",
