@@ -3415,7 +3415,7 @@
     "due_at": "2026-11-27T08:00:00.000Z",
     "post_id": "6b04f815bc151fa8ad183c1d",
     "relais": [],
-    "nettoye": false
+    "nettoye": true
   },
   {
     "dossier": "2026-11-05-10-cours-20-manipulation-de-cours",
